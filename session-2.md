@@ -123,7 +123,7 @@ Orik az asztalhoz lépve még alatta is talál papírokat. Az egyik egy levél, 
 
 > *Te hitvány törp!*
 >
-> *Amit ezzel a karnevállal művelsz, az sértés a sárkányokra nézve.*
+> *Amit ezzel a karnevállal művelsz, az sértés a sárkányokra nézve.*  
 > *Ha nem szünteted be, komoly következményei lesznek.*
 >
 > *A sárkányszekta*
