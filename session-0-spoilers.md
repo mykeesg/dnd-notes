@@ -59,7 +59,7 @@ Elővesz egy kis ládikót, egy kézben megfogható.
 
 Beleegyezünk. Rorrnál a ládikó.
 
-*`"Nem kell kinyitni. Csupán adjátok át a ládikát Halliah Tortonnak Phandalinban. Az említett koponya (bár nem volt olyan formás, mint a tied) valóban átment a kezeim között. Egy csapat zsoldos bandita hozta be megőrzésre, pár napig, de ez már sok hete volt. Egy durva modorú hobgoblin vitte el. A nevét nem tudom.."`*
+*`"Nem kell kinyitni. Csupán adjátok át a ládikát Halia Thornton-nak Phandalinban. Az említett koponya (bár nem volt olyan formás, mint a tied) valóban átment a kezeim között. Egy csapat zsoldos bandita hozta be megőrzésre, pár napig, de ez már sok hete volt. Egy durva modorú hobgoblin vitte el. A nevét nem tudom.."`*
 
 Elkezd körbe sétálni, gyertyákat gyújtani. Nana is kérdez az eladrinokról, de közben újra elalszunk..
 

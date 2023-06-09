@@ -76,7 +76,7 @@ Orik megpróbálja vigasztalni a kislányt, egy bűvölt érmét nyújt át neki
 
 Kifelé menet még több embert látunk a karneválon körbe. *`"Kötelességemnek éreztem, hogy tájékoztassalak: a korábban nektek adott csecse-becsék nem öröklétűek, a neked ajándékozott érme effektjét meg kellett szűntessem, hogy a kislányt felvidítsam."`* - mondja Orik Ashnek. *`"Ez jól elköltött pénz volt"`* - jelzi Ash, és visszaadja az üres copper érmét.
 
-A következő sátor fölött **'Tree Draka rejtvényei'** felirat van, bekukkantunk oda is. Belépve oda két dolgot tapasztalunk: a beltér tágasabb, mint kívülről tűnt, illetve a benti csendbe nem hallatszik be semmi kintről. Félhomály van a sátorban, hold, csillag, sárkány rúnák világítanak a falakon. Középen egy pici asztal, mögötte egy pici csuklyás alak ül, invitál minket. Két fejtörőt kínál, darabját 5 ezüstért. Ash egyből befizet, bízik bennünk. Orik még 5 ezüstöt nyújt oda - *`"Mind a két rejtvénnyel megpróbálkoznánk."`*
+A következő sátor fölött **'Tridraka rejtvényei'** felirat van, bekukkantunk oda is. Belépve oda két dolgot tapasztalunk: a beltér tágasabb, mint kívülről tűnt, illetve a benti csendbe nem hallatszik be semmi kintről. Félhomály van a sátorban, hold, csillag, sárkány rúnák világítanak a falakon. Középen egy pici asztal, mögötte egy pici csuklyás alak ül, invitál minket. Két fejtörőt kínál, darabját 5 ezüstért. Ash egyből befizet, bízik bennünk. Orik még 5 ezüstöt nyújt oda - *`"Mind a két rejtvénnyel megpróbálkoznánk."`*
 
 *`"Az első rejtvény így szól:"`* - mondja a csuklyás alak.
 
