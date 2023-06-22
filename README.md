@@ -17,3 +17,4 @@
 - [Session 1](./session-1.md)
 - [Session 2](./session-2.md)
 - [Session 3](./session-3.md)
+- [Session 4](./session-4.md)

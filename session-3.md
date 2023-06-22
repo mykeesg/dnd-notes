@@ -115,7 +115,7 @@ A beváltó pultnál az asztal alól egy nagyon jól öltözött goblin mászik 
 
 > - 50 🎫 mű sárkányszárny, hátra felvehető  
 > - 50 🎫 kitűző - Dragonslayer felirattal  
-> - 50 🎫 faragott pipa buborékfúlyóval  
+> - 50 🎫 faragott pipa buborékfújóval  
 > - 80 🎫 papírsárkány, animált  
 > - 80 🎫 szépen faragott fakard  
 > - 120 🎫 hógömb jellegű, csak vízzel, és mechanikus aranyhal úszik benne  

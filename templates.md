@@ -36,3 +36,6 @@
   <summary>⚠ Spoiler ⚠</summary>
   {{spoileres szöveg}}
 </details>
+
+## Image
+![tooltip](./url)
