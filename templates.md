@@ -29,7 +29,7 @@
 
 ## Felirat
 
-**'Tree Draka rejtvényei'**
+**'Karneváli Sátor'**
 
 
 <details>

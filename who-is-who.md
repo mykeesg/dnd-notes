@@ -1,6 +1,3 @@
-Lady Tanamere Alagondar
+## Lady Tanamere Alagondar
 
-<details>
-  <summary>⚠ Spoiler ⚠</summary>
-  {{spoileres szöveg}}
-</details>
+Ide majd le kell írni
