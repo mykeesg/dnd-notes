@@ -142,6 +142,6 @@ Az előadás végén a taps és ujjongás közepette Bordaec is gratulál. *`"Tu
 
 Bordaec 5 korsó sört is hoz - megköszöni az előadást. Mindenki elveszi a sört - koccintunk egy nagyot. Ash szerez egy kupa bort Seranak (aki nem iszik sört), majd együtt átvonulunk a korábbi sátorba az eltűnt félelf/bárd sátrába.
 
-Az eltűnt bard kapcsán beszélgetünk egy kört. Rorr többször közbevág, de Orik rosszalló tekintetét látva inkább befogja. A hobgoblin részletesen ismerteti a látottakat: Bordaec szerint nincs miért aggódni, a fenyegető levél már napok óta itt van, de következménye úgysem lesz, a sárkányszekta csak pár csuhásból áll, nem mernek cselekedni, csak nagy a szájuk. A bardra utalva megjegyzi, hogy csak gyáva volt a félelf, azért futott el.
+Az eltűnt bard kapcsán beszélgetünk egy kört. Rorr többször közbevág, de Orik rosszalló tekintetét látva inkább befogja. A hobgoblin részletesen ismerteti a látottakat: Bordaec szerint nincs miért aggódni, a fenyegető levél már napok óta itt van, de következménye úgysem lesz, a sárkányszekta csak pár csuhásból áll, nem mernek cselekedni, csak nagy a szájuk. A bardra utalva megjegyzi, hogy csak gyáva volt a félelf, azért futott el. Bordaec visszamegy a helyére *`"Nincs fenyegetés, ez csak pár csuhás!"`* - felkiáltással.
 
 Sera kívül keres külsérelmi nyomokat. A száraz, poros talajban a sátor mögé tartó elegáns csizmatalp nyomait látja. Szól Oriknak, hogy vegye szemügyre azokat.

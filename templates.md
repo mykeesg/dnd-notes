@@ -30,3 +30,9 @@
 ## Felirat
 
 **'Tree Draka rejtvényei'**
+
+
+<details>
+  <summary>⚠ Spoiler ⚠</summary>
+  {{spoileres szöveg}}
+</details>
