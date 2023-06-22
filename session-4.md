@@ -53,7 +53,7 @@ A kürt megszólal, felbolydul a tömeg a fő attrakció kezdetének hallatán. 
 
 A rajtkürt megszólal - indulnak.
 
-![dragon race](./dragon_race.png)
+![dragon race](./images/dragon_race.png)
 
  - A human elkezdi a gyík oldalát rúgdosni, ezért nem túl lelkesen mozog.
  - Sera bokával próbálja indítani a saját jószágját, a gyeplőt is az ökrös irányításhoz hasonlóan rázva. Elég rosszul viseli az effajta noszogatást, ugrál alatta.
@@ -64,7 +64,7 @@ A rajtkürt megszólal - indulnak.
 
 Az első kör után az állás a következő:
 
-![dragon race round 1](./dragon_race_r1.png)
+![dragon race round 1](./images/dragon_race_r1.png)
 
  - A második körben a human magától hagyja a gyíkot mozogni.
  - Sera telepátiával próbálja a gyíkot motiválni: *`"Bármit ígértek neked vacsorára, megduplázom!"`* - melyre a gyík összeszedi magát, és felzárkózik a human mellé.
@@ -75,7 +75,7 @@ Az első kör után az állás a következő:
 
 A második kör után: 
 
-![dragon race round 2](./dragon_race_r2.png)
+![dragon race round 2](./images/dragon_race_r2.png)
 
 A dragonborn alatt a gyík elkezd vakarózni.
 
@@ -87,7 +87,7 @@ A dragonborn alatt a gyík elkezd vakarózni.
 
 A harmadik kör után: 
 
-![dragon race round 3](./dragon_race_r3.png)
+![dragon race round 3](./images/dragon_race_r3.png)
 
  - A human az állatára bízza.
  - Sera sem szól bele a tempóba.
@@ -99,7 +99,7 @@ A harmadik kör után:
 
 A negyedik kör után: 
 
-![dragon race round 4](./dragon_race_r4.png)
+![dragon race round 4](./images/dragon_race_r4.png)
 
  - A human erőteljes rugásokkal motiválja a hátast, de az nem veszi ezt jó néven, kicsit lassabban mozog.
  - Sera látva az Orikkal történeteket újra motiválja a jószágot, nyakát vakargatva - újra meglendül a hátas.
@@ -111,7 +111,7 @@ A negyedik kör után:
 
 Az ötödik kör után: 
 
-![dragon race round 5](./dragon_race_r5.png)
+![dragon race round 5](./images/dragon_race_r5.png)
 
  - A human idegesen bítatja a hátast, sikertelenül. Kezdi elveszíteni az uralmát a lény fölött.
  - Sera odamormolja: *`"Ritkán és keveseknek mondok ilyet, de megkedveltelek!"`*. Kissé dorombolva ennek hatására visszafelé hajol a gyík, ez eltereli a figyelmét.
@@ -121,7 +121,7 @@ Az ötödik kör után:
 
 A hatodik kör után: 
 
-![dragon race round 6](./dragon_race_r6.png)
+![dragon race round 6](./images/dragon_race_r6.png)
 
 (A két ork egy human férfit tessékel kifelé a tömegből, Ash követi őket.)
 
@@ -133,7 +133,7 @@ A hatodik kör után:
 
 A hetedik kör után: 
 
-![dragon race round 7](./dragon_race_r7.png)
+![dragon race round 7](./images/dragon_race_r7.png)
 
 (A human egy 50-es, tagbaszakadt, mocsok részeg úriember. *`"Én csak megetettem szegény állatot <hughkgk>..."`*. Ash még nem éri utol őket, de zárkózik fel, az őrök után szól: *`"Yorik már megint hülye voltál? Ne haragudjanak, bízzák csak rám, majd én elintézem!"`* - *`"Ki a tököm az a Yorik?"`* - kérdez vissza a részeg fickó. A két félork összenéz: *`"Na gyere velünk a bejárathoz, vigyed innen a haverodat!"`*)
 
@@ -147,7 +147,7 @@ A tömeg skandálni kezd: *`"Rubrum! Rubrum!"`*
  
 A nyolcadik/utolsó kör után: 
 
-![dragon race round 8](./dragon_race_r8.png)
+![dragon race round 8](./images/dragon_race_r8.png)
 
 A tömeg lélegzetvisszafojtva várja az eredményhirdetést, végül Orik hátasa szakítja át a célvonalat, pár cm-vel lemaradva érkezik Serafine, a human a harmadik, a dragonborn a negyedik helyen, végül Nana is bekocog. A tömeg hangja berobban az éljenzés keretében, skandálják Flavum nevét, aki körbesétál, ünnepeltetve magát. *`"Micsoda remek jószág, dicsőséges bestia!"`*
 
@@ -194,7 +194,7 @@ Beszélgetés közben feltűnik, hogy a bal karján mély és frissnek tűnő ha
 
 Orik egyet ért.
 
-![Dragon slaying](./dragon_slaying.png)
+![Dragon slaying](./images/dragon_slaying.png)
 
 *`"Lássuk, le tudjuk e győzni a sárkányt!"`* - Ash, és lebegő köpeny. Szórványos taps.
 

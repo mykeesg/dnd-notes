@@ -47,7 +47,7 @@ A füst a kártyás sátor felől jön - ami láthatóan gyorsan át fog terjedn
 
 Orik elindul az égő sátor felé - a többiek követik. A kardkihúzós sátor mellett köpenyes/maszkos figurák láthatóak, egyiknél fáklya a kézben. Ívelt pengéjű kardok vannak náluk, fekete sárkánymaszk fedi az arcukat - *`"A kurva anyátok..A jó kurva anyátok!"`* - kiabál a Bordaec.
 
-![fesztivál combat](./festival_combat.png)
+![fesztivál combat](./images/festival_combat.png)
 
 *`"Mi szóltunk, hogy ez egy gyalázat a sárkányokra nézve!"`* - szól az egyikük. 
 

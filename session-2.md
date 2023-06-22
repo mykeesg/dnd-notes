@@ -48,7 +48,7 @@ Kora délelőtt van, kifelé nem jön még senki, belül sincs nagy tömeg, de s
 
 *`"A legendának megfelelően Lady Alagondar emlékére vannak különféle játékok. Sárkánycsata, kard kihúzás a koponyából - ez még magának Sildarnak sem sikerült!"`* - jelzi Bordaec a kapunál, a benti programok kapcsán.
 
-![fesztivál térkép](./festival_overview.png)
+![fesztivál térkép](./images/festival_overview.png)
 
 Rorr a legelső sátorhoz lép - egyből mellettük - **'Sárkány chili evő verseny'** - *`"Na, ez nekem való!"`* - mondja, és belép, a többiek követik.
 
