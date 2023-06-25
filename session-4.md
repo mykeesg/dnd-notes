@@ -47,7 +47,7 @@ A kürt megszólal, felbolydul a tömeg a fő attrakció kezdetének hallatán. 
 * *`"Elsőként Rubrum! 🔴"`* - a human versenyzővel a hátán érkezik az első gyík.
 * *`"Kharuleum! 🔵"`* - Serafine is bekocog a rajtvonalhoz.
 * *`"Viridis! 🟢"`* -a dwarf is megjelenik a pálya széle mentén.
-* *`"Fuskus 🟤"`* - a dragonborn is rajtpozíciót vesz fel.
+* *`"Fuskus! 🟤"`* - a dragonborn is rajtpozíciót vesz fel.
 * *`"Purpura! 🟣"`* - Nana is csatlakozik a versenyzőkhöz.
 * *`"Flavum! 🟡"`* - zárja a sort Orik.
 
@@ -236,3 +236,7 @@ A maradék 35 🎫-t Orik elkéri, hogy a síró kislánynak adja (🎭 közben 
 
 *`"Elnézést, ne haragudjanak! Az útitársaimmal maradt egy kis ajándék 🎫, amit gondoltuk a kislánynak..ha esetleg szeretnének venni valamit..akkor szívesen..ha elfogadják..ajándékképpen..(engesztelésül)"`*.
 Az apuka beáll a kislány elé, az anyuka kissé tétován kinéz Nanára, majd elveszi a jegyeket, és megköszöni. Az apuka csak biccent, majd arrébbállnak. *`"Nem is zavarunk tovább!"`* - mondja Orik, majd visszalép az ajándékos sátorhoz. Letesz egy aranyat az asztalra, majd megkérdezi a goblint a saját nyelvükön: *`"Ez elég -e ahhoz, hogy bármilyen megmaradt ajándékra kipótolja őket?"`* - mutat a családra. Ránéz az aranyra, majd visszatolja, rázva fejét. Orik még egy aranyat tol felé, továbbra is rázva a fejét. Ash megjegyzi, hogy csak tokent fogadnak el, a goblin biccent. Orik udvariasságot erőltet az arcára: *`"Tiszteletre méltó a becsületességed"`* - majd goblinnyelven hozzáteszi: *`"használd a nagyfiús szavaidat"`*.
+
+~~~
+{🌟} +180 XP
+~~~

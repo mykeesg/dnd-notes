@@ -7,6 +7,7 @@
 ~~~
 {🌟} +10 XP
 {💤} long rest
+{🏆} level-up: #2
 ~~~
 
 ## Money
