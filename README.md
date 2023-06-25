@@ -18,3 +18,4 @@
 - [Session 2](./session-2.md)
 - [Session 3](./session-3.md)
 - [Session 4](./session-4.md)
+- [Session 5](./session-5.md)
