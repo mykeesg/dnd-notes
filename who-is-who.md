@@ -7,3 +7,8 @@ Ide majd le kell írni ki kicsoda, TL; DR-ben
 ## Lady Tanamere Alagondar
 
 ## Bordaec Coinbranch
+
+## Tiri
+
+## Borgork
+

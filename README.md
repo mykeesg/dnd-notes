@@ -4,9 +4,9 @@
 
 ## Tagok
 
- - Ashton Qu'ira
+ - [Ashton Qu'ira](https://www.dndbeyond.com/characters/98138580)
  - [Naivyre (Nana)](https://www.dndbeyond.com/characters/98299683)
- - Orik Spellweaver
+ - [Orik Spellweaver](https://www.dndbeyond.com/characters/98359595)
  - [Rorr Stronghand](https://www.dndbeyond.com/characters/98146623)
  - [Serafina Blackwood](https://www.dndbeyond.com/characters/98375846)
 
@@ -19,3 +19,5 @@
 - [Session 3](./session-3.md)
 - [Session 4](./session-4.md)
 - [Session 5](./session-5.md)
+- [Session 6](./session-6.md)
+- [Session 7](./session-7.md)
