@@ -304,7 +304,7 @@ Orik tovább mászik, majd hallja, hogy Rorr lebukott. Orik felsiet, a hasadékh
 
 *`"Egy pillanat t"`*
 
-* bodorság volt ide jönnöd, de ha méltónak találunk, csatlakozhatsz a Cregmore törzshöz! De szívesen  a törp után küldelek, a király örülne neki!
+* bodorság volt ide jönnöd, de ha méltónak találunk, csatlakozhatsz a Cragmaw törzshöz! De szívesen  a törp után küldelek, a király örülne neki!
 és nem is bugbearekkel szövetkezel, hanem csak ilyen kis satnyákkal?
 (na! És mi legyen vele?)
 * lehet a becsületlét elvesztette, de azért erős!

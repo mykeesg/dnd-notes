@@ -58,7 +58,7 @@ Goblin íjász, aki a megpróbált a csapaton <a href='./session-6.md#tiri_intro
   A Bonebreaker nevű bugbear klán egyik kiváló harcosa, aki a sámánjuk, Thernurr meggyilkolása után együtt indult Rorral megkeresni Churrark ellopott koponyáját. Miután találkoztak Nanával, és Rorr nem hagyta, hogy megölje az ifjú eladrint, Thernurr kitagadta Rorrt, árulónak nevezve, majd a maga útjára indult.
 </details>
 
-A Bugbear harcos a Cregmore nevű goblin törzs vezetője lett. A *király*tól kapott kinevezést nem élvezhette sokáig, miután a kalandorok rajta ütöttek. Rorrt, amennyiben a bugbear fejet hajt előtte és hűséget esküszik, *"visszafogadja"*, bár továbbra is becstelennek tartja a kalandozó bugbeart.
+A Bugbear harcos a Cragmaw nevű goblin törzs vezetője lett. A *király*tól kapott kinevezést nem élvezhette sokáig, miután a kalandorok rajta ütöttek. Rorrt, amennyiben a bugbear fejet hajt előtte és hűséget esküszik, *"visszafogadja"*, bár továbbra is becstelennek tartja a kalandozó bugbeart.
 
 Miután a diplomatikus megoldásokra nem volt nyitott, agresszív véleménycsere keretében intézte a nézeteltérést a csapattal.
 Habár Rorrt átmenetileg padlóra küldte, Ashley kardja által a három napos hatalma hamar véget ért.
