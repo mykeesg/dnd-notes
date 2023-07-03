@@ -15,7 +15,7 @@ A melee goblinok leszaladnak a dombról, a közelünkbe. A rangedek nyilat húzn
  - A második íjász szintén Rorr-t veszi célba, ez is fáj Rorrnak.
 
 Ashley visszaüt a goblinra, próbálja Sera-t védeni közben - ezzel a kis goblin össze is esik előtte. *`"Ezt azért, mert most megint foglalkozhatom a bőrömmel..tudod milyen nehéz ilyen szépen tartani?"`* - veti oda.
-*`"Vigyázz magadra, Rorr!"`* - kiált oda Rorr, gyógyítva a bugbeart (fény veszi körbe őt).
+*`"Vigyázz magadra, Rorr!"`* - kiált oda Rorrnak, gyógyítva a bugbeart (fény veszi körbe őt).
 
 Rorr az egyik előtte lévő goblint a földre dönti, a másik a döglött ló mögött kikerüli a rengést. - *`"Orik, mutassuk meg nekik!"`* - kiált még oda a hobgoblinnak.
 
@@ -45,90 +45,91 @@ Az a kiabálás hatására elvéti az ütést.
 
 Ashley felmászik a dombra, majd a Rorr előtt álló goblint veszi célba. Rorr és a goblin feje között elsüvít egy szívárvány csóva, de nem talál célba. *`"Bocsánat!"`* - teszi hozzá, a nyakukba zúduló homok láttán.
 
-*`"Thernurr, segíts!"`* - kiált fel Rorr, miután elvéti az ütést. A kései sámán megjelenik Rorr szeme előtt, majd egy-két seb begyógyul rajta.
+*`"Thernurr, segíts!"`* - kiált fel Rorr, miután elvéti az ütést. A kései sámán szelleme megjelenik Rorr szeme előtt, majd egy-két seb begyógyul rajta.
 
 Sera Orik mellé sétál, majd finoman megjegyzi, *`"Kérlek hagyd, majd én elintézem!"`* Ezután a goblinra kiált: *`"Nem bántunk, ha elárulod, hogy hova tettétek a zsákmányotokat!"`*
 
-Orik egy pillanatra becsukja a szemét, koncentrál egy kicsit, küzd magával. *`"Ahogy a kisasszony kívánja.."`* - majd bízván Sera képességeiben az árván maradt goblin felé fordul -a pajzsot továbbra is Serát védve tartva. Rorr hóna alatt átlő, eltalálva a goblint. A nyílvessző a goblin szeme közé fúródik. Összenéz a nyílra, majd eldől hátra (holtan). *`"Nos?"`* - kérdez vissza udvariasan Sera-ra nézve.
+Orik egy pillanatra becsukja a szemét, koncentrál egy kicsit, küzd magával. *`"Ahogy a kisasszony kívánja.."`* - majd bízván Sera képességeiben az árván maradt goblin felé fordul -a pajzsot továbbra is a magasban tartva, védve Sera-t az esetleges támadásoktól. A számszeríjával eközben Rorr hóna alatt átlő, eltalálva a bugbear előtt álló goblint. A nyílvessző a szeme közé fúródik. Összenéz a nyílra, majd eldől hátra (holtan). *`"Nos?"`* - kérdez vissza udvariasan Sera-ra nézve.
 
 ### 🕊 COMBAT VÉGE 🕊
 
-*`"Hát..természetesen minden zsákmányt elvittünk a rejtekhelyre!"`* - hangzik a goblin hangja.
-*`"N"`*
-és hol a rejtekhely
+<a id="tiri_introduction"></a>
 
-hát úgy arra! - mutat északra
-messze van?
-"Nem, nincs messze"
-"esetleg el tudnál vezetni oda minket?"
-"persze hogyne!"
-Ashley odalép, majd bemutatkozik: *`"Szervusz, Ash vagyok. Téged hogy hívnak, Titnek? Én mondjuk Titnek hívlak. Odaadnád az íjadat és a kardodat hogy békésen sétálhassunk?"`*
-kérdőn néz serara a goblin
-velem jön a barátnőm is, ha nem baj - mondja sera
-*`"hát jó"`* - válaszol.
-*`"Köszönöm"`* - hallja orik a fejében.
-Most akartok menni?
-igen most, minél gyorsabb, annál jobb.
-és a régi társaimat itt hagyjuk?
-majd a többiek gondoskodnak róla
-*`"Nézzétek, ő itt Tiri, ő az új barátunk!"`*
-és miért akarsz a zsákmányhoz jönni, az nekünk kell! a többiek nem fogják odaadni
-többiek? de mostmár mi vagyunk a barátaid
-de a rejtekhelyen vannak még legalább ennyien "2x felmutatja a kezét"
-Sera kérdőn néz a többiekre, hogy megéri -e a dolog.
+*`"Hát..természetesen minden zsákmányt elvittünk a rejtekhelyre!"`* - hangzik a goblin furcsán fátyolos és gyermeteg hangja.
+*`"Na és hol ez a rejtekhely?"`* - kérdez vissza Sera.
+*`"Hát, úgy..arra!"`* - mutat északra a goblin.
+*`"Messze van?"`* - érkezik a következő kérdés.
+*`"Nem, nincs messze."`* - hangzik a felelet a goblintól.
+*`"Esetleg el tudnál vezetni oda minket?"`* - puhatolózik tovább Serafine.
+*`"Persze, hogyne!"`* - hangzik a lelkes válasz.
+
+Ashley odalép, majd bemutatkozik: *`"Szervusz, Ash vagyok. Téged hogy hívnak, Titnek? Én mondjuk Titnek hívlak. Odaadnád nekem az íjadat és a kardodat, hogy békésen sétálhassunk tovább?"`* - kérdi, próbálva ártalmatlanítani a goblint.
+
+A kérdés hallatán kérdőn néz Serara a kis goblin. *`"Velem jön a barátnőm is, ha nem baj."`* - magyaráz Sera. *`"Hát, jó..A nevem egyébként Tiri, nem pedig Tit!"`* - válaszol. 
+
+*`"Köszönöm"`* - hallja Orik a fejében a már jól ismert hangot.
+
+*`"Most akartok menni?"`* - kérdezi Tiri. *`"Igen most, minél gyorsabb, annál jobb.."`* - válaszol Serafine. *`"És a régi társaimat csak így itt hagyjuk?"`* - teszi fel a kérdést a goblin. *`"Ne aggódj, majd a többiek gondoskodnak róla."`* - hangzik a megnyugtató válasz Seratól.
+
+*`"Nézzétek, ő itt Tiri, ő az új barátunk!"`* - szól Ashley, bemutatva a többieknek is a goblint.
+*`"És te miért akarsz a zsákmányhoz jönni, az nekünk kell! A többiek biztos nem fogják odaadni!"`* - kiált fel Tiri.
+*`"Többiek? De mostmár mi vagyunk a barátaid!"`* - csitítja őt tovább Serafine.
+*`"De a rejtekhelyen vannak még legalább ennyien!"`* - tartja fel a kezét, kinyújtva mind az 5 ujját, majd újra- és újra megismétli a mozdulatot. Sera kérdőn néz a többiekre, hogy megéri -e a dolog.
 
 Oriknak ismerősek a lovak. *`"Meddig tart a hatás?"`* - kérdezi suttogva Seratól. *`"1 perc..most már csak fél.."`* - jelzi. *`"Lehet utána sem lesz agresszív, de erre nincs garancia."`* - teszi hozzá a lány.
 
 *`"Egy pillanatig tartsd csak fel, valamit ellenőriznem kell!"`* - Orik.
 
-*`"Mit csináltál velem, ez teljesen fölösleges volt!"`* - kérdi a goblin Seratól.
-
-*`"Te nem vagy a barátom!"`* - teszi oda Ashleynek, aki nyújta felé a kezét.
+*`"Mit csináltál velem, ez teljesen fölösleges volt!"`* - kérdi a goblin Seratól, furcsán rázva a fejét, ahogy az előbb említett varázslat elveszíti a hatását fölötte.
+*`"Te nem is vagy a barátom!"`* - teszi oda Ashleynek durcásan, aki nyújtaná felé a kezét.
 
 *`"Ezt a nyikhajt nem öljük meg?"`* - kérdi Rorr. *`"Nem öljük meg, hasznos barát!"`* - jelzi Sera - miután a goblin befut mögé.
-*`"Egy goblin sosem hasznos, kivéve, ha a föld alatt van.."`* - morog Rorr.
-*`"Maguk jól vannak?"`* - kérdezi Orik a hölgyektől, akik bólogatnak. *`"Ha szabad lesz.."`* - tolja odébb Ashleyt, majd a lovakhoz lép. Ashley kissé megbántva érzi magát, mert Orik nem kérdezte tőle, hogy ő hogy van.
+*`"Egy goblin sosem hasznos, kivéve, ha a föld alatt van.."`* - morog Rorr. *`"Maguk jól vannak?"`* - kérdezi Orik a hölgyektől, akik megnyugtatóan bólogatnak. *`"Ha szabad lesz.."`* - tolja odébb Ashleyt, majd a lovakhoz lép. Ashley kissé megbántva érzi magát, mert Orik nem kérdezte tőle, hogy ő hogy van. Durcásan a szekér mellé sétál, ott duzzog tovább.
 
-A lovakat vizsgálva látja, hogy ezek Sildar és Gundren lovai. A nyeregtáskák üresek, a bőrkötéses henger alakú tárgy egy térképtartó - szintén üres. Ezt a hátizsákjába teszi Orik.
+A lovakat vizsgálva Orik látja, hogy ezek Sildar és Gundren lovai. A nyeregtáskák üresek, a bőrkötéses henger alakú tárgy egy térképtartó - szintén üres. Ezt a hátizsákjába teszi Orik.
 
-*`"Menjünk inkább, a többieket nem akarom odavinni"`* - súgja a goblin Seranak. *`"Csak egy pillanat, megvárod amíg beszélek a barátommal?"`* - kérdez vissza, ahogy Orik visszasétál Sera mellé.
-*`"Attól tartok a megbízóink nem feltétlen jutottak el a céljukhoz..ugyanis ezek az ő lovaik"`*
-mi történt azokkal akikhez a lovak tartoznak
-a zsákmánnyal együtt a rejtekheylen vannak az egyikük legalábbis 
-és életben vannak?
-mikor eljttem még éltek - az egyikük
-melyikük? - orik
-a törpöt elvitték, messzebb! - mondja
-bánod e ha mégiscsak elvinném a barátaimat
-de bántani fogják a többieket és elviszik a zsákmányt!
-ugyan mire kell az? - sera
-kifizetni a királyt
-és ha meg tudunk titeket szabadítani tőle? - sera
-akkor valami nagyon erősen fejbe talált - de nem én voltam.
-nekünk az a nagy darab fontos, szeretnénk visszakapni - sera.
-a főnivel lehet tárgyalni -
-akkor megpróbálunk vele tárgyalni, és nem bántani a barátaidat
-sok fényecske kell hozzá hogy tárgyalni lehessen vele
-akad nálunk pár fényecske - sera, pirosra bűvöli az aranyat.
-hogy hívják a főnit? - orik
+*`"Menjünk inkább, a többieket nem akarom odavinni.."`* - súgja a goblin Seranak. *`"Csak egy pillanat, megvárod amíg beszélek a barátommal?"`* - kérdez vissza, ahogy Orik visszasétál Sera mellé.
+*`"Attól tartok a megbízóink nem feltétlen jutottak el a céljukhoz.. Ugyanis ezek az ő lovaik.."`* - hallatszik Orik beszámolója.
+
+*`"Mi történt azokkal, akikhez a lovak tartoznak?"`* - kérdezik Tirit.
+*`"A zsákmánnyal együtt a rejtekhelyen vannak, az egyikük legalábbis!"`* -válaszol a goblin.
+
+*`"És még életben vannak?"`* - hangzik az aggodalmas kérdés.
+*`"Mikor eljöttem, még éltek! Az egyikük, legalábbis."`* - jön a válasz.
+*`"Melyikük?"`* - kérdezi Orik. *`"A törpöt elvitték, messzebb!"`* - festi le a helyzetet.
+
+*`"Bánod -e, ha mégiscsak elvinném a barátaimat?"`* - kérdezi újra Serafine.
+*`"De bántani fogják a többieket, és elviszik a zsákmányt!"`* - próbál ellenállni Tiri. 
+*`"Ugyan, mire kell az nektek?"`* - győzködi őt Sera.
+*`"Hát kifizetni a királyt!"`* - értetlenkedik.
+*`"Na és mi van akkor, ha meg tudunk titeket szabadítani tőle?"`* - hízeleg Sera.
+*`"Akkor valami nagyon erősen fejbe talált téged - de nem én voltam."`* - jegyzi megy Tiri.
+*`"Nekünk az a nagy darab fontos, szeretnénk visszakapni!"`* - utal megbízóinkra ismét a lány.
+*`"Hát, a főnivel lehet tárgyalni!"`* - morfondírozik a goblin.
+*`"Akkor megpróbálunk vele tárgyalni, és nem bántani a barátaidat!"`* - ajánlja fel a békés megoldást Sera.
+*`"Sok fényecske kell hozzá, hogy tárgyalni lehessen vele!"`* - utal a *"főni"* kapzsiságára.
+*`"Akad nálunk pár fényecske!"`* - mosolyog Sera, miközben az ujjai között átpörget egy pirosra bűvölt aranyérmét.
+*`"Hogy hívják a 'főnit'?"`* - kérdezi Orik.
 *`"Nem tudom..Mi csak főninek hívjuk, nem rég került ide! Úgy néz ki mint ő!"`* - mutat Rorra a goblin.
 
-Ki jön, ki marad? - kérdi Sera
+*`"Ki jön, ki marad?"`* - kérdi Sera.
 
-Orik előveszi a szerződést, átnézi, hogy a megbízók testi épsége hogy befolyásolja a küldetést.
+Orik előveszi a szerződést, átnézi, hogy a megbízók testi épsége hogy befolyásolja a küldetést. Mivel erre való kitételt nem talál - csupán a rakomány szállításáról szól az irat - ezért a csapat döntését várja.
 
-*`"Javaslom, hogy tanácskozzunk! Mindannyian!"`* - szól Orik, összehívva a többieket. Jelzi a többieknek, hogy ezek kinek a lovai. Ashley nem érti kik ők és mi dolgunk vele, Sera elmagyarázza.
+*`"Javaslom, hogy tanácskozzunk! Mindannyian!"`* - szól Orik, összehívva a többieket. Jelzi a többieknek, hogy ezek kinek a lovai. Ashley nem érti kik ők és mi dolgunk vele (utolsó emlékei még a megbízás előttről vannak), így gyorsan Sera elmagyarázza neki a helyzetet.
 
-+60xp
+~~~
+{🌟} +60 XP
+~~~
 
-*`"Ki aza főni, hogy-hogy úgy néz ki mint én?"`* - kérdi rorr
-nagy és szőrös és undok.
-és mióta ő a főnök?
-hát úgy... ennyi napja: 3-4 ujját mutatja fel.
-mi történt az előző főnökkel? - kérdi sera
-semmi, most ő a szakács! Bár ő ennek annyira nem örül! A király ideküldte a főnit, hogy mostantől ő a főni!
-mi a neve? - nana
-nem tudom, annyi ideje még nincs itt - kisgoblin.
+*`"Ki az a főni, hogy-hogy úgy néz ki mint én?"`* - hallatszik Rorr kérdése.
+*`"Hát nagy, és szőrös és undok."`* - jön a rövid magyarázat.
+*`"És mióta ő a főnök?"`* - érdeklődik tovább a bugbear.
+*`"Hát úgy...ennyi napja: 🖐"`* - mutatja fel az egyik kezén az ujjait.
+*`"Mi történt az előző főnökkel?"`* - kérdi Sera, agresszív végkimenetet feltételezve.
+*`"Ja, semmi, most ő a szakács! Bár ő ennek annyira nem örül! A király ideküldte a főnit, hogy mostantől ő a főni!"`* - magyarázza Tiri.
+*`"Mi a főni neve?"`* - puhatolódzik újra Nana.
+*`"Mondom, hogy nem tudom, annyi ideje még nincs itt.."`* - hessegeti el a kérdést a kis goblin.
 
 *`"Nem tudom, ki hogy van vele..Én úgy gondolom, hogy hasznos lenne, ha életben tartanánk a megbízóinkat! De ha titeket ez nem különösebben érdekel, hajlandó vagyok szemet húnyni az eset felett, és tovább menni!"`* - sera
 *`"egyet értek a kisasszonnyal"`* - orik
@@ -140,7 +141,7 @@ nem tudom, annyi ideje még nincs itt - kisgoblin.
 *`"nekünk jó - vannak szép sziklák, meg egy kis patak!"`*
 *`"én megnézném! és a többiek?"`* - sera
 *`"amennyiben megmentjük a megbízóinkat, el fogják nekünk nézni!"`* - orik
-*`"nem beszélve a bónuszról , ami csurran cseppen egy ilyen hőstettért"`* - sera
+*`"nem beszélve a bónuszról, ami csurran cseppen egy ilyen hőstettért"`* - sera
 
 és a szekérrel mi lesz? nem hagynám itt - orik
 *`"az ösvényen eldöcög - de a veremcsapdán nem tud átmenni"`*
@@ -187,16 +188,17 @@ Ahogy megyünk tovább, az erdő egyre sűrűbb. Egy újabb 10-15 perc után meg
 *`"Tehát itt kell hagyni a szekeret..Vagy Orik?"`* - kérdi Sera.
 
 Orik lepattan a szekérről, majd megvizsgálja a csapdát: 6ft széles négyzet alakú gödör, faágakkal és avarral lefedve.
-*`"Kis időbefektetéssel át tudhatjuk vinni, de ahhoz legalább egy fát ki kell vágjunk."`*
+
+*`"Kis időbefektetéssel át tudhatjuk vinni, de ahhoz legalább egy fát ki kell vágjunk."`* - teszi hozzá, miután alaposan szemügyre vette az akadályt.
 
 *`"És ha megérkezünk a barlanghoz a szekérrel, mit kezdünk vele? Erősebb célpont leszünk és lenne mit ellopni tőlünk!"`* - Ashley.
 
-élnek ragadozó vadállatok ebben az erdőben? - orik
-ja - tiri
-és milyenek?
-farkasok, mindenféle húsevő dög.
+*`"Élnek ragadozó vadállatok ebben az erdőben?"`* -  kérdezi Orik, az ökrök biztonságát szem előtt tartva.
+*`"Ja!"`* - böki oda Tiri.
+*`"És pontosan milyen fenevadakkal lenne dolgunk?"`* - hangzik az újabb kérdés.
+*`"Farkasok, meg mindenféle húsevő dög."`* - számol be a goblin.
 
-tanácskozunk, mit csináljunk az ökrökkel és a szekérrel - állítsunk e csapdát ide is.
+Tanácskozunk pár percig, hogy mit csináljunk az ökrökkel és a szekérrel. Egyik lehetőség, hogy állítunk egy csapdát ide is. Másik opciónk, hogy valaki itt marad a szekérrel, őrizni azt. Végül arra jutunk, hogy az ökrök jól be vannak tanítva, ha nem foják a gyeplőt, nem mennek sehova. Rorr vállalja, hogy egy, a korábbihoz hasonló csapdát felállít ő is.
 
 Rorr rutinosan felállítja a csapdát, bő 10 perc alatt kész is van vele.
 *`"Ez pont olyan, mint a másik volt, csak jobb! Mehetünk is tovább!"`* - jelzi Rorr.
@@ -209,7 +211,7 @@ megyünk az ösvényen, enyhén emelkedik. Lassan delelőre ér a nap, ahogy hal
 
 *`"Én tényleg szerettem volna a barátod lenni!"`* - szomorkodik Ashley.
 *`"biztos nem volt mód életben tartnia?"`* - sera
-*`""`* nem - orik
+*`"Nem"`* - orik
 *`""`*megpróbáltam, de nem sikerült. ashley
 *`"modntam én hogy el lesz vágva a torka! csak így hátulról"`* - rorr
 *`"és most hogy tovább?"`* - sdera
@@ -302,8 +304,7 @@ Orik tovább mászik, majd hallja, hogy Rorr lebukott. Orik felsiet, a hasadékh
 
 *`"Egy pillanat t"`*
 
-* bodorság volt ide jönnöd, de nagyon szívesen 
-a kregmore törzshöz! De szívesen  a törp után küldelek, a király örülne neki!
+* bodorság volt ide jönnöd, de ha méltónak találunk, csatlakozhatsz a Cregmore törzshöz! De szívesen  a törp után küldelek, a király örülne neki!
 és nem is bugbearekkel szövetkezel, hanem csak ilyen kis satnyákkal?
 (na! És mi legyen vele?)
 * lehet a becsületlét elvesztette, de azért erős!
@@ -320,9 +321,9 @@ Ashley is közben felér, eloson a társalgók mögött.
 
 Látom legalább rendes társaságot is szedtél magad mellé - jegyzi meg Borgork a hobgoblinra mutatva.
 
-*`"Hát úgy ez!"`* - mutat azsákmányra Borgork. *`"Gazdagzság és dicsőség a király nevében!"`* .
+*`"Hát úgy ez!"`* - mutat a zsákmányra Borgork. *`"Gazdagság és dicsőség a király nevében!"`* .
 
-*`"A főni gondolom te vagy. De ki a király?"`* - kérdezi rorr.
+*`"A főni gondolom te vagy. De ki a király?"`* - kérdezi Rorr.
 
 *`"A főni én vagyok. Groll király nevezett ki pár napja"`*. - válaszol.
 
@@ -355,7 +356,7 @@ miért mondanám meg
 mert kérdeztem
 én azt csak úgy nem mondom meg..de ha hűséget fogadsz nekem, meg a királynak, és bizonyítod a rátermettségedet, akkor átgondoljuk!
 
-*`"Én ilyet nem ígérhetek..Most nem harcolni jöttem, hanem az emberért"`*
+*`"Én ilyet nem ígérhetek..Most nem harcolni jöttem, hanem az emberért!"`*
 
 megy az időhúzás, hogy kell a human, de harc nélkül csak úgy nem adják. alkudozás, pénzért ki lehet -e váltani, menniy zsákmány van itt, de nem. a lootot a királynak küldik főleg, de azért itt hagy fegyvert/páncélt nekik.
 
@@ -363,9 +364,9 @@ A farkas morogni kezd, vicsorgatja a fogát a sarok felé.
 
 *`"Na mi van, Reaper?"`* - kérdi a farkastól.
 
-*`"Na, hát mi ez itt? Ejj rorr, a becsületed sosem fog visszatérni! tudtam én hogy a zsákmányért jössz!"`* - borgork.
+*`"Na, hát mi ez itt? Ejj Rorr, a becsületed sosem fog visszatérni! Tudtam én, hogy a zsákmányért jössz!"`* - Borgork.
 
-*`" ez esetben tanítanok egy új szót. <common nyelvre vált> Rajtaütés!"`* - Orik.
+*`"Ez esetben tanítanok egy új szót. <common nyelvre vált> Rajtaütés!"`* - Orik.
 
 ### ⚔ COMBAT ⚔ 
 
@@ -381,7 +382,7 @@ A farkas védi gazdáját, és Orikra ugrik, hanyatt dönti, és megtépázza a 
 
 Orik a tűz mellől egy nagyobb farönköt küld a farkas felé, a tűzből kicsapódva. A farkas a lendülettől a sztalagmitnek vágódik, majd egy nagy nyüszítés következtében nem is kel fel többet.
 
-Orik feltápáaszkodik, a hasadékhoz lép (Borgork elvéti az ütést), és segít Nanának fellépni.
+Orik feltápászkodik, a hasadékhoz lép (Borgork elvéti az ütést), és segít Nanának fellépni.
 
 Borgork üvöltésének hallatára egy meglepett goblin lép fel a lépcsőn, Ashley-t próbálja megütni, de elvéti. Egy újabb goblin siet az előző mögött. *`"Jönnek még páran!"`* - kiált.
 

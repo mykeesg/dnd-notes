@@ -18,20 +18,20 @@ Gundren a bakról egy papírköteget vesz elő, névre szólóan a megbízásokr
 A szerződés tartalma a leltár, kinek hova kell eljuttatni, és mennyit fog fizetni érte. Hét nap a határidő - két és fél napos út papíron. Két példány van mindegyikből, melyből egyet aláírunk és visszaadjuk Gundrennek.
 Ash csak a sajátját írja alá - Orik észreveszi ezt, de nem teszi szóvá.
 
-*`"Sildarról annyit kell tudni - nagyon rangos a Lordok Szövetségének a tagja. Többek között neki köszönhető, hogy Pandalin újra régi fényében tündököl."`* - jegyzi meg Gundran.
+*`"Sildarról annyit kell tudni - nagyon rangos, a Lordok Szövetségének a tagja. Többek között neki köszönhető, hogy Phandalin újra régi fényében tündököl."`* - jegyzi meg Gundran.
 
 *`"Köteleségünk a környék civilizált fejlődésének biztosítása."`* - válaszol Sildar.
 
 Kezd "nőni a forgalom". Egy hasonló szekér elhalad mellettünk, odabiccentenek nekünk (másik D&D kaland karaktereinek cameo-ja). 
 
-A bakon kettő - szűken három hely van. Belül a csomagokon van csak hely. Ash hátul-belül elhelyezkedik a zsákokon, megpróbálva felidézni a tegnapi zenélést. *`"Találkozunk Pandalinban!"`* - kiált Gundren.
+A bakon kettő - szűken három hely van. Belül a csomagokon van csak hely. Ash hátul-belül elhelyezkedik a zsákokon, megpróbálva felidézni a tegnapi zenélést. *`"Találkozunk Phandalinban!"`* - kiált Gundren.
 
 Orik átnézi a rakományt, kaja, bányász felszerelés (ásó, csákány), lámpások, kis hordó olaj. Minden stimmel a szerződésben foglaltakkal - 100 🥇 értékű kb. a szállítmány.
 A leltáron kívül 5 kis zsák elemózsia, és két sátor is van a csomagok között.
 
 Nana megpróbál felülni az egyik ökörre, ám nem igazán sikerül (animal handling 🎲6). Az ökör felé bök a szarvával, de még időben félreugrik. Serafina tanácsokat kér Sildartól, mielőtt elindulunk.
 
-*`"Két hordó között találhattok egy térképet. Dél felé kell menni, a fő úton nem ütköztök galibálba. Másfél nap utazás után a Tribore ösvényen balra fordulva, fél napi járás Pandalin."`* - mondja útmutatásul Sildar.
+*`"Két hordó között találhattok egy térképet. Dél felé kell menni, a fő úton nem ütköztök galibálba. Másfél nap utazás után a Tribore ösvényen balra fordulva, fél napi járás Phandalin."`* - mondja útmutatásul Sildar.
 
 A törp és a human lóra száll. Orik felsegíti Serafina-t a szekéren előlre a bakra. Serafina elmondása alapján nem tud "vezetni" - de Gundren eloszlatja az aggodalmakat:
 
@@ -124,7 +124,7 @@ A sziklák mögött talál is egy csomagot, ruhaanyagba tekerve. Azt kibontva 2 
 Ash 5 🥇-t ad Rorr kezébe, 4 🥇-t nyújt át Nananak, a maradék emberek 3-3 🥇-at kapnak.
 `+25 XP` 🌟
 
-Orik elmondja, hogy ez mi: 💰[`Cloak of Billowing`](https://forgottenrealms.fandom.com/wiki/Cloak_of_billowing)
+Orik elmondja, hogy ez mi: 💰[ `Cloak of Billowing` ](https://forgottenrealms.fandom.com/wiki/Cloak_of_billowing)
 
 *`"Azért alkalomadtán érdemes kitakarítani."`* - jelzi Orik. Ash a másik potit átnyújtja a hobgoblinnak, miután a többiek nem tartanak rá igényt.
 
@@ -135,7 +135,7 @@ Orik végül a másik potit odaadja Serafina-nek, aki hálás a harcokban nyújt
 Nana, Serafina és Orik visszaülnek a bakra a szekéren, Ash és Rorr hátramarad "takarítani". Ash mind az 5 hullát a szikla mellé ülteti, levágja a fejüket, és az ölükbe teszi. Rorr kivágja a szíveket, egyet elfogyaszt, egyet pedig odaad Ashnek, aki furán néz, de végül elfogadja.
 
 A szekérrel tovább haladva a többiek az úton szűk kanyonhoz érkeznek - embereket látnak nyüzsögni. Sziklák vannak a kanyon mellett - egy sziklaomlás eltakarítása folyik.
-Rákérdeznek, hogy tiszta e az út - Orik jelzi a korábban történt csetepatét.. Rákérdeznek, hová tartunk - Pandalinba, üzleti céllal.
+Rákérdeznek, hogy tiszta e az út - Orik jelzi a korábban történt csetepatét.. Rákérdeznek, hová tartunk - Phandalinba, üzleti céllal.
 
 Rorr és Ash látványára nagyon szúrósan néznek rájuk a többiek - de senki nem állítja meg őket.
 

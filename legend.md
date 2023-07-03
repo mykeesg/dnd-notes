@@ -14,3 +14,4 @@
  - 🌟 - XP szerzés
  - 💤 - long rest
  - 🏆 - level-up
+ - 🔁 - a leírás később folytatásra kerül, még nem befejezett.
