@@ -9,7 +9,7 @@ A melee goblinok leszaladnak a dombról, a közelünkbe. A rangedek nyilat húzn
  - A második Nana-t célozza, őt is megvágja a kard.
  - A harmadik elvéti Rollt.
  - A negyedik betalál, megvágja Rorrt.
- 
+
 🏹
  - Az első íjász elvéti Orikot.
  - A második íjász szintén Rorr-t veszi célba, ez is fáj Rorrnak.
@@ -38,10 +38,10 @@ Sera ismét célba veszi az egyik goblint - akinek a fejében egy kislány hangj
 
 Orik egy kézmozdulattal - miután a goblin fajtársának tekinti -, egy kavics felé nyúl - majd a kavics a goblin felé repül - a gerince derékszöget vesz fel azon. *`"Ahhoz, hogy elárulhassalak benneteket, előbb közétek kellett volna tartozzak."`* - teszi oda, gondosan megtaposva a hullát. - *`"És te leszel a következő!"`* - teszi oda az íjásznak.
 
-A fenti goblin arrébb szalad: *`"Ne bánstd őket, hagyjad!"`* - kiált a társának.
+A fenti goblin arrébb szalad: *`"Ne bántsd őket, hagyjad!"`* - kiált a társának.
 Az a kiabálás hatására elvéti az ütést.
 
-*`"Meg tudod csinálni!"`* - teszi Rorr válára a kezét Nana. (guidance)
+*`"Meg tudod csinálni!"`* - teszi Rorr válára a kezét Nana. (*🧙‍♀️ guidance*)
 
 Ashley felmászik a dombra, majd a Rorr előtt álló goblint veszi célba. Rorr és a goblin feje között elsüvít egy szívárvány csóva, de nem talál célba. *`"Bocsánat!"`* - teszi hozzá, a nyakukba zúduló homok láttán.
 
@@ -287,86 +287,77 @@ Ahogy Rorr átpréseli magát a repedésen, a farkas felkapja a fejét és elkez
 
 *`"Nem jó, nem jó! Farkas!"`* - jelzi fejben Rorr.
 
-A farkas Rorr felé néz, a bugbear is odapillant. Rorr felismeri, látja, hogy ez Borgork. Meglepődik, majd pislog rám. *`"Rorr?"`* - *`"Borgork?"`* - kérdez vissza.
-*`"Hát te mit csinálsz itt Borgork rejtekhelyén?"`*
-*`"Egy törpöt keresek..és egy nagy darab embert!"`*
-és hol hagytad a kis barátnpődet?
-ő is itt van?
-itt???
-nem _itt_ itt, de _itt_.
+A farkas Rorr felé néz, a bugbear is odapillant. Rorr felismeri, látja, hogy ez Borgork. Meglepődik, nagy szemeivel pislog rá.
+* *`"Rorr?" - 💬 [Borgork]`*
+* *`"Borgork?" - 💬 [Rorr]`*
+* *`"{🗣:goblin} Hát te mit csinálsz itt Borgork rejtekhelyén?" - 💬 [Borgork]`*
+* *`"{🗣:goblin} Egy törpöt keresek..és egy nagy darab embert!" - 💬 [Rorr]`*
+* *`"És hol hagytad a kis barátnődet?" - 💬 [Borgork/megvetően]`*
+* *`"Háhh, ő is itt van." - 💬 [Rorr/büszkén]`*
+* *`"Itt??" - 💬 [Borgork/megrökönyödve]`*
+* *`"Hát, nem <itt> itt, de <itt>." - 💬 [Rorr/mentve a helyzetet]`*
 
-Orik tovább mászik, majd hallja, hogy Rorr lebukott. Orik felsiet, a hasadékhoz érve hallja a fenti, goblin nyelvű beszélgetést.
+A két bugbear beszélgetésének hangja már Orik fülét is megcsapja. Gyorsan felméri a helyzetet - Rorr lebukott, de vérontás nem történt. A hobgoblin gyorsan és ügyesen mászik felfelé, a hasadékhoz érve már nem csak hallja, de érti is a fenti, goblin nyelvű beszélgetést.
 
-* csak nem azért jöttél, hogy csatlakozz, és visszaszerezd a bescületetdet?
-* szerintem nem az én becsületem veszett oda. én a törpöt keresem és az embert
-és borgork miért mondaná meg, hogy hol van?
-* hát tudom hogy itt vannak, azért jöttem!
+* *`"Csak nem azért jöttél, hogy csatlakozz hozzánk, és visszaszerezd a becsületedet?" - 💬 [Borgork]`*
+* *`"Szerintem nem az én becsületem veszett oda.. Én a törpöt keresem, és az embert!" - 💬 [Rorr/szemrehányóan]`*
+* *`"És Borgork miért mondaná meg, hogy hol vannak?" - 💬 [Borgork]`*
+* *`"De hát tudom hogy itt vannak, azért jöttem!" - 💬 [Rorr/értetlenül]`*
 
-*`"Egy pillanat t"`*
+Egy pillanatra Borgork megáll, méregeti Rorrt - ő hasonlóan tesz. A múlt sérelmein, a mostani helyzetről, és társa jövőjéről gondolkodnak.
 
-* bodorság volt ide jönnöd, de ha méltónak találunk, csatlakozhatsz a Cragmaw törzshöz! De szívesen  a törp után küldelek, a király örülne neki!
-és nem is bugbearekkel szövetkezel, hanem csak ilyen kis satnyákkal?
-(na! És mi legyen vele?)
-* lehet a becsületlét elvesztette, de azért erős!
-* és mi a törzsed küldetése? (rorr)
+* *`"Bodorság volt ide jönnöd, de ha méltónak találunk, csatlakozhatsz a Cragmaw törzshöz! De szívesen  a törp után küldelek, a király örülne neki!" - 💬 [Borgork]`*
+* *`"És már nem is bugbearekkel szövetkezel, hanem csak ilyen kis satnyákkal?" - 💬 [Rorr/lenézően a goblinokra utalva]`*
+* *`"Hé!!" - 💬 [az egyik goblin/sértődötten]`*
+* *`"Na és mi legyen vele?" - 💬 [a másik goblin/harcra készen, Rorra mutatva]`*
+* *`"Lehet a becsületét elvesztette, de azért erős!" - 💬 [Borgork]`*
+* *`"Mi a ennek a törzsnek a küldetése?" - 💬 [Rorr]`*
 
-Eközben Orik felsétál Rorr mellé, várva, hogy bemutassák őt is. 
+A csevely közben Orik kilép a sötétből, odaáll Rorr mellé, várva, hogy bemutassák őt a bugbearnek. 
 
-Ez a kopasz kicsoda? - kérdezi Borgork, a fegyverét szegezve rá.
-orik spellweaver, nagyon örülök! - mutatkozik be.
-mért? - kérdez vissza
-még nem találkoztunk, illik mondani! - kezet nyújt a bugbearnek Orik.
+* *`"Ez a kopasz meg kicsoda?!" - 💬 [Borgork/fegyvert szegezve Orikra]`*
+* *`"Orik Spellweaver, nagyon örülök!" - 💬 [Orik/bemutatkozva]`*
+* *`"Miért?" - 💬 [Borgork/értetlenül]`*
+* *`"Még nem találkoztunk, ilyenkor illik mondani!" - 💬 [Orik/illedelmesen kezet nyújtva]`*
 
-Ashley is közben felér, eloson a társalgók mögött.
+Borgork nem viszonozza a gesztust, továbbra is gyanakvóan tekint a párosra. Ashley is közben felér a hasadékon, eloson a társalgók mögött, egy sztalagmit takarásában áll, hallgatva a számára érthetetlen nyelven folyó beszélgetést.
 
-Látom legalább rendes társaságot is szedtél magad mellé - jegyzi meg Borgork a hobgoblinra mutatva.
+* *`"Látom, legalább rendes társaságot is szedtél magad mellé.." - 💬 [Borgork/a hobgoblinra utalva]`*
+* *`"Nem válaszoltál, mi a küldetésetek?" - 💬 [Rorr/elengedve a sértést]`*
+* *`"Hát úgy ez! Gazdagság és dicsőség a király nevében!" - 💬 [Borgork/a zsákmányra mutatva]`*
+* *`"A főni gondolom te vagy. De ki a király?" - 💬 [Rorr]`*
+* *`"A főni én vagyok. Groll király nevezett ki pár napja" - 💬 [Borgork/büszkén]`*
+* *`"Groll? Nem hallottam róla  - 💬 [Rorr]"`*
+* *`"És egyéb cím is járt a kinevezés mellé?" - 💬 [Orik/érdeklődve]`*
+* *`"Más nem." - 💬 [Borgork/mogorván]`*
+* *`"Mi nem a zsákmányodért jöttunk..csak a törpöt és az embert keressük!" - 💬 [Rorr/időt húzva]`*
+* *`"Azt a törpöt elküldtük a királynak...az ember pedig..lassan ebédidő!" - 💬 [Borgork]`*
+* *`"Na és ki lehet e váltani ezt az embert? - 💬 [Rorr/kérdőn]`*
+* *`"Mire gondolsz?" - 💬 [Borgork]`*
+* *`"Hogy ne egyétek meg, arra." - 💬 [Rorr/tömören]`*
+* *`"Hát, erre nem gondoltam.." - 💬 [Borgork]`*
 
-*`"Hát úgy ez!"`* - mutat a zsákmányra Borgork. *`"Gazdagság és dicsőség a király nevében!"`* .
+Miközben Rorr és Borgork beszélgetnek, Serafine is sikeresen felmászik a járaton. Tekintve, hogy a beszélgetés goblin nyelven folyik, sem Ashley, sem Sera nem érti a történteket. Telepatikus úton Orik jelzi Seranak, hogy mi a helyzet. Az időhúzás egyelőre működik, de már érezhető, hogy nem sokáig. Sera is beáll Ashley mellé, a sztalagmit takarásába.
 
-*`"A főni gondolom te vagy. De ki a király?"`* - kérdezi Rorr.
+* *`"Miért akarnád kiváltani? Ez egy fontos fogoly!" - 💬 [Borgork]`*
+* *`"De hát nekem is fontos..És én még nem mondtam le a küldésünkről.." - 💬 [Rorr/szemrehányóan]`*
+* *`"A koponyáról?" - 💬 [Borgork]`*
+* *`"Igen!" - 💬 [Rorr]`*
+* *`"Hah, arról lemondhatsz!" - 💬 [Borgork]`*
+* *`"Már mer' miért?" - 💬 [Rorr]`*
+* *`"Miért mondanám meg?" - 💬 [Borgork]`*
+* *`"Mert kérdeztem!" - 💬 [Rorr]`*
+* *`"Én azt csak úgy nem mondom meg..de ha hűséget fogadsz nekem, meg a királynak, és bizonyítod a rátermettségedet, akkor átgondoljuk!" - 💬 [Borgork]`*
+* *`"Én ilyet nem ígérhetek..Most nem harcolni jöttem, hanem az emberért!" - 💬 [Rorr]`*
 
-*`"A főni én vagyok. Groll király nevezett ki pár napja"`*. - válaszol.
+A bugbearek beszélgetése - és ezzel az időhúzás tovább folytatódik.
 
-*`"Groll? Nem hallottam róla"`* - mondja Rorr.
+Rorr bizonygatja, hogy a csapatának szüksége van Sildarra, de Borgork hajthatatlan, harc nélkül, csak úgy nem adják. Rorr tovább folytatja az alkudozást, hogy esetleg pénzért ki lehet -e váltani a harcost. A válasz nevetve jön, nincs nekünk annyi aranyunk, hogy meg tudjuk őt fizetni. Rorr körbenéz, a barlangban felhalmozott értékekre mutatva - ugyan minek kell Borgorknak még több pénz. *`"Ez nem a miénk..ezt mind  a királynak küldjük! De a fegyverek és páncélok egy részét - a jobbakat azért megtartjuk!- 💬 [Borgork]"`*
 
-*`"És egyéb cím is járt a kinevezés mellé?"`* - kérdezi Orik.
+A farkas morogni kezd, vicsorgatja a fogát a sarok felé. *`"Na mi van, Reaper?" - 💬 [Borgork]`* A morgás erősödik, ahogy a kalandorok szaga és hangja a farkashoz ér. Borgork, aki eddig Rorral volt elfoglalva, már alaposabban körbe néz, észrevéve a félhomályban meghúzódó alakokat.
 
-*`"Más nem."`* - jön a mondat.
-
-*`"Mi nem a zsákmányodért jöttunk..csak a törpöt és az embert keressük"`* - húzza tovább az időt Rorr.
-
-*`"Azt a törpöt elküldtük a királynak...az ember pedig..lassan ebédidő!"`* - válaszol Borgork.
-
-*`"Na és ki lehet e váltani ezt az embert?"`* - kérdi Rorr.
-*`"Mire gondolsz?"`* - jön a kérdés.
-*`"Hogy ne egyétek meg, arra."`* - hangzik a tömör válasz.
-*`"Hát, erre nem gondoltam."`* - hallatszik.
-
-(Közben felmásznak a többiek is).
-
-Orik fejben Seranak elmondja, mi a helyzet, az időhúzás egyelőre működik, de már nem sokáig. Sera is beáll Ashley mellé.
-
-*`"Miért akarnád kiváltani? Ez egy fontos fogoly!"`*
-*`"de hát nekem is fontos..én még nem mondtam le a küldésünkről"`*
-a koponyáról?
-igen
-arról lemondhatsz
-már mer mért?
-miért mondanám meg
-mert kérdeztem
-én azt csak úgy nem mondom meg..de ha hűséget fogadsz nekem, meg a királynak, és bizonyítod a rátermettségedet, akkor átgondoljuk!
-
-*`"Én ilyet nem ígérhetek..Most nem harcolni jöttem, hanem az emberért!"`*
-
-megy az időhúzás, hogy kell a human, de harc nélkül csak úgy nem adják. alkudozás, pénzért ki lehet -e váltani, menniy zsákmány van itt, de nem. a lootot a királynak küldik főleg, de azért itt hagy fegyvert/páncélt nekik.
-
-A farkas morogni kezd, vicsorgatja a fogát a sarok felé.
-
-*`"Na mi van, Reaper?"`* - kérdi a farkastól.
-
-*`"Na, hát mi ez itt? Ejj Rorr, a becsületed sosem fog visszatérni! Tudtam én, hogy a zsákmányért jössz!"`* - Borgork.
-
-*`"Ez esetben tanítanok egy új szót. <common nyelvre vált> Rajtaütés!"`* - Orik.
+* *`"Na, hát mi ez itt? Ejj Rorr, a becsületed sosem fog visszatérni! Tudtam én, hogy a zsákmányért jössz!" - 💬 [Borgork/dühösen]`*
+* *`"Ez esetben tanítanok egy új szót. {🗣:common} Rajtaütés!" - 💬 [Orik/a számszeríját szegezve Borgorkra]`*
 
 ### ⚔ COMBAT ⚔ 
 

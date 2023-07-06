@@ -28,16 +28,22 @@ Külön lapon, [itt olvasható](./who-is-who.md).
 
 ## Emoji jelmagyarázat
 
- - 🗡 - melee támadó
- - 🏹 - ranged támadás
- - 🎫 - fesztivál token
- - 🥇 - arany
- - 🥈 - ezüst
- - 🥉 - bronz
- - 💰 - loot
- - ⚔ - combat kezdete
- - 🕊 - combat vége
- - 🌟 - XP szerzés
- - 💤 - long rest
- - 🏆 - level-up
- - 🔁 - a leírás később folytatásra kerül, még nem befejezett.
+Emoji|Jelentés|Magyarázat
+-----|-----|-----
+🗡 | melee attack
+🏹 | ranged attack
+💫 | spell attack
+🧙‍♀️ / 🧙 | friendly spell | Buff, shield, healing vagy hasonló
+🎫 | fesztivál token
+🥇 | arany
+🥈 | ezüst
+🥉 | bronz
+💰 | loot
+⚔ | combat kezdete
+🕊 | combat vége
+💡 | DM inspiration
+🌟 | XP szerzés
+💤 | long rest
+🏆 | level-up
+🗣 | nyelvváltás a beszélgetésben | További jelzésig ezen a nyelven beszél az adott karakter/NPC
+🔁 | még nem befejezett | A leírás később folytatásra kerül, még későbbi kalandokban derülnek ki részletek/mi történt
