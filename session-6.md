@@ -122,36 +122,32 @@ Orik előveszi a szerződést, átnézi, hogy a megbízók testi épsége hogy b
 {🌟} +60 XP
 ~~~
 
-*`"Ki az a főni, hogy-hogy úgy néz ki mint én?"`* - hallatszik Rorr kérdése.
-*`"Hát nagy, és szőrös és undok."`* - jön a rövid magyarázat.
-*`"És mióta ő a főnök?"`* - érdeklődik tovább a bugbear.
-*`"Hát úgy...ennyi napja: 🖐"`* - mutatja fel az egyik kezén az ujjait.
-*`"Mi történt az előző főnökkel?"`* - kérdi Sera, agresszív végkimenetet feltételezve.
-*`"Ja, semmi, most ő a szakács! Bár ő ennek annyira nem örül! A király ideküldte a főnit, hogy mostantől ő a főni!"`* - magyarázza Tiri.
-*`"Mi a főni neve?"`* - puhatolódzik újra Nana.
-*`"Mondom, hogy nem tudom, annyi ideje még nincs itt.."`* - hessegeti el a kérdést a kis goblin.
-
-*`"Nem tudom, ki hogy van vele..Én úgy gondolom, hogy hasznos lenne, ha életben tartanánk a megbízóinkat! De ha titeket ez nem különösebben érdekel, hajlandó vagyok szemet húnyni az eset felett, és tovább menni!"`* - sera
-*`"egyet értek a kisasszonnyal"`* - orik
-*`"milyen messze van a goblin tanya?"`* - kérdi rorr.
-*`"nem túl messze, hogy ne kelljen sokat cipekedni!"`* 
-*`"Milyen praktikus gondolkodás, nem jellemző rátok!"`* _ orik
-*`"köszönjük!"`* - kisgoblin. *`"Visszaérünk oda, mire a nap legmagasabban van!"`* - teszi még hozzá.
-*`"szép heylen laksz?"`* - kérdi Sera.
-*`"nekünk jó - vannak szép sziklák, meg egy kis patak!"`*
-*`"én megnézném! és a többiek?"`* - sera
-*`"amennyiben megmentjük a megbízóinkat, el fogják nekünk nézni!"`* - orik
-*`"nem beszélve a bónuszról, ami csurran cseppen egy ilyen hőstettért"`* - sera
-
+* *`"Ki az a főni, hogy-hogy úgy néz ki mint én?"`* - hallatszik Rorr kérdése.
+* *`"Hát nagy, és szőrös és undok."`* - jön a rövid magyarázat.
+* *`"És mióta ő a főnök?"`* - érdeklődik tovább a bugbear.
+* *`"Hát úgy...ennyi napja: 🖐"`* - mutatja fel az egyik kezén az ujjait.
+* *`"Mi történt az előző főnökkel?" - 💬 [Serafine]`* - kérdi Sera, agresszív végkimenetet feltételezve.
+* *`"Ja, semmi, most ő a szakács! Bár ő ennek annyira nem örül! A király ideküldte a főnit, hogy mostantől ő a főni!"`* - magyarázza Tiri.
+* *`"Mi a főni neve?"`* - puhatolódzik újra Nana.
+* *`"Mondom, hogy nem tudom, annyi ideje még nincs itt.."`* - hessegeti el a kérdést a kis goblin.
+* *`"Nem tudom, ki hogy van vele..Én úgy gondolom, hogy hasznos lenne, ha életben tartanánk a megbízóinkat! De ha titeket ez nem különösebben érdekel, hajlandó vagyok szemet hunyni az eset felett, és tovább menni!" - 💬 [Serafine]`*
+* *`"egyet értek a kisasszonnyal"`* - orik
+* *`"milyen messze van a goblin tanya?"`* - kérdi rorr.
+* *`"nem túl messze, hogy ne kelljen sokat cipekedni!"`* 
+* *`"Milyen praktikus gondolkodás, nem jellemző rátok!"`* _ orik
+* *`"köszönjük!"`* - kisgoblin. *`"Visszaérünk oda, mire a nap legmagasabban van!"`* - teszi még hozzá.
+* *`"szép heylen laksz?" - 💬 [Serafine]`* - kérdi Sera.
+* *`"nekünk jó - vannak szép sziklák, meg egy kis patak!"`*
+* *`"én megnézném! és a többiek?" - 💬 [Serafine]`*
+* *`"amennyiben megmentjük a megbízóinkat, el fogják nekünk nézni!"`* - orik
+* *`"nem beszélve a bónuszról, ami csurran cseppen egy ilyen hőstettért" - 💬 [Serafine]`*
 és a szekérrel mi lesz? nem hagynám itt - orik
 *`"az ösvényen eldöcög - de a veremcsapdán nem tud átmenni"`*
 lehet addig kitalálok valamit, ami segít - orik
-
 ha ezek a goblinok tartják magukat a jól megszokott hagyományokhoz, hallgatni fognak ránk - kacsint Orik Rorra cinkosan.
 én bízom az ítélőképességedben Orik - sera
 *`"És mondd cska, ahol ti lakotk az egy barlang vagy egy kis falu házikókkal?"`* - ashley.
 *`"balrang!"`* - goblin
-
 *`"Akkor? Mehetünk?"`* - kérdi Sera, majd felugrik a bakra.
 Ha nem tart sokáig, nem bánom.. Elkísér minket odáig, aztán ha már nem barátságos, elvágjuk a torkát! - rorr
 hogy mi? - kisgoblin
@@ -159,13 +155,13 @@ felvágjuk a tortát - korrigál Sera.
 *`"Ashley, minden rendben?"`* - kérdi Orik.
 *`"Persze."`* - válaszol.
 *`"Kiváló!"`* - mondja bátran.
-
 *`"A hatás megújítható, ha elmúlna?"`* - kérdezi Orik Seratól. 
 *`"Ha jól csinálom, igen. Ha elszúrom, akkor nem."`* - jön a válasz.
 *`"Akkor ne késlekedjünk!"`* - pattan fel Orik is a szekérre.
 *`"Ezeknek a szívéből mi nem eszünk..a vadaknak adjuk, nem méltóak rá!"`*
 
 Keskeny ösvényen indulunk északra.
+
 Kb. 10 perc után Tiri megálljt mutat. *`"Itt van egy csapda keresztbe az úton!"`* - jelzi.
 *`"Tudod hatástalanítni?"`* - kérdi Sera.
 *`"Megpróbálhatom, ha szeretnéd!"`* - mondja a boka magasságában keresztbe feszített kötélre mutatva.
@@ -209,17 +205,17 @@ Rorr rutinosan felállítja a csapdát, bő 10 perc alatt kész is van vele.
 megyünk az ösvényen, enyhén emelkedik. Lassan delelőre ér a nap, ahogy haladunk, Tiri hirtelen megáll. Megfordul, és ordítva Sera-ra veti magát. Hanyatt vágódik, majd a goblin fojtogatni kezdi.
 *`"Még mindig a barátod vagyunk, mi vagyunk azok!"`* - lép oda Ashley. Odanéz, rászisszen, és megpróbál elfutni. Ashley utána vág, a goblin összeesik.
 
-*`"Én tényleg szerettem volna a barátod lenni!"`* - szomorkodik Ashley.
-*`"biztos nem volt mód életben tartnia?"`* - sera
-*`"Nem"`* - orik
-*`""`*megpróbáltam, de nem sikerült. ashley
-*`"modntam én hogy el lesz vágva a torka! csak így hátulról"`* - rorr
-*`"és most hogy tovább?"`* - sdera
-*`"van ösvény, azon tudunk tovább menni"`* - ashely
-*`"amilyen szaga van ezeknek, tudni fogjuk melyik barlang"`* - rorr
-*`"Semmi gond, amúgy sem élnek sokáig."`* - awkward vállveregetés Orik részéről Ashley-re.
-*`"Hát így valóban nem..."`*
-*`"legalább gyors vége volt, az ő fajtájuknál ez szinte ritkaság!"`* - orik
+* *`"Én tényleg szerettem volna a barátod lenni!" - 💬 [Ashley/szomorúan]`*
+* *`"Biztos nem volt mód életben tartni őt?" - 💬 [Serafine]`*
+* *`"Nem" - 💬 [Orik/undorral]`*
+* *`"Én megpróbáltam, de nem sikerült." - 💬 [Ashley]`*
+* *`"Hahh, mondtam én, hogy el lesz vágva a torka! Csak így végül hátulról!" - 💬 [Rorr/büszkén]`*
+* *`"És most hogy tovább?" - 💬 [Serafine]`*
+* *`"Itt van ösvény, azon tovább tudunk menni!" - 💬 [Ashley]`*
+* *`"Amilyen szaga van ezeknek, tudni fogjuk, melyik barlangot keressük! - 💬 [Rorr]"`*
+* *`"Semmi gond, amúgy sem élnek sokáig." - 💬 [Orik/kínos vállveregtés közepette Ashleynek]`*
+* *`"Hát így valóban nem..." - 💬 [Ashley/szomorúan]`*
+* *`"Legalább gyors vége volt, az ő fajtájuknál ez szinte ritkaság!" - 💬 [Orik]`*
 
 tovább sétálunk, egy kis tisztásra érünk perceken belül. a túloldalon egy domboldalban egy nagy barlan bejárata van, onnan kis patak csordogál kifelé, a jobbunkon kanyarog tovább. a túlparton sűrű bokrok.
 a barlan jobb oldalán vezet tovább az ösvény.
@@ -280,12 +276,12 @@ A hasadékhoz lépve az felfelé vezet. Első ránézésre szemétledobónak tű
 
 Rorr szinte felszalad, egy szűk kijáratnál találja magát. A lyukon kinézve egy újabb barlang van előtte - a fény forrása tábortűz a barlang közepén. Körben zsákok, hordók, ládák - itt a loot. Balra/északra lépcsők lefelé, egy hasadék. Nagyon hangos vízcsobogás is hallatszik onnan. Nekem háttal, a tűz felé egy bugbear alakja, mellette egy szép nagy farkas fekszik.
 A barlang hátuljában két goblin tevékenykedik.
-*`"Rorr mit látsz? Elég ha gondolsz rá, ne mondd ki!"`* - hallja a fejében.
+*`"Rorr mit látsz? Elég ha gondolsz rá, ne mondd ki!" - 📡 [Serafine/Rorr fejében]`*
 Rorr leírja a látottakat, jelezvén, hogy egyedül itt nem fogja tudni tartani a frontot.
 
 Ahogy Rorr átpréseli magát a repedésen, a farkas felkapja a fejét és elkezd szaglászni!
 
-*`"Nem jó, nem jó! Farkas!"`* - jelzi fejben Rorr.
+*`"Nem jó, nem jó! Nagy farkas!" - 📡 [Rorr/pánikolva]`* - remélve, hogy Serafine a maga módján hallja őt.
 
 A farkas Rorr felé néz, a bugbear is odapillant. Rorr felismeri, látja, hogy ez Borgork. Meglepődik, nagy szemeivel pislog rá.
 * *`"Rorr?" - 💬 [Borgork]`*
@@ -363,7 +359,7 @@ A farkas morogni kezd, vicsorgatja a fogát a sarok felé. *`"Na mi van, Reaper?
 
 Orik egy nyílvesszőt küld Borgork felé, vállba találja őt. *`"Támadás!"`* - kiált fel a bugbear.
 
-Rorr dobolásának hatására a két hátul álló goblin a Bugbear törzs vezetőinek neveit kezdi hallani (*`"Az első Churrark, a bátor! Utána Stitturk, az erős! Őt követte Bazzark, a goblintörő!"`*), el is alszik mind a kettő ennek hatására.
+Rorr dobolásának hatására a két hátul álló goblin szemei előtt megjelenik egy öreg bugbear alakja, fülükben pedig monoton hangon a Bugbear törzs vezetőinek neveit kezdi hallani (*`"Az első Churrark, a bátor! Utána Stitturk, az erős! Őt követte Bazzark, a goblinölő!"`*), el is alszik mind a kettő ennek hatására.
 
 Ashley kilép a sztalagmit mögül, Borgorkot oldalba pörkölve. Hatalmas kiáltás, de még életben van.
 
