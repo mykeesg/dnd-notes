@@ -4,12 +4,12 @@ A karám mögött kantáron hatalmas, ló méretű gyíkokat vezetnek. Hat gyík
 
 *`"Mik ezek a nagy gyíkok?"`* - kérdi Rorr. *`"Ezek nagy gyíkok."`* - jelzi a hölgy. Orik lenyúgözötten bólint egyet. *`"Hogy pontos legyek: óriás gyíkok."`* - pontosít. *`"Ez a teljes nevük?"`* - kérdi Sera. *`"Igen.. nem túl fantáziadús, de hát ez a nevük!"`* - jelzi.
 
-*`"És hogyan lehet tokenhez jutni?"`* - kérdi Ash. *`"Te vagy az Ash'ton, ugye? Te húztad ki a kardot!"`* - kérdezi a lány.
+*`"És hogyan lehet tokenhez jutni?"`* - kérdi Ash. *`"Te vagy az Ashton, ugye? Te húztad ki a kardot!"`* - kérdezi a lány.
  *`"De csak mert Rorr meglazította nekem!"`* - kacsint oda a félszerzet. *`"Jó kis borsot törtetek szegény Domin orra alá!"`* - folytatja a lány. 
 
  *`"De megcsinálták, és segítettünk, hogy lehet hatékonyabb a mutatvány!"`* - válaszol Ash. *`"Úgy vélem, hogy a legértékesebb dolgokat elhoztuk a polcról! De még nem próbáltunk ki minden játékot, és azt hiszem nem neked kell bemutatni a játékfüggőséget..Van egy kis OCD-nk, muszáj végigjátszanunk mindent!"`* - folytatja.
 
-*`"Ash'ton, mi is most a talonunk a ticketekt illetően?"`* - kérdi Orik. *`"Kereken 30!"`* - hangzik a válasz.
+*`"Ashton, mi is most a talonunk a ticketekt illetően?"`* - kérdi Orik. *`"Kereken 30!"`* - hangzik a válasz.
 
 *`"Szerintem ti csak az adrenalinra vágytok!"`* - vág közbe a lány.
 
@@ -162,7 +162,7 @@ Közben az üdvrivalgás közepette Orik megkapja a 60 🎫-t. *`"Nagyon szép m
 
 *`"Nagyon gratulálok, nem tudtam, hogy ennyire értesz az állatokhoz!"`* - mondja Sera Oriknak. *`"Ohh, hát nem az én érdemem, én csupán az utas voltam! Kiskegyed is derekasan versenyzett!"`* - mondja Orik.
 
-*`"Nem biztos, hogy meg szeretnéd nézni azt, amit Ash tervez!"`* - jelzi Sera. *`"Miért, mire gondol a kisasszony? Ash'ton egy úriember, csak a lovagiasság vezeti."`* - válaszol Orik, érezve, hogy valami shady éle van a dolognak.
+*`"Nem biztos, hogy meg szeretnéd nézni azt, amit Ash tervez!"`* - jelzi Sera. *`"Miért, mire gondol a kisasszony? Ashton egy úriember, csak a lovagiasság vezeti."`* - válaszol Orik, érezve, hogy valami shady éle van a dolognak.
 
 Rorr még ünnepel a nézőkkel, nem tűnik fel neki, hogy a többiek kimentek. Sera utána kiált, hogy jöjjön, Rorr szép komótosan felzárkózik.
 
@@ -177,7 +177,7 @@ Rorr meglátva az embert a vérben, jelzi, hogy ő tud segíteni rajta. Kis kán
 
 Egy nagy karám tárul szemünk elé, lekerített résszel. Orik catch-upolja Rorrt a történtekről, a gyíkot nem kell megölni, csak előadni az gyilkolást. (tetrálisan - hogy? eljászva - akkor milért nem ezt írják)
 
-A karámnál egy megtermett félork üdvözli a népeket. *`"Áá, biztos te vagy az Ash'ton!"`* néz ránk. *`"Úgy bizony! Látom a hírem megelőz! Beszéltünk Lucillal, és minden vágyunk, hogy megnézzük, hogyan kell sárkányt ölni!"`* - jelzi.
+A karámnál egy megtermett félork üdvözli a népeket. *`"Áá, biztos te vagy az Ashton!"`* néz ránk. *`"Úgy bizony! Látom a hírem megelőz! Beszéltünk Lucillal, és minden vágyunk, hogy megnézzük, hogyan kell sárkányt ölni!"`* - jelzi.
 
 Beszélgetés közben feltűnik, hogy a bal karján mély és frissnek tűnő harapásnyomokat veszünk észre. *`"Nem mindig kezes?"`* - *`"Ez a dög? Rémálom, vad bestia.. Nem tudom Lucil mit csinált vele, nem véletlen, hogy velem van, nem versenyzik.. Mit mondott nektek erről?"`* - *`"Minden kedvence élje túl a versenyt."`* - *`"Mondok valamit.. alapvetően szabály nincs rá, hogy túl kell élnie, én pedig megmotiválnálak egy kis készpénzzel, ha kis túlkapás történne az előadás folyamán.. és ez a dög megdöglene."`* Unimpressed Orik. *`"Nem bántjuk az állatokat!"`* - jelenti ki Nana. *`"Történnek balesetek!"`* - *`"Balesetből sem bántjuk őket!"`* Ash és Sera fejben beszélgetnek a baleset részleteiről, hogyan lehetne kivitelezni.
 

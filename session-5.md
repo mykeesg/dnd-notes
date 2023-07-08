@@ -25,9 +25,9 @@ Besötétedik, az éjszaka hangjai kezdik átvenni a dominanciát. Az út mellet
 
  Alkonyat tájékán megállunk - Orik sátrat ver - Sera az ökröket gondoskodja, Ash tüzet gyújt, majd zenélni kezd, Rorr és Nana tüzifáért mennek. Mire kész a tábor, már majdnem teljesen sötét lesz.
 
- *`"Ash'ton, esetleg, ha nem vagyok udvariatlan, lehet számot kérni?"`* - kérdezi Orik. *`"Mire vágynál?"`* kérdi vigyorogva a halfling. *`"Esetleg..egy ilyen világlátott történetmondó, mint te, biztosan hallott már Tasharól!"`* - csillan fel Orik szeme. *`"Óóó, Tasha és az ő mágikus üstjéről vagy a félelmetes nevetéséről?"`* - kérdezi Ash. *`"Az üstjét mindig is kedveltem, nagy hatalmú eszköz"`* - válaszol Orik.
+ *`"Ashton, esetleg, ha nem vagyok udvariatlan, lehet számot kérni?"`* - kérdezi Orik. *`"Mire vágynál?"`* kérdi vigyorogva a halfling. *`"Esetleg..egy ilyen világlátott történetmondó, mint te, biztosan hallott már Tasharól!"`* - csillan fel Orik szeme. *`"Óóó, Tasha és az ő mágikus üstjéről vagy a félelmetes nevetéséről?"`* - kérdezi Ash. *`"Az üstjét mindig is kedveltem, nagy hatalmú eszköz"`* - válaszol Orik.
 
-Ash'ton zenélni kezd. Orik lenyűgözötten hallgatja, néha azért megrándul a szemöldöke, villan a szeme, jegyzetel egy-két dolgot, de mosolyogva hallgatja, meg is tapsolva az előadást a végén. *`"Egészen kiváló!"`* - jegyzi meg.
+Ashton zenélni kezd. Orik lenyűgözötten hallgatja, néha azért megrándul a szemöldöke, villan a szeme, jegyzetel egy-két dolgot, de mosolyogva hallgatja, meg is tapsolva az előadást a végén. *`"Egészen kiváló!"`* - jegyzi meg.
 
 Így telik az este, az úton ritkás a forgalom - főleg járőrök vagy magányos lovasok mennek el néha.
 Van, aki biccent, van aki inkább siet tovább.

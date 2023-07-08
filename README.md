@@ -30,6 +30,8 @@ Külön lapon, [itt olvasható](./who-is-who.md).
 
 Emoji|Jelentés|Magyarázat
 -----|-----|-----
+ 💬 | párbeszéd | Élőszó, ki/hogy mondta
+ 📡 | telepátia | általában Serafine és valaki között
 🗡 | melee attack
 🏹 | ranged attack
 💫 | spell attack
