@@ -35,7 +35,7 @@ Gundren elmondása alapján kalandor munkát ajánl a társaságnak:
 
 Gundren elindul az egyik szabad asztal felé, hogy a részleteket is ismertesse, mi követjük. Az odaérő hobgoblin - Orik is, majd a többiek is bemutatkoznak. Ash kifejezetten alultápláltnak tűnik. A szeme ragyogóan smaragdzöld - a nyakában egy bőr szíjon egy szemgolyó lóg, amiben a bőrének vörössége és a szeme zöldje konstans keveredésben van.
 
-Gundren egy *hatalmas felfedezésről* mesél, Pandalin városával kapcsolatosan. A bányászvárosba kéne bányászati dolgokat eljuttatni - egy szekérnyi felszerelést elkísérni *Barten vegyesboltjába*. Ez fejenként 10🥇-t jelent, valamint úti kaját és szállást addig is. A munka *izgalmasabb és gyümölcsözőbb részét* majd odaérve fogja ismertetni. Reggeli indulás, a déli kapunál találkozunk. *`"Gundren Rockseeker vagyok, a Rockseeker testvérektől. Egyenlő felelősség, egyenlő bérezés."`* - teszi hozzá, az anyagi vonzat kapcsán.
+Gundren egy *hatalmas felfedezésről* mesél, Phandalin városával kapcsolatosan. A bányászvárosba kéne bányászati dolgokat eljuttatni - egy szekérnyi felszerelést elkísérni *Barten vegyesboltjába*. Ez fejenként 10🥇-t jelent, valamint úti kaját és szállást addig is. A munka *izgalmasabb és gyümölcsözőbb részét* majd odaérve fogja ismertetni. Reggeli indulás, a déli kapunál találkozunk. *`"Gundren Rockseeker vagyok, a Rockseeker testvérektől. Egyenlő felelősség, egyenlő bérezés."`* - teszi hozzá, az anyagi vonzat kapcsán.
 
 Mindenki beleegyezik. Gundren nagy lelkesen elrohan, előkészíteni a dolgokat. Ash és Serafina még pusmognak a dolgok kapcsán.
 

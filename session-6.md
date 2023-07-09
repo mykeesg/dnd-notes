@@ -131,57 +131,61 @@ Orik előveszi a szerződést, átnézi, hogy a megbízók testi épsége hogy b
 * *`"Mi a főni neve?"`* - puhatolódzik újra Nana.
 * *`"Mondom, hogy nem tudom, annyi ideje még nincs itt.."`* - hessegeti el a kérdést a kis goblin.
 * *`"Nem tudom, ki hogy van vele..Én úgy gondolom, hogy hasznos lenne, ha életben tartanánk a megbízóinkat! De ha titeket ez nem különösebben érdekel, hajlandó vagyok szemet hunyni az eset felett, és tovább menni!" - 💬 [Serafine]`*
-* *`"egyet értek a kisasszonnyal"`* - orik
-* *`"milyen messze van a goblin tanya?"`* - kérdi rorr.
-* *`"nem túl messze, hogy ne kelljen sokat cipekedni!"`* 
-* *`"Milyen praktikus gondolkodás, nem jellemző rátok!"`* _ orik
+* *`"Egyetértek a kisasszonnyal! - 💬 [Orik]"`*
+* *`"Milyen messze van ez a goblin tanya?" - 💬 [Rorr]`*
+* *`"Nem túl messze, hogy ne kelljen sokat cipekedni!" - 💬 [Tiri]`*
+* *`"Milyen praktikus gondolkodás, nem jellemző rátok! - 💬 [Orik]"`*
 * *`"köszönjük!"`* - kisgoblin. *`"Visszaérünk oda, mire a nap legmagasabban van!"`* - teszi még hozzá.
 * *`"szép heylen laksz?" - 💬 [Serafine]`* - kérdi Sera.
-* *`"nekünk jó - vannak szép sziklák, meg egy kis patak!"`*
+* *`"nekünk jó - vannak szép sziklák, meg egy kis patak!" - 💬 [Tiri]`*
 * *`"én megnézném! és a többiek?" - 💬 [Serafine]`*
 * *`"amennyiben megmentjük a megbízóinkat, el fogják nekünk nézni!"`* - orik
 * *`"nem beszélve a bónuszról, ami csurran cseppen egy ilyen hőstettért" - 💬 [Serafine]`*
-és a szekérrel mi lesz? nem hagynám itt - orik
-*`"az ösvényen eldöcög - de a veremcsapdán nem tud átmenni"`*
-lehet addig kitalálok valamit, ami segít - orik
-ha ezek a goblinok tartják magukat a jól megszokott hagyományokhoz, hallgatni fognak ránk - kacsint Orik Rorra cinkosan.
-én bízom az ítélőképességedben Orik - sera
-*`"És mondd cska, ahol ti lakotk az egy barlang vagy egy kis falu házikókkal?"`* - ashley.
-*`"balrang!"`* - goblin
-*`"Akkor? Mehetünk?"`* - kérdi Sera, majd felugrik a bakra.
-Ha nem tart sokáig, nem bánom.. Elkísér minket odáig, aztán ha már nem barátságos, elvágjuk a torkát! - rorr
-hogy mi? - kisgoblin
-felvágjuk a tortát - korrigál Sera.
-*`"Ashley, minden rendben?"`* - kérdi Orik.
-*`"Persze."`* - válaszol.
-*`"Kiváló!"`* - mondja bátran.
-*`"A hatás megújítható, ha elmúlna?"`* - kérdezi Orik Seratól. 
-*`"Ha jól csinálom, igen. Ha elszúrom, akkor nem."`* - jön a válasz.
-*`"Akkor ne késlekedjünk!"`* - pattan fel Orik is a szekérre.
-*`"Ezeknek a szívéből mi nem eszünk..a vadaknak adjuk, nem méltóak rá!"`*
+* *`"És a szekérrel mi lesz? Nem hagynám itt.." - 💬 [Orik]`*
+* *`"Az ösvényen még eldöcög - de a veremcsapdán már biztos nem tud átmenni! - 💬 [Tiri]"`*
+* *`"Lehet addig kitalálok valamit, ami segít.." - 💬 [Orik/gondolkodva] - "Bár ha ezek a goblinok tartják magukat a jól megszokott hagyományokhoz, hallgatni fognak ránk" - 💬 [Orik/Rorr-ra kacsintva]`*
+* *`"Én bízom az ítélőképességedben, Orik" - 💬 [Serafine]`*
+* *`"És mondd csak, ahol ti laktok, az egy barlang, vagy egy kis falu házikókkal?" - 💬 [Ashley]`*
+* *`"Barlang!" - 💬 [Tiri]`*
+* *`"Akkor? Mehetünk?" - 💬 [Sera/a bakra felugorva]`*
+* *`"Ha nem tart sokáig, nem bánom.. Elkísér minket odáig, aztán ha már nem barátságos, elvágjuk a torkát!" - 💬 [Rorr]`*
+* *`"Hogy mi?!" - 💬 [Tiri]`*
+* *`"Felvágjuk a tortát!" - 💬 [Serafine/nyugtatóan]`*
+* *`"Ashley, minden rendben?" - 💬 [Orik]`*
+* *`"Persze." - 💬 [Ashley/durcásan]`*
+* *`"Kiváló!" - 💬 [Orik/örömmel]`*
+* *`"A hatás megújítható, ha elmúlna?" - 💬 [Orik/Serafine-tól]`*
+* *`"Ha jól csinálom, igen. Ha elszúrom, akkor nem." - 💬 [Serafine]`*
+* *`"Akkor ne késlekedjünk!" - 💬 [Orik]`*
+* *`"Ezeknek a szívéből mi nem eszünk..a vadaknak adjuk, nem méltóak rá!" - 💬 [Rorr/megvetően a goblin tetemekre mutatva]`*
 
-Keskeny ösvényen indulunk északra.
+Keskeny ösvényen indulunk északra, elöl Tiri, Sera a bakon, a többiek gyalog követik őket. Kb. 10 perc séta után Tiri megálljt mutat.
 
-Kb. 10 perc után Tiri megálljt mutat. *`"Itt van egy csapda keresztbe az úton!"`* - jelzi.
-*`"Tudod hatástalanítni?"`* - kérdi Sera.
-*`"Megpróbálhatom, ha szeretnéd!"`* - mondja a boka magasságában keresztbe feszített kötélre mutatva.
+* *`"Itt van egy csapda keresztbe az úton!" - 💬 [Tiri]`*
+* *`"Tudod hatástalanítani?" - 💬 [Sera]`*
+* *`"Megpróbálhatom, ha szeretnéd!" - 💬 [Tiri]`*
 
-*`"Nehéz hatástalanítani?"`* - sera
-*`"Nem, csak el kell vágni a kötelet!"`* - tiri.
+A goblin nézegeti bambán a boka magasságában keresztbe feszített kötelet.
+
+* *`"Nehéz hatástalanítani?" - 💬 [Sera]`*
+* *`"Nem, csak el kell vágni a kötelet!" - 💬 [Tiri]`*
 
 Orik pár lépéssel hátráltatja a szekeret.
-*`"Ha elvágod a kötelet akkor mi történik?"`* - kérdezi Sera.
-*`"Zutty!"`* - kiált a goblin.
-*`"Legyél óvatos!"`* - mondja Sera.
-*`"Ki, én?"`* - kérdi Tiri.
-*`"Igen, nem szeretném hogy baja legyen az új barátomnak!"`* - teszi hozzá Sera.
 
-Ashley egy kis mage hand-et varázsol, a kezébe egy tőrt tesz, azzal vágja el a kötelet. Az ösvény mellett egy faág felcsapódik.
-*`"Jó, mehetünk!"`* - Tiri.
+* *`"Ha elvágod a kötelet akkor mi történik?" - 💬 [Sera]`*
+* *`"Zutty!" - 💬 [Tiri]`*
+* *`"Legyél óvatos!" - 💬 [Sera]`*
+* *`"Ki, én?" - 💬 [Tiri]`*
+* *`"Igen, nem szeretném hogy baja legyen az új barátomnak!" - 💬 [Sera]`*
 
-Ahogy megyünk tovább, az erdő egyre sűrűbb. Egy újabb 10-15 perc után megint megállít Tiri: *`"Itt a veremcsapda, amit mondtam!"`*.
+Ashley megunja a tökökést, valamint a goblin kezében sem látna szívesen fegyvert. Közbelépve egy kis mage hand-et varázsol, a kezébe egy tőrt tesz, azzal vágja el a kötelet. Az ösvény mellett egy faág felcsapódik.
 
-*`"Tehát itt kell hagyni a szekeret..Vagy Orik?"`* - kérdi Sera.
+* *`"Jó, mehetünk!" - 💬 [Tiri]`*
+
+Ahogy megyünk tovább, az erdő egyre sűrűbb. Egy újabb 10-15 perc után megint megállít Tiri.
+
+* *`"Itt a veremcsapda, amit mondtam!" - 💬 [Tiri]`*
+* *`"Tehát itt kell hagyni a szekeret..Vagy Orik?" - 💬 [Sera]`*
 
 Orik lepattan a szekérről, majd megvizsgálja a csapdát: 6ft széles négyzet alakú gödör, faágakkal és avarral lefedve.
 
