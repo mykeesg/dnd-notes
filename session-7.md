@@ -281,28 +281,31 @@ A többiek belépnek a fogadóba - egy megszokott fogadó kép tárul elénk. a 
 
 * *`"Jó estét!" - 💬 [Rorr+Sera]`*
 
-Végigmérik a társaságot, megrökönyödve nézik Rorrt. Visszaköszönnek. * *`"Toblen, ugyebár?" - 💬 [Sildar]`*
+Végigmérik a társaságot, megrökönyödve nézik Rorrt. Visszaköszönnek.
+* *`"Toblen, ugyebár?" - 💬 [Sildar]`*
+
 igen, én vagyok, Toblen Stonehill
 sildar wholewinter. már leveleztünk.
 óó, sildar úr! persze, persze! üdv phandalinban. örülök, hogy mostmár személyesen is találkozhatunk. 
 én is örülök.. mondd csak, iarnoról tudtok valamit?
 toblen arca elkomorodik.."két hónapja eltűnt"
 * *`"Eltűnt?" - 💬 [Sera]`*
+
 el, nyom nélkül. fogadós
 ettől féltem..na jó, ezt majd megbeszélem harbinnal személyesen..azt hiszem, most minél előbb nyugalomra térünk. van szabad szoba esetleg?- sildar
 van 6 szabad szobám, gyakorlatilag majdnem az összes...a konyhát fel tudjuk fűteni újra, vagy esetleg kenyér hideg hússal, ha megfelel.
 hideg husunk meg kenyerünk nekünk is van...de azt hittem egy ilyen szépfiútól valami pikánsabb vacsorára is futja -- ashley
 megkérhetem a {feleségemet}, hogy valami finomat esetleg összerittyentcsen - toblen
 
-* *`"te nem vagy gonosz?" - 💬 [kisfiú/rorrtól]`*
-* *`"attól függ, kivel" - 💬 [ashley]`*
-* *`"miért lennék gonosz? én jó vagyok!" - 💬 [Rorr]`*
-* *`"láttam ahogy elintézett egy csomó rossz goblint!" - 💬 [sera]`*
-* *`"de nagyon szépen tud énekelni!" - 💬 [ashley]`*
-* *`"egy éneklő miacsoda?!" - 💬 [fiú/ámulva]`*
-* *`"bugbear!" - 💬 [toblen]`*
+* *`"Te nem vagy gonosz?" - 💬 [kisfiú/rorrtól]`*
+* *`"Attól függ, kivel" - 💬 [ashley]`*
+* *`"Miért lennék gonosz? én jó vagyok!" - 💬 [Rorr]`*
+* *`"Láttam ahogy elintézett egy csomó rossz goblint!" - 💬 [sera]`*
+* *`"De nagyon szépen tud énekelni!" - 💬 [ashley]`*
+* *`"Egy éneklő miacsoda?!" - 💬 [fiú/ámulva]`*
+* *`"Bugbear!" - 💬 [Toblen]`*
+* *`"Mielőtt belekezdenél, mit gondolsz, a rakományunk biztonságban lehet az istállóban az éjjelre?" - 💬 [Sera/Toblentől]`*
 
-* *`"Mielőtt belekezdenél, mit gondolsz, a rakományunk biztonságban lehet az istállóban az éjjelre?" - 💬 [sera]`*
 szívesen mondanám, hogy igen, de sajnos ... nem tudom beszélhetek e róluk... van némi bandita problémánk a városban.- toblen
 a városban, vagy városon kívül, de bejárnak portyázni? - ashley
 a városban - mióta eltűnt a mage, átvették a 
@@ -349,6 +352,8 @@ gyerekek..felnagyítják a szotrit - toblen
 "de, ott játszott a kúriától délre, és ott"
 menj szépen aludni! 
 
+Carp (Pip haverja)
+
 pip duzzogva elmegy hátra.
 toblen még odaszól hozzánk: nézzétek, volt aki eltűnt, az egész családjával együtt..én nem szeretném..ne a gyereknél puhatolózzatok. én se szeretnék ebbe belekveredni. nagyon zavaró, bosszantó, hogy a jobb élet reménye ide jutott, de féltem a családomat.
 kitől kell félteni az életünket, preventív jelleggel? _ ashley
@@ -392,7 +397,7 @@ amíg a többiek bent voltak, orik egy ismerős női hangot hall a fejében:
 > nem kell mindig elhamarkodottan ítélkezni. phandalinban több van, mint gondolnád. főleg ha a bányát és a FoS-t beüzemeik. az engem is érdekel. nem szeretném ha rossz kezekbe kerülne.
 > ezekszerint FoS itt van?
 > valahol a környékne. a tröténelem során elveszett, érdekes hogy gundren megtalálta és térképe is van
-> a lordok szövetségének egy tagját, irano aldreket 2 hónapja elrabolták/eltűnt. a város uralmát banditák vettékát
+> a lordok szövetségének egy tagját, Irano Aldreket 2 hónapja elrabolták/eltűnt. a város uralmát banditák vettékát
 > a lordok szövetsége egy szép kis gittegylet, dicséretes amit próbálnak elérni, de komolytalan.
 > amennyiben új instrukció nincs, folytatom a fejlemények felderítését
 > köszönöm orik, hangysúlyoznám. nem szerezném rossz kezekbe kerüljön a FoS.

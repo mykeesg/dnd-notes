@@ -14,7 +14,10 @@ A Rockseeker testvérek egyike, aki kalandozókat eredetileg felbérelte. A kül
 
 ## Sildar Hallwinter
 
-A térség egyik védnöke, a Lordok Szövetségének megbecsült tagja. Többek között neki köszönhető, hogy Neverwinter, Phandalin és környékük újra a régi fényében ragyog. Gundrennel együtt a küldetés elején elhurcolták a rajtuk ütő golbin hordák. A zsákmánnyal együtt egy barlangba hurcolták őt, a kalandorok megkísérelték kiszabadítani. 🔁
+A térség egyik védnöke, a Lordok Szövetségének megbecsült tagja. Többek között neki köszönhető, hogy Neverwinter, Phandalin és környékük újra a régi fényében ragyog. Gundrennel együtt a küldetés elején elhurcolták a rajtuk ütő golbin hordák. A zsákmánnyal együtt egy barlangba hurcolták őt, a kalandorok megkísérelték kiszabadítani. A csapat még időben érkezett, mielőtt a félholtra vert harcost a goblinok megehették volna. A mentőakció sikerrel záródott (bár a felszerelését nem találták meg), Sildarral együtt Phandalinba utazott a társaság.
+
+Phandalinban a helyi viszonyokat látva Sildar a saját kezébe vette a dolgokat, a Lordok Szövetségének hivatalos képviselőjeként.
+ 🔁
 
 <center>
 
@@ -56,6 +59,7 @@ Goblin íjász, aki a megpróbált a csapaton <a href='./session-6.md#tiri_intro
 <details>
   <summary>⚠ <b><i>Session 0 | Spoiler</i></b> ⚠</summary>
   A Bonebreaker nevű bugbear klán egyik kiváló harcosa, aki a sámánjuk, Thernurr meggyilkolása után együtt indult Rorral megkeresni Churrark ellopott koponyáját. Miután találkoztak Nanával, és Rorr nem hagyta, hogy megölje az ifjú eladrint, Thernurr kitagadta Rorrt, árulónak nevezve, majd a maga útjára indult.
+  <p/>
 </details>
 
 A Bugbear harcos a Cragmaw nevű goblin törzs vezetője lett. A *király*tól kapott kinevezést nem élvezhette sokáig, miután a kalandorok rajta ütöttek. Rorrt, amennyiben a bugbear fejet hajt előtte és hűséget esküszik, *"visszafogadja"*, bár továbbra is becstelennek tartja a kalandozó bugbeart.
