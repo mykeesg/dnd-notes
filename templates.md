@@ -45,4 +45,8 @@
 
 ## Image
 
-![tooltip](./images/ash_v2.jpg)
+<center>
+
+![tooltip](./images/npcs/gundren.png)
+
+</center>

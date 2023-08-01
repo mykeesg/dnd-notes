@@ -72,3 +72,13 @@ Habár Rorrt átmenetileg padlóra küldte, Ashley kardja által a három napos 
 ![Borgork, a néhai goblin-klán vezetője](./images/npcs/borgork.jpg)
 
 </center>
+
+## Daran Edermath
+
+Idősebb fél-elf kalandozó, aki a Phandalin melletti gyümölcsös mellett telepedett le, visszavonulva időskori éveire. Segített a kalandozóknak a Sleeping Giant kocsmában tanyázó banditák elintézésében. 🔁
+
+<center>
+
+![Daran Edermath, a félelf kalandor](./images/npcs/daran_edermath.jpg)
+
+</center>
