@@ -23,6 +23,7 @@
 * [Session 7](./session-7.md)
 * [Session 8](./session-8.md)
 * [Session 9](./session-9.md)
+* [Session 10](./session-10.md)
 
 ## Ki kicsoda / Névmutató
 
