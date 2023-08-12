@@ -29,6 +29,11 @@
 
 Külön lapon, [itt olvasható](./who-is-who.md).
 
+## Fordítások
+
+1. Varázskohó - [`Forge of Spells`](https://forgottenrealms.fandom.com/wiki/Forge_of_Spells)
+2. 
+
 ## Emoji jelmagyarázat
 
 Emoji|Jelentés|Magyarázat
@@ -51,4 +56,5 @@ Emoji|Jelentés|Magyarázat
 💤 | long rest
 🏆 | level-up
 🗣 | nyelvváltás a beszélgetésben | További jelzésig ezen a nyelven beszél az adott karakter/NPC
+🌍 | fordított név/fogalom/hely |  Az angol név a `README` fordításai között olvasható
 🔁 | még nem befejezett | A leírás később folytatásra kerül, még későbbi kalandokban derülnek ki részletek/mi történt
