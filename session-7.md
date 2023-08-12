@@ -2,34 +2,34 @@
 * *`"Ezt már szeretem, mikor ilyen könnyű.. Mit ajánlasz?" - 💬 [Sera]`*
 * *`"Hát ööhm..így ezt?" - 💬 [goblin/körbemutatva a looton]`*
 * *`"Mi akadályoz meg minket abban, kedves goblin uraság, hogy csak simán elvigyük <ezt>, mit teszel te hozzá ehhez az alkuhoz?" - 💬 [Orik]`*
-* *`"Hát öööm" - 💬 [goblin]`*
-* *`"Jajj orik, minden életért kár, még az ilyen alsóbrendűekért is" - 💬 [Ashley]`*
-csak elmennék anélkül, hogy szólnék a többieknek - goblin
-a szó amit keresel -kegyelem: orik
-de vajon megbízhatunk e a szabávan? -ashley
-egyelőre nem ér túl sokat a szava, nem ajánl - sera
-soha ilyen becsületes goblin nem járt még a barlangban, mint én! - goblin
+* *`"Hát ööhhm..." - 💬 [goblin]`*
+* *`"Jajj Orik, minden életért kár, még az ilyen alsóbrendűekért is.." - 💬 [Ashley]`*
+* *`"Csak elmennék anélkül, hogy szólnék a többieknek!" - 💬 [goblin]`*
+* *`"A szó amit keresel: 'kegyelem'!" - 💬 [Orik/megvetően]`*
+* *`"De vajon megbízhatunk e a szavában?" - 💬 [Ashley]`*
+* *`"Egyelőre nem ér túl sokat a szava, nem ajánl semmi hasznosat.." - 💬 [Sera]`*
+* *`"Soha ilyen becsületes goblin nem járt még a barlangban, mint én!" - 💬 [goblin/győzködve minket]`*
 
 Orik felnevet, pontosan tudja, hogy a goblin kijelentése nem sokat ér. 
 
-nem túl nagy a balrnak és nem sok goblin él már benne..így az üsszehasonlítás nem a legjobb
+* *`"Nem túl nagy ez a barlang, és nem sok goblin él már benne..Így az összehasonlítás nem a legjobb." - 💬 [Orik]`*
+* *`"Jó, hát mit vársz tőlem?!" - 💬 [goblin]`*
+* *`"Tudod e hol tartják Sildart fogva, akkor talán megkíméljük az életed!" - 💬 [Rorr]`*
+* *`"Az ember a barlang másik felében van!" - 💬 [goblin]`*
+* *`"Meg akarják enni, mindjárt ebédidő!" - 💬 [Rorr]`*
+* *`"És ezt mikor is akartad elmondani?" - 💬 [Sera]`*
+* *`"Eddig nem volt idő rá!" - 💬 [Rorr]`*
+* *`"Meg tudnád mutatni, hol van?" - 💬 [Ashley/a goblint kérdve]`*
+* *`"Nem olyan nagy az a barlang, odataláltok!" - 💬 [goblin]`*
 
-jó hát mit vársz tőlem - golbin
-tudod e hol tartják sildart fogva, akkor talán megkíméljük az életed - rorr
-az ember másik felében van - 
-meg akarják ernni, mindjárt ebédidő - goblin
-ezt mikor akartad elmondani - sera
-nem volt idő rá - rorr
-meg tudod mutatni? - ashley
-nem olyan nagy az a barlang, odataláltok - goblin
+A golbin az életével játszik, ezt jelezzük is neki, hogy sok ajánlanivalója nincs a helyzetében, az együttműködés az egyetlen lehetősége.
 
-a golbin az életével játszik, ezt jelezzük is neki, sok ajánlanivalója nincs a hgelyzetében.
-a zsákmányt se felejtsük majd itt! - rorr
+* *`"A zsákmányt se felejtsük majd itt!" - 💬 [Rorr]`*
 
-Sera átkutatja borgorkot - eredménytelenül.
-látom nem tudod hogy kell ezt, majd én ! lép oda Rorr. A felszerelése van nála, bőr páncél meg pajzs (elég rossz állapotban). Morning star fegyvere pluszban.
+Sera átkutatja Borgorkot - eredménytelenül.
+* *`"Látom, nem tudod hogy kell ezt, vagy mit keress, na majd én!" - 💬 [Rorr/odalépve]`*
 
-Ashley sürget minket, Sildar kapcsán fogy az idő.
+ A felszerelése van nála, bőr páncél meg pajzs (elég rossz állapotban). Morning star fegyvere pluszban. Ashley sürget minket, Sildar kapcsán fogy az idő.
 
 Orik felállítja a goblint - * *`"🗣{goblin} Akkor megegyeztünk?" - 💬 []`*
 Orik alkudozik a golbinnal az életéért - odavezetni, és nem elárulni minket. - segíteni meggyőzni a többieket.
@@ -168,7 +168,7 @@ Tanakodunk, mi legyen a lootal, mikor induljunk.
 
 A legtöbben értetlenül nézünk rá, Ashley viszont pontosan érti a dolgot, ezért Sildar összefoglalja
 
-> Phandalin vbiszonílag nagy város volt több száz véve, törpök és gnomeok bányásztak együtt, ez volt az egyezmén ez a szövetség. találtak egy gazdag bányát amit elkezdtek kiterlmelni, a bánya neve pedig "Wave Echo Cave". Amellett hogy nyersanyagban gaztdag a bánya, erős mágia jelenléte van ott - mágikus erővel bírt. mikor ez kiderült, ember varázslók is csatlakoztak az egyezségbe, együtt kezdték a mágikus erőt kiaknázni. létrehoztak egy mágikus kohót (Forge of Spells), ahol mágikus tárgyakat tudtak kovácsolni magunknak. Ekkor volt Phandalin fénykora, viszont pár évtizeddel ezután, a nagy ork invázót a város és a bánya nem élte túl. a bánya helye el is veszett az évek során - a mágikus csata híre és a rengeteg áldozat fentmaradt.
+> Phandalin vbiszonílag nagy város volt több száz véve, törpök és gnomeok bányásztak együtt, ez volt az egyezmén ez a szövetség. találtak egy gazdag bányát amit elkezdtek kiterlmelni, a bánya neve pedig "Wave Echo Cave". Amellett hogy nyersanyagban gaztdag a bánya, erős mágia jelenléte van ott - mágikus erővel bírt. mikor ez kiderült, ember varázslók is csatlakoztak az egyezségbe, együtt kezdték a mágikus erőt kiaknázni. létrehoztak egy Varázskohót<sup>🌍</sup>, ahol mágikus tárgyakat tudtak kovácsolni magunknak. Ekkor volt Phandalin fénykora, viszont pár évtizeddel ezután, a nagy ork invázót a város és a bánya nem élte túl. a bánya helye el is veszett az évek során - a mágikus csata híre és a rengeteg áldozat fentmaradt.
 
 Ashley néha egyszerűsíti Sildar mondanivalóját a többieknek. Orik szeme felcsillan a forge hallatán.
 * *`"Amint sejthetitek, Gundren és testvérei megtalálták a bányát, és szeretnék újra beindítani azt, ami nekünk, és a lordoknak is kapóra jönne a térség felvirágoztatása érdekében" - 💬 [Sildar]`*
@@ -232,12 +232,12 @@ Sildar beszámol róla, hogy ők is voltak a karneválon, de csak futólag - enn
 Orik a térképtartó kapcsán kérdezi, hogy vajon azt miért nem vitték el, csak a tartalmát - de erre nem tud válaszolni.
 
 * *`"Kedves Sildar..említésre került korábban, hogy nem véletlenszerűen támadtak ezek a goblinok..felmerült bárki, aki tudhatott a tervről/utazásról és értesíthette volna őket?" - 💬 [Sera]`*
-* *`"A fekete pók fogalmam sincs ki lehet mi lehet, honnan tudhat bármiről - Gundren titokban akarta tartani az egészet, nem véletlenül. Az egyedüli, aki Phandalinban tudott a dologról, az az egyik partnerem, a lordok szövetségéből, akiről sajnos már hónapok óta nem hallottunk. ezért is tartok gundrennel, hogy ellenőrizzem, hogy minden rendben van e vele: "Iarno Albrek". Ő tudott a bányáról, de a mostani utazásról nem tudhatott, hiszen hónapok óta nem volt kapcsolat vele." - 💬 [Sildar]`*
+* *`"A fekete pók fogalmam sincs ki lehet/mi lehet, honnan tudhat bármiről - Gundren titokban akarta tartani az egészet, nem véletlenül. Az egyedüli, aki Phandalinban tudott a dologról, az az egyik partnerem, a Lordok Szövetségéből, akiről sajnos már hónapok óta nem hallottunk. ezért is tartok Gundrennel, hogy ellenőrizzem, hogy minden rendben van -e vele: 'Iarno Albrek'. Ő tudott a bányáról, de a mostani utazásról nem tudhatott, hiszen hónapok óta nem volt kapcsolat vele." - 💬 [Sildar]`*
 * *`"A térképről sem?" - 💬 [Serafine]`*
 * *`"a térkép létezéséről tudott, de egyéb részletről nem" - 💬 [Sildar]`*
 * *`"Mire specializálódott a mágus?" - 💬 [Orik]`*
 * *`"Nem tudom.." - 💬 [Sildar/gondolkodva]`*
-* *`"A legjobb akkor ha megekeressük és megkérdezzük - ha még életben van." - 💬 [Serafine]`*
+* *`"A legjobb akkor ha megkeressük, és megkérdezzük - ha még életben van." - 💬 [Serafine]`*
 
 Két óra utazás után egy újabb elágazáshoz érkezünk - itt jobbra fordulva megy az út Phandalin felé. A sötétedés kezdetekor jelzi Sildar, hogy már csak 2-3 óra Phandalin, itt talán már nem érdemes megállni, még ha veszélyesebb is.
 
@@ -297,11 +297,11 @@ van 6 szabad szobám, gyakorlatilag majdnem az összes...a konyhát fel tudjuk f
 hideg husunk meg kenyerünk nekünk is van...de azt hittem egy ilyen szépfiútól valami pikánsabb vacsorára is futja -- ashley
 megkérhetem a {feleségemet}, hogy valami finomat esetleg összerittyentcsen - toblen
 
-* *`"Te nem vagy gonosz?" - 💬 [kisfiú/rorrtól]`*
-* *`"Attól függ, kivel" - 💬 [ashley]`*
+* *`"Te nem vagy gonosz?" - 💬 [kisfiú/Rorrtól]`*
+* *`"Attól függ, kivel." - 💬 [Ashley]`*
 * *`"Miért lennék gonosz? én jó vagyok!" - 💬 [Rorr]`*
-* *`"Láttam ahogy elintézett egy csomó rossz goblint!" - 💬 [sera]`*
-* *`"De nagyon szépen tud énekelni!" - 💬 [ashley]`*
+* *`"Láttam ahogy elintézett egy csomó rossz goblint!" - 💬 [Sera]`*
+* *`"De nagyon szépen tud énekelni!" - 💬 [Ashley]`*
 * *`"Egy éneklő miacsoda?!" - 💬 [fiú/ámulva]`*
 * *`"Bugbear!" - 💬 [Toblen]`*
 * *`"Mielőtt belekezdenél, mit gondolsz, a rakományunk biztonságban lehet az istállóban az éjjelre?" - 💬 [Sera/Toblentől]`*
@@ -312,7 +312,7 @@ a városban - mióta eltűnt a mage, átvették a
 és .... semmit nem tesz az ügyben? - silvr
 fél.. nem mer tenni semmit -  toblen
 
-rorr lkérdezi, le tudjuk e pakolni a dolgoakt.
+Rorr lkérdezi, le tudjuk e pakolni a dolgoakt.
 a lionshield tulaja már alszik, őt már nem fogjuk ott találni.
 barthennél még a segédek talán ébren vannak.
 és ide behozni? 
@@ -376,45 +376,57 @@ kinyílik közben a konyhaajtó, egy toblennek egykorú nő lép ki, kezében a 
 miért, hogy járt? - sera
 már sehogy! - ma
 
-Thel Dendrar volt itt a fafaragó, egy héttel ezelőtt kiv.égeztéék a banditák , aztán elvitték a testét, 2 nappal később a felesége és a két gyereke is eltűnt. - toben
-egyre kevésbé szinpatikusak ezek - ashley
-ennek örülök..de javaslom egyenek, aztán térjenek nyugovóra - toblen
+* *`"Thel Dendrar volt itt a fafaragó, egy héttel ezelőtt kivégezték a banditák , aztán elvitték a testét, 2 nappal később a felesége és a két gyereke is eltűnt." - 💬 [Toblen]`*
+* *`"Egyre kevésbé szimpatikusak ezek.." - 💬 [Ashley]`*
+* *`"Ennek örülök..de javaslom egyenek, aztán térjenek nyugovóra." - 💬 [Toblen]`*
 
-sildar inkább kivesz egy szobát, elköszön, óvatosságra int, valaki mindig őrköjdjön. - nincs elég jól ahhoz, hogy kint éjszakázzon. nagyon hálás a megmentésért, a beígért jutalmat másnap kifizeti. jóéjszakát kíván, és elmegy aludni.
+Sildar inkább kivesz egy szobát - nincs elég jól ahhoz, hogy kint éjszakázzon. Nagyon hálás a megmentésért, a beígért jutalmat másnap kifizeti. Jó éjszakát kíván, és óvatosságra int minket, valaki mindig őrködjön. Elköszönve mindenkitől elmegy aludni.
 
-Nana a szekérre mászik, és naplót kezd írni.
+Amíg a többiek bent voltak, Orik egy ismerős női hangot hall a fejében:
 
-Orik a szekér mellett egy bűbájjal szórakozik - a vértezetén bűvöl valami - egy pillanatra felgyűjtma ágt kizökkentve, majd szabadkozik és eloltja a tüzet.
+> *- Drága Spellweaverem, jelentést kérek!*
+>  
+> *+ Úrnő, milyen kedves hogy a figyelméből rám is szentel egy keveset!*
+>  
+> *- Drága Orikom, én folyton figyeltelek!*
+>
+> *+ Egészen érdekes dolgokra találtam itt.. Biztosan hallott már az úrnő a Varázskohóról<sup>🌍</sup>.. Gundren és testvérei megtalálták ezt az elveszettnek hitt bányát. Egészen érdekfeszítő!*
+>
+> *- Ahogy sejtettem..*
+>
+> *+ Egyebek közt Gundrent elrabolták a goblinok, egy kisebb kompániát átsegítettünk a túlvilágra.. Ha az űrnő szándékozik csinálni valamit, az éterben keringenek. A goblinkirály színe elé viszik Gundrent, Sildart kiszabadítottuk.. Megérkeztünk Phandalin városába, meglepően felújított koszfészek. "It's a work in progress!"*
+>
+> *- Nem kell mindig elhamarkodottan ítélkezni. Phandalinban több van, mint gondolnád. Főleg ha a bányát, és a kohót beüzemelik - az engem is érdekel. Nem szeretném, ha rossz kezekbe kerülne.*
+>
+> *+ Ezek szerint a kohó itt van?*
+>
+> *- Valahol a környéken. A történelem során elveszett. Érdekes, hogy Gundren megtalálta, és térképe is van hozzá.*
+>
+> *+ A Lordok Szövetségének egy tagját, Irano Aldreket 2 hónapja elrabolták - vagy eltűnt. Azóta a város uralmát banditák vették át.*
+>
+> *- A Lordok Szövetsége egy szép kis gittegylet, dicséretes amit próbálnak elérni, de komolytalan.*
+>
+> *+ Amennyiben új instrukció nincs, folytatom a fejlemények felderítését!*
+>
+> *- Köszönöm Orik. Hangsúlyoznám, nem szeretném, hogy rossz kezekbe kerüljön a kohó!*
+>
+> *+ Minden erőmmel azon leszek, hogy a **megfelelő** kezekbe kerüljön!*
+>
+> *- Köszönöm, drága Spellweaverem..pápá!*
+>
+> *+ Alászolgája!*
 
-amíg a többiek bent voltak, orik egy ismerős női hangot hall a fejében: 
+A többiek ekkor érnek ki, nem veszik észre Orik belső monológját. Eszünk, iszunk, vacsora közben megosztjuk Orikkal is, hogy mi hangzott el bent.
 
-> Drága spellweaverem, jelentést kérek!
-> úrnő, milyen kedves hogy a figyelméből rám is szentel egy keveset
-> drága orikom, folyton figyeltek!
-> egészen érdekes dolgokra találtam itt..biztosan hallott már az úrnő a 'forge of spells'ről..gundren és testvérei megtalálták ezt az elveszettnek hitt bányát. egsézen érdekfeszítő
-> ahogy sejtettem
-> egyebek közt gundrent elrabolták a goblinok, egy kisebb kompániát átsegítettünk a túlvilágra.ha az űrnő szándékozik csinálni valamit, az éterben keringenenk. a goblinkirály színe elé viszkik gundrent, sildart kiszabadítottuk. megérkeztünk phandalin városába, meglepően felújított koszfészek. "it's a work in progress"
-> nem kell mindig elhamarkodottan ítélkezni. phandalinban több van, mint gondolnád. főleg ha a bányát és a FoS-t beüzemeik. az engem is érdekel. nem szeretném ha rossz kezekbe kerülne.
-> ezekszerint FoS itt van?
-> valahol a környékne. a tröténelem során elveszett, érdekes hogy gundren megtalálta és térképe is van
-> a lordok szövetségének egy tagját, Irano Aldreket 2 hónapja elrabolták/eltűnt. a város uralmát banditák vettékát
-> a lordok szövetsége egy szép kis gittegylet, dicséretes amit próbálnak elérni, de komolytalan.
-> amennyiben új instrukció nincs, folytatom a fejlemények felderítését
-> köszönöm orik, hangysúlyoznám. nem szerezném rossz kezekbe kerüljön a FoS.
-> minden erőmmel azon leszek hogy a _megfelelő_ kezekbe kerüljön
-> köszönöm drága spellweavberem. pápá
-> alá szolgája
+Nana a szekérre mászik, és naplót kezd írni. Orik a szekér mellett egy bűbájjal szórakozik - a vértezetén bűvöl valamit - egy pillanatra felgyújtja magát - kizökkenve az eddigi helyzetéből, szabadkozva eloltja a tüzet.
 
-(többiek ekkor érnek ki).
+Orik felajánlja, hogy ő kezdi az őrséget. Serafine is jelzi, hogy egy ideig ő is vállalja, még úgysem őrködött, és a harcokban is megúszott eddig mindent, nincs szüksége annyi pihenésre, mint a többieknek. A többiek elfogadják a felajánlásokat, nyugovóra térnek.
 
-eszünk, iszunk, megosztjuk, mi hangzott el bent.
+Orik őrsége eseménytelenül telik, csupán az éjszakában megszokott zajokkal - baglyok, apró rágcsálók - találkozik. Pár óra elteltével ő is pihenni megy, Serafine váltja őt.
 
-első őrség: orik
-serafine is vállal egy őrséget, még úgysem őrködött, és a harcokban is megúszott eddig mindent.
+Serafine nagyon koncentrál a sötétben - hiszen ő nem lát ott. Fülel, nézi a környezetét.. Bár néha mozgást vél felfedezni, nem tudja biztosra, mi is történhet a feketeségben.
 
-orik őrsége eseméyntelen, serafine váltja őt.
-serafine nagyon koncentrál a sötétben (ő nem lát ott), fülel, nézi a környezetét.
-Amint nana befejezi a színezést, átveszi az őrködést, sera visszapihen. Nana sem vesz észre semmit.
+Amint Nana befejezi a színezést, átveszi az őrködést, Sera is aludni megy. Nana sem vesz észre semmit, az éjszaka eseménytelenül telik így.
 
 ~~~
 {💤} long rest

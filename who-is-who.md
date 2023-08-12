@@ -82,3 +82,13 @@ Idősebb fél-elf kalandozó, aki a Phandalin melletti gyümölcsös mellett tel
 ![Daran Edermath, a félelf kalandor](./images/npcs/daran_edermath.jpg)
 
 </center>
+
+## Iarno Albrek
+
+A Lordok Szövetségének mágus tagja, aki Sildar és Gundren mellett a phandalini bánya, és a hozzá tartozó térkép létezéséről tudomást szerzett. Iarno, a kaland kezdete előtt pár hónappal eltűnt - Phandalint és a helyi lakosságot azóta banditák fosztogatják. Sildar fő célja, hogy előkerítse őt, hogy helyre álljon a rend a településen. 🔁
+
+<center>
+
+![Iarno Albrek, a mágus](./images/npcs/iarno.png)
+
+</center>
