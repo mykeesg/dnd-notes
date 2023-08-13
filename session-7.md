@@ -370,6 +370,9 @@ Eközben kinyílik közben a konyhaajtó, és egy Toblennel egykorú nő lép ki
 * *`"Thel Dendrar volt itt a fafaragó, egy héttel ezelőtt kivégezték a banditák, aztán elvitték a testét, 2 nappal később a felesége és a két gyereke is eltűnt." - 💬 [Toblen/szomorúan]`*
 * *`"Egyre kevésbé szimpatikusak ezek.." - 💬 [Ashley]`*
 * *`"Ennek örülök..de javaslom egyenek, aztán térjenek nyugovóra." - 💬 [Toblen]`*
+* *`"Thel Dendrar volt itt a fafaragó, egy héttel ezelőtt kivégezték a banditák , aztán elvitték a testét, 2 nappal később a felesége és a két gyereke is eltűnt." - 💬 [Toblen]`*
+* *`"Egyre kevésbé szimpatikusak ezek.." - 💬 [Ashley]`*
+* *`"Ennek örülök..de javaslom egyenek, aztán térjenek nyugovóra." - 💬 [Toblen]`*
 
 Sildar inkább kivesz egy szobát - nincs elég jól ahhoz, hogy kint éjszakázzon. Nagyon hálás a megmentésért, a beígért jutalmat másnap kifizeti. Jó éjszakát kíván, és óvatosságra int minket, valaki mindig őrködjön. Elköszönve mindenkitől elmegy aludni.
 
