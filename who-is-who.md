@@ -73,6 +73,16 @@ Habár Rorrt átmenetileg padlóra küldte, Ashley kardja által a három napos 
 
 </center>
 
+## Toblen Stonehill
+
+A Phandalinban található **'Stonehill'** fogadó tuladjonosa. A településre eredetileg bányászni érkezett, de képességei alapján inkább más elfoglaltságot keresett magának. A faluban lévő vöröskendősök tevékenysége miatt meghúzta magát, féltve felesége, Trilena és fia, Pip életét.
+
+<center>
+
+![Toblen Stonehill, a fogadós](./images/npcs/Toblen_Stonehill.png)
+
+</center>
+
 ## Daran Edermath
 
 Idősebb fél-elf kalandozó, aki a Phandalin melletti gyümölcsös mellett telepedett le, visszavonulva időskori éveire. Segített a kalandozóknak a Sleeping Giant kocsmában tanyázó banditák elintézésében. 🔁
