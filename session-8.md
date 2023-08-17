@@ -4,263 +4,282 @@ Mindenki felébred, semmi nem tűnt el az éjjel. Nana éjjel néha vihart/vill�
 
 Rorr belép a fogadóba, hogy reggelit intézzen. Toblen már ott tevékenykedik, egy felszolgálólány és egy megtermett köpenyes alak ül.
 
-mind az ötünkre kérünk reggelit - rorr
-tegnap csak 4en voltatok - toblen
-az 5ik kint maradt, őrködött - rorr
-ok a reggeli a szállás része. "Sildar úr korábban kelt, azt üzeni, hogy körülnéz ügyes-bajod dolgait intézve, ha kell, akkor a városházán találjuk." - toblen
+* *`"Jó reggelt, mind az ötünknek kérnénk reggelit!" - 💬 [Rorr]`*
+* *`"Ötnek? Tegnap este csak 4-en voltatok!" - 💬 [Toblen]`*
+* *`"Az 5-ik kint maradt, ő addig őrködött." - 💬 [Rorr]`*
+* *`"Semmi probléma, a reggeli a szállás része. Sildar úr korábban kelt, azt üzeni, hogy körülnéz ügyes-bajos dolgait intézve, ha kell, akkor a városházán megtaláljátok." - 💬 [Toblen]`*"
 
-rorr visszamegy kintre, elmondja, hogy "Sildar még dolgokat csinál. ha kell, akkor a városházán van. A reggeli is készül"
-sera már szabulna a cucctól, de üres hassal nem indulunk neki.
+Rorr visszamegy a többiekhez, elmondja a hallottakat:
+* *`"Sildar még dolgokat csinál. Ha szükség van rá, akkor a városházán van. A reggeli is már készül!" - 💬 [Rorr]`*
 
-Rorr visszasétál, toblen kérdezi hova terítsen elsa - Elsa a szolágáó
-rorr visszamegy, megkérdezi hol kajáljunk.
-Együnk kint! megszoktam a ló szagot - sera
+Sera már szabulna a cucctól, minél kevesebb ideig kelljen ülni rajta, de arra jutunk, hogy üres hassal nem indulunk el. Rorr visszasétál a fogadóba.
 
-Toblen úr! a többiek azt mondták, hogy kint szeretnének enni!
-Ahogy kényelmes.. Elsa! Kérlek vidd ki a venddégeknek a reggelit
+* *`"Hová teríthet Elsa?" - 💬 [Toblen/Rorrtól]`*
 
-(fiatal felszolgálólány, kissé mérges, hogy "mindent ő csinál". nem hagyja, hogy Rorr segítsen)
+Rorr egy újabb kört megy, megkérdezi a többiektől, hol tálaljanak.
+* *`"Együnk kint! Már úgyis megszoktam a lószagot.." - 💬 [Sera]`*
 
-Rorr visszasétál, mondja, hogy jön a kaja.
+A bugber harmadjára is belép a fogadóba:
+* *`"Toblen úr! A többiek azt mondták, hogy kint szeretnének enni!" - 💬 [Rorr]`*
+* *`"Ahogy kényelmes..Elsa! Kérlek, vidd ki a vendégeiknek a reggelit!" - 💬 [Toblen]`*
 
-pár perc és Elsa jön is, kezében 5 tányér, kenyér sajt, kolbász, zöldség stb.
+A fiatal felszolgálólány kissé mérges, zsörtölődik, hogy _"mindent ő csinál"_. Bár Rorr felajánlja neki, de nem hagyja, hogy segítsen, elboldogul azzal. Rorr nem erőlteti a dolgot, visszasétál a többiekhez és jelzi, hogy mindjárt érkezik a reggeli.
 
-<elsa monológ, nincs idő kajálnia, forgás van, majd ebéd közben talán>
+Pár perc telik csak el és Elsa jön is, kezében 5 tányér, azokon a szokásos hideg reggeli: kenyér. sajt, kolbász, zöldség stb. Miközben kiosztja az ételt, tovább morog félhangosan:
 
-a régi kalandort merre találjuk? - ash
-"a gyümölcsös mellett van a háza, ott van" - elsa
-"majd kérdezünk tőle phandalin régi múltjáról"
-"annyira nem öreg, fél elf!" - elsa
-ő is itt van?: sera
-igen, reggelizik. de nincs időm beszélgetni -  elsa
+* *`"Jó étvágyat! Milyen jó is lenne enni, háhh, kinek van ideje erre! Folyton van valami, nincs megállás egy pillanatra sem..na majd ha mindenki épp ebédel, akkor talán jut nekem is pár szabad perc!" - 💬 [Elsa]`*
+* *`"A régi kalandort, akiről hallottunk, merre találjuk?" - 💬 [Ashley/Elsa-tól]`*
+* *`"A gyümölcsös mellett van a háza, ott lesz." - 💬 [Elsa]`*
+* *`"Majd kérdezünk tőle Phandalin régi múltjáról" - 💬 [Ashley]`*
+* *`"Na annyira azért nem öreg, fél elf!" - 💬 [Elsa]`*
+* *`"A ló gazdája itt van?" - 💬 [Sera/a jószágra mutat]`*
+* *`"Igen, épp reggelizik. Na de nekem nincs időm beszélgetni, dolog van!" - 💬 [Elsa/elsiet]`*
 
-elköltjük a reggelit, Rorr összeszedi a tányérokat, beviszi Elsa-nak. Ő nincs sehol, Toblen int neki, Rorr leteszi a pultra.
+Elköltjük a reggelit, majd Rorr összeszedi a tányérokat, és beviszi Elsa-nak. A lányt nem látja sehol, de Toblen int neki, úgyhogy Rorr leteszi a pultra a koszos edényeket. Rorr körülnéz; az alak, akiről Elsa is beszélt, egy human férfi. Poros, használt köpeny van rajta, bőrpáncélt visel, az oldalán rövid kard lóg.
 
-Az alak, akiről Elsa is beszélt, egy human férfi. Poros, használt köpeny, bőrpáncél; az oldalán rövid kard.
+A többiek beszélgetnek ezalatt:
 
-Hogy viszonyulsz a varázstárgyakhoz? orik
-nagyon szeretem őket - ash
-sokkal találkoztál már? - orik
-láttam már Sera-nak a gömbjét, az nagyon cuki! de nem, nem sokkal találkoztam.
-értem, akkor megtennél egy érdekes szívességet, afféle kísérlet.
-mondd csak
-koncentrálj kérlek a köpenyedre egy kicsit! képzeld azt, hogy győzedelmesen lebeg a szélben! - orik
+* *`"Hogy viszonyulsz a varázstárgyakhoz?" - 💬 [Orik]`
+* *`"Nagyon szeretem őket!" - 💬 [Ashley]`*
+* *`"Sokkal találkoztál már?" - 💬 [Orik]`
+* *`"Láttam már Sera-nak a gömbjét, az nagyon cuki! de nem, nem sokkal találkoztam." - 💬 [Ashley]`*
+* *`"Értem.. Akkor megtennél egy érdekes szívességet? Csak afféle kísérlet." - 💬 [Orik]`*
+* *`"Mondd csak!" - 💬 [Ashley/érdeklődve]`*
+* *`"Koncentrálj kérlek a köpenyedre egy kicsit! Most képzeld azt, hogy győzedelmesen lebeg a szélben!" - 💬 [Orik]`*
 
-picit meglebben az alja.
+Ashley erősen fókuszál. Pár pillanattal később  picit meglebben a köpenye alja.
+* *`"Whoah! Ezt te csináltad?" - 💬 [Ashley]`*
+* *`"Nem, nem én voltam. ezt te csináltad!" - 💬 [Orik/mosolyogva]`*
 
-Te csináltad? - ashely
-nem, nem én voltam. ezt te csináltad! - mosolyog orik
+Ashley kissé elalélt, próbálja rávenni a lebegésre a köpenyt, melyik pózban hatásos leginkább. Szépen lassan rájön a titkára.
 
-Ashley kissé elalélt, próbálja rávenni a lebegésre a köpenyt, melyik pózban hatásos leginkább. előbb utóbb rájön a titkára.
+* *`"Egészen olyan vagy, mint egy vámpír úrnő!" - 💬 [Sera]`*
 
-Egészen olyan vagy, mint egy vámpír úrnő! - sera
+Ahogy Ashley elképzeli, és libbenti a köpenyt, beesett fehérre változik az arcszíne, a szeme vöröses-feketére villan egyet, majd minden vissza is áll a régire.
 
-Ashley elképzeli, libbenti a köpenyt, beesett fehérre változik az arcszíne, a szeme vöröses-feketére villan egyet, majd minden vissza is áll a régire.
+* *`"Ezt hogy csináltad?" - 💬 [Sera/kérdőn]`*
 
-Ezt hogy csináltad? - sera
-ashley lebegtet, arca cheerful.
-mindegy..nem fontos - sera
+Ashley büszkén meglebegteti újra a köpenyt, arcán hatalmas mosoly.
 
-Rorr visszamegy a többiekhez, elmondja, mit látott.
+* *`"Mindegy..nem fontos." - 💬 [Sera]`*
 
-Elsőre szabaduljunk meg a Lion's Shield-ben a dolgoktól, aztán a maradéktól is.
+Rorr eközben visszaérkezik a többiekhez, elmondja, kit/mit látott. Gyors eszmecsere után megegyezünk abban, hogy először megszabadulunk a Lionshield-ben a visszaszerzett dolgoktól, aztán a maradéktól is, melyről az eredeti megbízásunk szólt. 
 
-Visszafogjuk az ökröket, elindulunk. A főtérnél lévő templom romjait látjuk - viszonylag jobb állapotban van, bár teteje nincs, de még a falak állnak. Az U alakú rom közepén egy oltár, a falakon egy-egy drapéria lóg, melyeken egy ezüst érme látható, az érmén pedig egy női porté arca, 4 levelű lóhere - a szerencse istennőjének, Tymora-nak oltárja. Sera még azt is tudja, hogy Tymora a _jószerencse_ istennője.
-A bejáratánál egy fiatalabb elf nő sepreget, sokatmondó ruhában (papnő).
+Visszafogjuk az ökröket a szekér elé, elindulunk. A főtérnél lévő templom/kápolna romjait látjuk - viszonylag jobb állapotban van, bár teteje nincs, de még a falak állnak. Az `U` alakú rom közepén egy oltár áll, a falakon egy-egy drapéria lóg, melyeken egy ezüst érme látható, az érmén pedig egy női porté arca és egy 4 levelű lóhere - a szerencse istennőjének, [Tymora](https://forgottenrealms.fandom.com/wiki/Tymora)-nak oltárja. Sera még azt is tudja, hogy Tymora a _jószerencse_ istennője.
+A bejáratánál egy fiatalabb elf nő sepreget, sokatmondó ruhában (_papnő_).
 
-"Ide lehet érdemes később betérni egy imára, már akit érdekel az ilyesmi." - sera
+* *`"Ide lehet érdemes később betérni egy imára, már akit érdekel az ilyesmi." - 💬 [Sera]`*
 
-Ashley kedélyesen köszön a papnőnek, az visszaint.
+Ashley kedélyesen köszön a papnőnek, az visszaint. Nana észreveszi az elf nőn, hogy a kézfején és nyakán enyhe zúzódások láthatóak. Egyelőre nem állunk le csevegni, cél megszabadulni a rakománytól. Tovább zötyögünk a Lionshield Coster felé, odafarolunk, mint este is.
 
-Nana észreveszi az elf nőn, hogy a kézfején és nyakán enyhe zúzódások láthatóak.
+Rövid tanakodás után, kit is fogadnának leginkább, végül Sera kopog be elsőként. Kisvártatva lábdobogás hallatszik, majd egy középkorú human nő áll vele szemben. Hosszú barna hajú, szúrós szemmel néz ki ránk az ajtóból.
 
-Tovább zötyögünk a Lionshield Coster felé, odafarolunk, mint este is.
+* *`"Na mi van?" - 💬 [a nő]`*
+* *`"Bocsánat a zavarásért! Úgy gondoltuk, örülnének neki, ha visszahoznánk egy-két csecse-becsét, amit út közben találtunk!" - 💬 [Sera]`*
 
-===
+A nő nem válaszol, csak kérdőn néz továbbra is.
 
-Sera kopog be elsőként. Kisvártatva lábdobogás, és egy középkorú human nő áll vele szemben. Hosszú barna hajú, szúrós szemmel néz ki ránk.
+* *`"Visszahoztunk egy csomó lopott holmit!" - 💬 [Ashley/leegyszerűsítve]`*
+* *`"Egy goblin hordába botlottunk, mikor erre tartottunk, de legyőztük őket, és ezeket a ládákat találtuk. Egyből láttuk, hogy ezeken az Önök címere van, ezért úgy gondoltuk, hogy visszajuttatjuk azokat a jogos tulajdonosának." - 💬 [Sera/magyarázva a helyzetet]`*
 
-"Na mivan?" - kérdezi
-"Bocsánat a zavarástért, gondoltuk örülnének neki, ha visszahoznánk egy-két csessebescét amit út közben találtunk" - sera
+Megértve, mit is akarunk itt, a nő arca mosolyba borul, nagyon örül a hírnek, már régóta várják ezeket a szállítmányokat.
 
-kérdőn néz.
-"visszuahoztunk egy csomó lopott holmit!" - ashley
+* *`"Még jutalmat is adok, amiért azokat a kurva kis tetveket elintéztétek! Hadd kérjek még valamit, egyedül vagyok itt, segítenétek az első helyiségbe bepakolni a ládákat? Onnantól már elintézem a többit." - 💬 [a nő]`*
 
-"Egy goblin hordába botlottunk, mikor erre tartottunk, de legyőztük őket, és ezeket a ládákat találtuk, melyeken az Önök címere van, gondoltuk visszajuttatjuk a jogos tulajdonosának." -sera
+A csapat segít neki, eddigra már neki is sokkal jobb kedve van, bemutatkozik:
 
-mosolyra borul, nagyon örül, már régóta várják ezeket a szállítmányokat. "még jutalmat is adok, amiért azokat a kurva kis tetveket elintéztétek."
+* *`"Köszönöm, 'Linene Greywind' vagyok! Nem elég, hogy a szállítmányokat a rohadt útonállók folyton ellopják vagy eltérítik, ha egyáltalán megérkezik, legtöbbször hiányos..A vörös maszkos zsiványokat is ide ette a fene." - 💬 [LG]`*
+* *`"Milyen gyakran bukkannak fel?" - 💬 [Sera]`*
+* *`"Áh, ezek állandóan itt vannak.." - 💬 [LG]`*
+* *`"Tehát ha maradunk, beléjük botolhatunk? Nem is kell őket keresni?" - 💬 [Sera]`*
+* *`"Egészen valószínű. Főleg ha a fülükbe jut, hogy szállítmányt hoztatok, fel fognak figyelni rátok. Engem szerencsére békén hagynak, hiszen nem csak árulom a fegyvereket, tudom is használni őket. Na meg aztán elég nagy brand is vagyunk, nem akarnak magukra haragítani minket." - 💬 [LG]`*
+* *`"Az valahogy nem akadályozta meg őket, hogy a Lordok Szövetségének egy tagját eltűntessék." - 💬 [Sera]`*
+* *`"Iarno csak eltűnt az erdőben..nem tisztázott a helyzet teljesen." - 💬 [LG]`*
+* *`"Bocsánat, én összefüggést véltem felfedezni.." - 💬 [Sera]`*
+* *`"Áhh, ez egy kis város, sok a pletyka.. De az tény, hogy eltűnt, és utána bukkantak fel a banditák." - 💬 [LG]`*"
+* *`"Arról a házról mit lehet tudni?"" - 💬 [Ashley/a domb teteji épületre mutatva]`*
+* *`"Hát, a ház kissé lekicsinylő, vagy túlzás. Nézőpont kérdése. Régen kúria volt, most már csak romhalmaz.. Elég régóta lakatlan, még Phandalin bukásakor rombolták le. Talán a tető még áll, de rom az egész." - 💬 [LG]`*
+* *`"Ha itt akarunk maradni, lehet nem árt nekünk egy bázis!" - 💬 [Ashley]`*
+* *`"És szeretnéd felújítani?" - 💬 [Sera]`*
+* *`"Természetesen!" - 💬 [Ashley]`*
+* *`"Én a ti helyetekben elkerülném azt a helyet..elég sokat matatnak a banditák körülötte." - 💬 [LG]`*
+* *`"Így csak még jobban érdekel!" - 💬 [Ashley]`*
+* *`"Azért csak ne becsüljétek alá őket, elég szervezettek." - 💬 [LG]`*
+* *`"Jól értem, hogy amíg itt volt Iarno, addig nem volt se bantita, se probléma?" - 💬 [Ashley]`*
+* *`"Igen, de alig egy hónapja volt csak itt, mikor eltűnt." - 💬 [LG]`*
 
-egyedül van, ezért tőlünk kér segítséget bepakolni a helyiségbe, onnan intézi.
+A társalgás közben a kérésnek megfelelően az előtérbe lepakolunk. Belül nincs semmi kitéve, csak pult, iratok, szekrény, egy ajtó befelé egy nagyobb, nem látott helyiségbe. Linene megköszöni a segítséget.
 
-sokkal jobb kedve van, bemutatkozik: "Linene Greywind"-nek hívják.. ahogy pakolunk, kevésbé úrihölgyhöz méltóan mesél. nem elég, hogy a szállítmányokat az útonállók ellopják/térítik, csomó minden hiányos vagy egyáltalán nem érkezik meg, ő is emlegeti a vörös maszkos zsviványokat.
+* *`"Először is; cserébe, hogy visszahoztátok, vásárolhattok is nálam! De csak viccelek, ilyen bátor kalandorokat nem hagyok ám üres kézzel távozni!" - 💬 [LG]`*
 
-"Milyen gyakran bukkannak fel?" - sera
-"állandóan itt vannak"
-ha maradunk, beléjük botolhatunk? nem is kell keresni? - sera
-egészen valószínű. főleg ha a fülükbe jut, hogy szállítmányt hoztatok, fel fognak figyelni rátok. engem szerencsére békén hagynak, nem csak árulom a fegyvereket, tudom is használni, elég nagy brand is vagyunk.
-"az nem akadályozta meg őket, hogy a lordok szövetségének egy tagját eltűntessék"
-"Iarno csak eltűnt az erdőben..nem tisztázott a helyzet teljseen " - linene
-"bocsánat, én összefüggsést véltem felfedezni".
-"áh, kisváros, sok a pletyka, tény, hogy eltűnt, utána bukkantak fel a banditák."
-
-"arról a házról mit lehet tudni?" - ashley
-"a ház kissé lekicsinylő, vagy túlzás. régen kúria volt, most már csak romhalmaz.. régóta lakatlan, phandalin bukásakor rombolták le. talán a tető még áll, de rom az egész."
-"ha itt akarunk maradni, lehet nem árt nekünk egy bázis!" -ashley
-és szeretnéd felújítani? - sera
-teszmérszetesn - ashely
-"én elkerülném a helyet..elég sokat matatnak a banditák körülötte."
-"mégjobban érdekel - ashley
-ne becsüljétek alá őket, elég szervezettek.
-
-"jól értem, hogy amíg itt volt Ioarno addig nem volt se bantita se probléma?" - ashley
-"igen, de alig egy hónapja volt itt, hogy eltűnt."- linene
-
-Az előtérbe pakolunk, közben megy a társalgás. Belül nincs semmi kitéve, csak pult, iratok, szekrény, egy ajtó befelé egy nagyobb, nem látott helyiségbe.
-Linene megköszöni a segítséget.
-"először is , cserébe hogy visszahoztátok, vásárolhattok is nálam..de csak viccelek, ilyen bátor kalandorokat nem hagyok üres kézzel távozni."
-
-50 aranyat tesz le az asztalra.
-
-<vásárolni PHB standard fegyverekből>
+50 🏅-t tesz le az asztalra.
 
 ~~~
-40 xp
+{ ℹ } vásárolni PHB standard fegyvereiből lehet
+
+{🌟} +40 XP
 ~~~
 
-"tudom ám milyen fegyvert adtam el, ha az én fegyvereimmel ártotok a környéken bárkinek, tudni fogom"
-és ha a vörös maszkosokat bántjjuk? sera
-akkor kedvezményt is kaptok.  de óvva intelek titeket a kúriától, és Alvó óriás kocsmától is."
-"és ez merre van?" - a kúria felé..de minek mondom, csak odamentek.
+* *`"Tudom ám, hogy milyen fegyvert adtam el! Ha az én fegyvereimmel ártotok a környéken bárkinek, tudni fogom!" - 💬 [LG]`*"
+* *`"És ha a vörös maszkosokat bántjuk?" - 💬 [Sera]`*
+* *`"Akkor még kedvezményt is kaptok! De óvva intelek titeket a kúriától, és 'Alvó óriás' kocsmától is." - 💬 [LG]`*
+* *`"Ez utóbbi merre van?" - 💬 [Sera]`*
+* *`"A kúria felé..de minek mondom, csak odamentek." - 💬 [LG]`*
 
-sera tovább faggatózik, milyen fegyvert ajánl.. éleset, tompát, bármilyet.
+Sera tovább faggatózik, milyen fegyvert ajánl egy esetleges konfliktus esetén.
 
-"kinek hoztátok a többit, csak nem Halia Thorntonnak?"
-ő ki? - sera
-a bányászcég vezetője 
-"neki is hoztuk!"  -rorr
-"a szomszédban van..de vele is vigyázzatok..nem bízom benne, bár hatékonyan csinálja a dolgokat.. a kormányzás nem teljesen megoldott, Harbin Wester (polgi) csak dísznek van, Halia tartja kezében a dolgokat, nem csak a bányával kapcsolatos dolgokat intézi, hanem _egyéb_ papírokat is megőriz."
+* *`"Éleset, tompát, bármilyet. A lényeg, hogy feléjük hadonássz vele." - 💬 [LG]`*
 
-egy utolsó kérdés, nem tudod hol lakott a fafaragó? - sera
-ő is pont itt szemben... ha bármire szükség van, szóljatok! 10% kedvezményt nyugodtan szállíthattok
+Visszanéz a szekérre, látja, hogy annak csak a fele került kipakolásra, a több, jelzés nélküli doboz és cucc még a ponyva alatt tornyosul.
+* *`"Kinek hoztátok a többit, csak nem Halia Thorntonnak?" - 💬 [LG]`*
+* *`"Ő kicsoda?" - 💬 [Sera]`*
+* *`"A bányászcég vezetője." - 💬 [LG]`*
+* *`"Ó, neki is hoztunk ám valamit!" - 💬 [Rorr/a névre felfigyelve]`*
+* *`"A szomszédban van..de vele is vigyázzatok.. Nem bízom benne, bár hatékonyan csinálja a dolgokat.. A kormányzás a településen nem teljesen megoldott, Harbin Wester csak dísznek van, Halia tartja kezében a dolgokat. Nem csak a bányával kapcsolatos dolgokat intézi, hanem _egyéb_ papírokat is megőriz." - 💬 [LG]`*
+* *`"Egy utolsó kérdés, nem tudod, hol lakott a fafaragó?" - 💬 [Sera]`*
+* *`"Ő is pont itt, szemben... Ha bármire szükség van, szóljatok! 10% kedvezménnyel nyugodtan számolhattok nálam." - 💬 [LG]`*
 
-=====
+Megköszönjük az információkat, kimegyünk a szekérhez, még minden meg van.
 
-kimegyünk a szekérhez, még minden meg van.
+* *`"Mi lenne, ha megpróbálnánk leadni Barthen boltjába a cuccokat, és utána rohangálnánk?" - 💬 [Ashley]`*
 
-"Mi lenne ha megpróbálnánk leadni Barthen boltjába a cuccokat, utána rohangálnánk?" - ashely
-mindenki egyetért, indulunk. már késő délelőtt van. A város utcáin játszó gyerekek fölött felnőttek vigyáznak óvó szemmel, a férfiak az erdőben/bányában dolgoznak.
-fura szemmel néznek ránk, visszahívják a gyerekeket a bugbear + hobgoblin látványára.
+Az ötlettel mindenki egyetért, visszapattanunk a szekérre, és elindulunk a település széle felé. Már késő délelőtt van, a város utcáin játszó gyerekek fölött felnőttek vigyáznak óvó szemmel, a férfiak ilyenkor már az erdőben vagy a bányában dolgoznak. A kompániát látva fura szemmel néznek ránk, visszahívják a gyerekeket a bugbear és a hobgoblin látványára.
 
-Ashley megáll a shrine mellett, rövid imát mormol, a középen lévő oltár előtti adománygyűjtőbe "kérlek lady luck védd meg a barátaimat!" 4 aranyat tesz, egy-egy név kíséretében. Utánunk fut, erre Sera megkérdezi, merre járt Ashley, ő elmondja.
+Ashley megáll a kegyhely mellett, rövid imát mormol:
+* *`"Kérlek, Tymora, védd meg a barátaimat!" - 💬 [Ashley]`*
+A középen lévő oltár előtti adománygyűjtőbe 4 🏅-t tesz, egy-egy név kíséretében. Utánunk fut, erre Sera megkérdezi, merre járt Ashley, ő elmondja.
 
-Odaérünk Barthen's-hez, egy standard trading postnak tűnik. Nagy ablak mellett bejárati ajtó, fedett porch. Ablakon benézve mozgolódást látunk.
+Tovább haladunk a szekérrel, perceken belül odaérünk Barthen's-hez, az épület egy standard trading postnak tűnik. Nagy ablak mellett bejárati ajtó, fedett porch. Az ablakon benézve mozgolódást látunk. Ashley feltipeg a lépcsőn, most ő kopog.
 
-Ashley feltipeg, most ő kopog.
-"Nyitva van"! - hallatszik egy öblös kiáltás. Ashley benyit, Sera követi. "Szép jó napot! Gundren megbízásából meghoztuk a szállítmányt!" - mondja Ashley. A belső tér tágasabb, mint a Lionshield Coster volt, tárgyak is vannak kipakolva. Mindenféle, kalandozáshoz szükséges dolgot lát: takarók, kötelek, táskák; hálózsák, ellátmány, stb.
+* *`"Nyitva van!" - 💬 [öblös hang bentről]`*
 
-(minden ami Adventuring gear; <25g alatti értékben)
+Ashley benyit, Sera követi.
 
-A pult mögött egy 50es éveiben járó, kopaszodó úriember áll. "Csodás, még a megadott időn belül is!"
-"így illik" -ashley
-"remek..gondolom a szekéren van. átveszem, átvesszük!" füttyent egyet, hátulról két fiatal srác lép elő. "A szekeret hátra, pakoljatok le.. Ti pedig gyertek, intézzük az üzlet ránk eső részét!"
-"Orik, üzlet ránk eső részét akarják rendezni. azt hiszem itt papírozás lesz!"
-Orik sietősen beslép. "Orik Spellweaver, nagyon örülök!" - mutatkozik be.
-Az NPC meglepődik a hobgoblinon, a stíluson főleg. "Elmar Barthen."
-"Amíg a két kis mihaszna leltárba veszi a dolgokat, meséljetek, milyen utatok volt!" - barthen
-"eseménydús.." - orik
+* *`"Szép jó napot! Gundren megbízásából meghoztuk a szállítmányt!" - 💬 [Ashley]`*
+ 
+A belső tér tágasabb, mint a Lionshield Coster volt, tárgyak is vannak kipakolva. Mindenféle, kalandozáshoz szükséges dolgot lát: takarók, kötelek, táskák; hálózsák, ellátmány, stb.
 
-beszámolunk az utazásról, a goblin támadásról, hogy Gundrent elvitték a királyhoz.
-"ez szomorú hír.. Gundren régi barátom.. még életben van?"
-"talán igen, de nem tudjuk biztosra" - sera
-"és sildar úr?" 
-"őt kiszabadítottuk, itt van a városban."
-orik jelzi, hogy ráutaló magatartást tett Sildar társaságunk számára Gundren kiszabadítása érdekében..a papírmunkát még intézni kell
+~~~
+{ ℹ } vásárolni PHB standard Adventuring gearjéből, 25🏅 alatti értékű tárgyakból lehet
+~~~
 
-mennyit tudtok?
-minden, térkép, bányák, FoS.
+A pult mögött egy 50-es éveiben járó, kopaszodó úriember áll. 
 
-Nundo és Thardren a két testvére Gundrennek, ők valószínűleg a bányánál táboroznak, lassan visszajönnek felszerelésért. Nem láttam már egy hete őket.
+* *`"Csodás, még a megadott időn belül is!" - 💬 [a férfi]`*
+* *`"Ahogy illik." - 💬 [Ashley/mosolyogva]`*
+* *`"Remek..gondolom minden a szekéren van. Máris átveszem, átvesszük!" - 💬 [férfi]`*
 
-merre van a bánya? - sera
+Hátrafordulva füttyent egyet, hátulról két fiatal srác lép elő.
 
-nem tudom, az a térképen van.. még az is előfordulhat, hogy maga Sildar sem látta a térképet! - elmar
+* *`"A szekeret hátra, pakoljatok le.. Ti pedig gyertek, intézzük az üzlet ránk eső részét!" - 💬 [férfi]`*
+* *`"Orik, az üzlet ránk eső részét akarják rendezni. Azt hiszem, itt papírozás lesz!" - 💬 [Sera/kikiált]`*
 
-"Segítsünk pakolni?" - Rorr
-"Mindjárt végeznek..annyira nem mihasznák!"
+Orik sietősen belép.
 
-"mit érdemes megnézni"? - sera
-"szerény település, nincs sok látnivaló..ide dolgozni jönnek az emberek, vagy rabolni..persze az is lehet munkának nevezni.. mint látjátok, nekem egész jól megy a sorom, Sildar gondoskodik az utánpótlásról, de mindenkit megsarcolnak.."
+* *`"Orik Spellweaver, nagyon örülök!" - 💬 [Orik/kezet nyújtva]`*
 
-és lehet tudni, hányan vannak a banditák?-sera
-"fene se tudja, mindegyik arcát fedi a randa kendő.. az alvó óriásban szoktak lenni páran, természetesen mindig csapatban mászkálnak.
-oda mások is járnak  vaagy csak ők?
-még nem hallottam aki ott járt és utána eljött onnan.
+A férfi meglepődik a hobgoblinon, a kifinomult stíluson főleg.
 
-közben az egyik legény odaér, "Ander, rendbe vagyunk?" kérdezi. Egy papírt rak az asztalra, minden leltárelem mellett egy pipa található. "Minden rendben, hiánytalan a készlet."
-"ez igen, szeretem a jól végzett munkát! Akkor... szeretnétek mindegyiknek aláírnám? tőletek is kellene egy signo" - Orik intézi is.
+* *`"Elmar Barthen. Amíg a két kis mihaszna leltárba veszi a dolgokat, meséljetek, milyen utatok volt!" - 💬 [Barthen]`*
+* *`"Eseménydús.." - 💬 [Orik]`*
 
-10 gold, 40 XP
+Amíg a két fiú leltározik, mi beszámolunk az utazásról, a goblin támadásról, hogy Gundrent elvitték a királyhoz.
 
-"Öröm volt Önnel üzletelni! _orik
-"számomra is öröm. Az külön öröm, hogy ama nem túl tiszteletle mértó fajtádnak eme tisztelertreméltó egyéne vagy!" - barthen
+* *`"Ez szomorú hír.. Gundren régi barátom.. még életben van?" - 💬 [Barthen]`*
+* *`"Talán igen, de nem tudjuk biztosra." - 💬 [Sera]`*
+* *`"És Sildar úr?" - 💬 [Barthen]`*
+* *`"Őt sikerült kiszabadítani, már itt van a városban." - 💬 [Sera]`*
 
-erőltetett mosoly, rózsazszíenes az orra vége, de úriember marad Orik.
+Orik jelzi, hogy ráutaló magatartást tett Sildar társaságunk számára, Gundren kiszabadítása érdekében..
 
-"remélem a környéken maradtok, és Sildar úrral megegyezésre tudtok jutni, hogy segítstetk Gundrennek és a térségnek".
+* *`"A papírmunkát még intézni kell.." - 💬 [Orik]`*
+* *`"Mennyit tudtok az itteni helyzetről?" - 💬 [Barthen]`*
 
-"neked esetleg tudunk valamiben segíteni"? - rorik
+Orik futólag mindent érintve beszámol a tudásunkról - szót ejt a térképről, a régi bányákról, a Varázskohóról, annak (újra)felfedezéséről, Gundren és Sildar terveiről..
 
-vicceskedve: "ha eltakarítanátok a banditákat, az jó lenne!" 
-"na végre valaki kimondta" - ashley
+* *`"Nundro és Thardren a két testvére Gundrennek, ők valószínűleg a bányánál táboroznak, lassan visszajönnek felszerelésért. Nem láttam már egy hete őket." - 💬 [Barthen]`*
+* *`"Merre van a bánya?" - 💬 [Sera]`*
+* *`"Nem tudom, az a térképen van.. Még az is előfordulhat, hogy maga Sildar sem látta azt a térképet!" - 💬 [Barthen]`*
+* *`"Segítsünk pakolni?" - 💬 [Rorr]`*
+* *`"Mindjárt végeznek..Annyira azért nem mihasznák!" - 💬 [Barthen]`*
+* *`"Mit érdemes itt a környéken, vagy a faluban megnézni?" - 💬 [Sera/érdeklődve]`*
+* *`"Ez szerény település, nincs sok látnivaló.. Ide dolgozni jönnek az emberek, vagy rabolni..Persze, azt is lehet munkának nevezni.. Mint látjátok, nekem egész jól megy a sorom, Sildar gondoskodik az utánpótlásról, de mindenkit megsarcolnak.." - 💬 [Barthen]`*
+* *`"És azt lehet tudni, hányan vannak a banditák?" - 💬 [Sera]`*
+* *`"Fene se tudja, mindegyik arcát fedi a randa kendő.. Az 'Alvó óriás'-ban szoktak lenni páran, természetesen mindig csapatban mászkálnak." - 💬 [Barthen]`*
+* *`"Abba a kocsmába mások is járnak, vagy csak ők?" - 💬 [Sera]`*
+* *`"Még nem hallottam olyanról, aki ott járt volna, és utána élve eljött onnan.." - 💬 [Barthen/borúsan]`*
 
-orik papírt és pennát ránt: "Milyen feltételekkel?" 
-"nmemnemnemnem, megbízást nem adok.. féltem a saját életemet, a boltom épségét, a segédeket... talán hangosan is mondtam."
+Közben az egyik legény belép a hátsó ajtón, papírral a kezében sétál az asztalhoz.
+* *`"Ander, rendbe vagyunk?" - 💬 [Barthen/a fiútól]`*
 
-"ki adhat erre megvbízást? a polg? - sera
-áh, ő annak örül, hogy a golyóit megtalálja..a hasa miatt, meg mert töketlen.. Sildar nagyúr viszont talán kézbe veszi a gyeplőt.
+A papírt lerakja az asztalra, minden leltár elem mellett egy pipa látszik.
 
-és mi a véleményed haliaról? -sera
-jól elvan ebben a helyzetben is.. őt nem merik.. még a vörös maszkosok sem meernek kekeckedni vele.
-ennek mi az oka? - orik
-az a nő tekintettel is tud ölni! már persze képletesen
-halia és gundren gyakorlatilag vetély- vagy üzlettársak? - sera
+* *`"Minden rendben, hiánytalan a készlet." - 💬 [Ander]`*
+* *`"Ez igen, szeretem a jól végzett munkát! Akkor..szeretnétek, ha mindenki szerződését aláírnám? No meg aztán, tőletek is kellene egy signo!" - 💬 [Barthen]`*
 
-"hát. egyiknek sem igazán mondanám..üzlettársak smemikép.. Halia 4 éve, mióta újraépült a település, viszi a bányász céhet. Gundren 2 és fél éve bukkant fel, de Halia nem adta jelét, hogy bánná, hiszen Gundren nem a meglévő bányát akarná átvenni, csak kutatgat..de halia azt se tudja gundren mi után kutat" - barthen
+Orik már intézi is a papírmunka hátralévő részét.
 
-"Beszélni kéne Halia-val.." - Rorr
-"Meg Sildarral is, nem árt talán újra beszélni vele" - sera
+~~~
+{💰} 10🏅
+{🌟} 40 XP
+~~~
 
-"én is javaslom..mpersze nem kérdeztetek..de az én boltom" - barthen
+* *`"Öröm volt Önnel üzletelni!" - 💬 [Orik]`*
+* *`"Számomra is öröm! Az külön öröm, hogy ama nem túl tiszteletre méltó fajtádnak eme tiszteletreméltó egyéne vagy!" - 💬 [Barthen]`*
 
-"köszönjük a segítséget, akkor nem is zavarunk tovább! " - sera
-" ha bármire szükségetek van, akkor gyertek nyugodtan, minden árumért garanciát vállalok!"
+Egy erőltetett mosoly jelenik meg az arcán, rózsaszínessé válik az orra vége, de úriember marad Orik, nem szól vissza a rasszista megjegyzések kapcsán.
 
-"Ti is érzitek? Ez a szabadság! Nincs többé szekér, nem kell rá vigyázni!" -sera
-én megkedveltem az ökröket.. -ashley
+* *`"Remélem, hogy a környéken maradtok, és Sildar úrral megegyezésre tudtok jutni. Nagyon hálásan vennénk, ha segítenétek Gundrennek, és a térségnek!" - 💬 [Barthen]`*
+* *`"Neked esetleg tudunk valamiben segíteni?" - 💬 [Orik]`*
+* *`"Ha eltakarítanátok a banditákat a környékről, az elég jó lenne!" - 💬 [Barthen/viccesen]`*
+* *`"Na végre, valaki kimondta!" - 💬 [Ashley]`*
 
-ahogy kilépünk, ebédidő táján jár az idő. a polgármesteri hivatal felé megyünk, Sildart keresve.
+Orik egyből papírt és pennát ránt:
 
-A kegyhely előtt a papnő egy széken olvasgat. Ránkmosolyog, és olvas tovább.
-"Szoktak lenni itt misék?" - ashley
-"misének nem mondanám..nagyon szervezetten nem működik itt.. kevés az ember, mindenki más istenséghez imádkozik.. ez a kegyhely a régi phandalin idején is itt volt, megszentelt földnek számít." - kedvesen mosolyogva papnő
-"kár érte, pedig összehozná a falut..a banditák ellen" - ashely
-"én nem szeretnék átcsábítani senki tymorahoz, kinek mire van szüksége az életében..főleg a hozzátok hasonló kalandorok szoktak átutazóban itt egy-egy imát elmondani, adományt adni."
-"óó, hát akkor ezzel hátha tudok segíteni" - ashely, még 4-et ad neki.
-"gondolj arra is, hogy ennünk is kell " -sera ashleynek.
+* *`"Milyen feltételekkel?" - 💬 [Orik]`*
+* *`"Nem-nem-nem-nem, megbízást nem adok..féltem a saját életemet, a boltom épségét, a segédeket...Talán hangosan is mondtam, amit mondtam." - 💬 [Barthen/szabadkozva]`*
+* *`"Na és ki adhat erre megbízást? Talán Harbin Wester, a polgármester?" - 💬 [Sera]`*
+* *`"Áhh, ő annak örül, hogy a golyóit megtalálja..a hasa miatt, na meg mert töketlen..Sildar nagyúr viszont talán végre kézbe veszi a gyeplőt." - 💬 [Barthen]`*
+* *`"És mi a véleményed Halia-ról?" - 💬 [Sera]`*
+* *`"Ő jól el van ebben a helyzetben is..őt nem merik..még a vörös maszkosok sem mernek kekeckedni vele." - 💬 [Barthen]`*
+* *`"Ennek mi lehet vajon az oka?" - 💬 [Orik/érdeklődve]`*
+* *`"Az a nő a tekintetével is tud ölni! Már persze képletesen." - 💬 [Barthen]`*
+* *`"Halia és Gundren gyakorlatilag vetély-, vagy üzlettársak?" - 💬 [Sera]`*
+* *`"Hát, egyiknek sem igazán mondanám..üzlettársaknak semmiképp sem.. Halia 4 éve - mióta újraépült a település - viszi a bányász céhet. Gundren 2 és fél éve bukkant fel, de Halia nem adta jelét, hogy bánná, hiszen Gundren nem a meglévő bányát akarná átvenni, csak kutatgat. Így tehát nem jelent konkurenciát, vagy veszélyt.. De Halia talán azt se tudja, hogy Gundren pontosan mi után kutat." - 💬 [Barthen]`*
+* *`"Beszélni kellene Halia-val!" - 💬 [Rorr]`*
+* *`"Meg Sildarral is, nem árt talán az eddig megtudott információk alapján újra beszélni vele." - 💬 [Sera]`*
+* *`"Én is ezt javaslom.. Persze engem nem kérdeztetek..de ez még mindig az én boltom!" - 💬 [Barthen/mosollyal]`*
+* *`"Köszönjük a segítséget, akkor nem is zavarunk tovább!" - 💬 [Sera]`*
+* *`"Ha bármire szükségetek van, akkor gyertek nyugodtan, minden árumért garanciát vállalok!" - 💬 [Barthen]`*
 
-nana jelzi a zúzódásokat oriknak, ő is felfigyel rá.. nana is tesz egy aranyat Ashleért.
+Elköszönünk, és kilépünk az üzletből.
 
-titeke is megsegít tymora  látom
+* *`"Ti is érzitek? Ez a szabadság! Nincs többé végre szekér, nem kell rá vigyázni!" - 💬 [Sera]`*
+* *`"Pedig én már egészen megkedveltem az ökröket.." - 💬 [Ashley]`*
 
-Orik suttogás távba lép a nőhöz. "ne haragudjon, nem akarok tolakodó lenni..de ha már a segítségről beszélünk..önnek tudunk segíteni valamiben?"
-"ha már így kérdezed, ti szeretitek a mókás kis küldetést..én is megpróbáltam egy küldetést elvégezni, de kkisebb összeütközésbe kerültem egy banshee-vel. <felmutatja a csuklóit>.. nem tudom mennyire ismeritek a térséget, van egy régi város észak-keletre, sajnos már lerombolták a barbár hordák évtizedekkel ezelőtt... a vbáros mellett az erdőben él(t) egy banshee., inkább tanáyzott. a banshee továbbra is ott van, bár a városnak vége. az érdekesség az, hogy a feljegyzések szerint harmónia volt a lakók és a banshee között. nem engedték a lakók sem elüldözni. ez kb 2 napi járásra van."
+A nap lassan delel, ebédidő táján járhatunk. A polgármesteri hivatal felé megyünk, Sildart keresve.
 
-"lehet hogy korábbi lakó volt?" - roik
-erről nem szólnajk dolgok, de előfrordulhat.. na én próbáltam felkeresni, hogy az évszázados tudásának hasznát vegyem, de el sem jutottam oda, mert tele van csapdával az oda vezető út, inkább hazajöttem kpihenni...de ha ti vállaljátok a küldetést, jutalomért cserébe, és feltennétek egy kérdsét.
+A kegyhely előtt a papnő egy széken olvasgat. Ránk mosolyog, és olvas tovább.
+* *`"Szoktak lenni itt misék?" - 💬 [Ashley]`*
+* *`"Misének nem mondanám..nagyon szervezetten nem működik itt semmi.. Kevés az ember, meg aztán mindenki más istenséghez imádkozik.. Ez a kegyhely a régi Phandalin idején is itt volt, megszentelt földnek számít." - 💬 [papnő/mosolyogva]`*
+* *`"Kár érte, pedig összehozná a falut..a banditák ellen." - 💬 [Ashley]`*
+* *`"Én nem szeretnék átcsábítani senki Tymora-hoz, kinek mire van szüksége az életében.. Főleg a hozzátok hasonló kalandorok szoktak átutazóban itt egy-egy imát elmondani, és adományt adni." - 💬 [papnő]`*
+* *`"Óh, hát akkor ezzel hátha tudok segíteni!" - 💬 [Ashley/4🏅-t nyújtva neki]`*
+* *`"Gondolj arra is, hogy ennünk is kell.." - 💬 [Sera/Ashley-nek]`*
 
-szívesen segítünk - ashelye
+Ahogy beszélgetnek, Nana újra látja a zúzodásokat a papnő kezén, ezt jelzi Oriknak, így már ő is felfigyel rá.. A korábbi gesztust viszonozva Nana is tesz egy aranyat Ashley-ért a tálba.
 
-"nosss...egy varázsköynv hollétére lennék kíváncsi, amit esetleg tudhat a banshee. Bowgentle mágus könyve, .. Ez az Agatha nevű banshee esetleg tudhatja hol van. Megkönnyeítem a dolgotokat, a bansheek legendásan hiúk, ha ezt átadjátok neki, akkor hajlamosabb lesz válaszolni a kérdésre." - átad egy ékkő berakásos ezüst hajkefét.
+* *`"Titeket is megsegít Tymora, látom!" - 💬 [papnő]`*
+
+Orik közelebb lép a nőhöz, ahol már suttogva is tud beszélni hozzá.
+
+* *`"Ne haragudjon, nem akarok tolakodó lenni..de ha már a segítségről beszélünk..Önnek tudunk segíteni valamiben?"" - 💬 [Orik/a papnő kezére utalva]`*
+* *`"Ha már így kérdezed, látom, ti szeretitek a mókás kis küldetéseket.. Én is megpróbáltam egy küldetést elvégezni, de kisebb összeütközésbe kerültem egy banshee-hez tartva.. {{felmutatja a csuklóit}} Nem tudom, mennyire ismeritek a térséget, van egy régi város innen észak-keletre, sajnos már lerombolták a barbár hordák évtizedekkel ezelőtt... A város mellett az erdőben él(t) egy banshee - nem is élt, inkább tanyázott. A banshee továbbra is ott van, bár a városnak vége. Az érdekesség az, hogy a feljegyzések szerint harmónia volt a lakók és a banshee között. Nem engedték a lakók sem elüldözni, hiába jelentkeztek a feladatra többen is. Ez a hely kb. 2 napi járásra van." - 💬 [papnő]`*
+* *`"Lehet, hogy korábbi városlakó volt?" - 💬 [Orik]`*"
+* *`"Nos, erről nem szólnak dolgok, de előfrordulhat.. Mindenesetre én próbáltam felkeresni, hogy az évszázados tudásának hasznát vegyem, de el sem jutottam oda, mert tele van csapdával az oda vezető út, inkább hazajöttem kipihenni... De ha ti vállaljátok a küldetést - persze jutalomért cserébe - azt kérném, hogy tegyetek fel neki egy kérdést." - 💬 [papnő]`*
+* *`"Szívesen segítünk!" - 💬 [Ashley]`*
+* *`"Nos..egy varázskönyv hollétére lennék kíváncsi, amit esetleg tudhat a banshee. Bowgentle mágus könyve, Ez az Agatha nevű banshee esetleg tudhatja hol van. Megkönnyeítem a dolgotokat, a bansheek legendásan hiúk, ha ezt átadjátok neki, akkor hajlamosabb lesz válaszolni a kérdésre." - 💬 []`*
+" - átad egy ékkő berakásos ezüst hajkefét.
 "ha visszatértek az információval, . amire szükségem van, akkor 3 gyógyító főztetet tudok nektek felajánlani cserébe."
 "ez jól fog jönni ahhoz, amire készüünl " - sera
 felvont szemmel néz ránk, de nem kérdez.
@@ -545,5 +564,5 @@ Tobin nekik is ad vacsit, és mindenki elmondja kivel mi történt.
 ![A város képe](./images/phandalin_v3.png)
 
 ~~~
-long rest
+{💤} long rest
 ~~~
