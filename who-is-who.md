@@ -4,7 +4,7 @@ Ha egy fontosabb név elhangzott, amely NPC valamiért érdekes lehet, arról p�
 
 ## Gundren Rockseeker
 
-A Rockseeker testvérek egyike, aki kalandozókat eredetileg felbérelte. A küldetés egyszerű: Phandalinba kell eljuttatni egy szekeret, annak minden rakományával együtt, épségben. Az escort során kiderült, hogy a goblinok rajtaütöttek az előre lovagló Gundren+Sildar pároson, amit a lovak nem éltek túl. Az egyik támagdó goblint kihallgatva kiderült, hogy Gundrent a *"király"*hoz vitték, elválasztották Sildartól. 🔁
+A Rockseeker testvérek egyike, aki kalandozókat eredetileg felbérelte. A küldetés egyszerű: Phandalinba kell eljuttatni egy szekeret, annak minden rakományával együtt, épségben. Az escort során kiderült, hogy a goblinok rajtaütöttek az előre lovagló Gundren+Sildar pároson, amit a lovak nem éltek túl. Az egyik támagdó goblint kihallgatva kiderült, hogy Gundrent a *"király"*hoz vitték, elválasztották Sildartól. Két testvére, Nundro és Tharden már Phandalinban vannak, a bánya bejárata körül tanyáznak. 🔁
 
 <center>
 
@@ -75,7 +75,7 @@ Habár Rorrt átmenetileg padlóra küldte, Ashley kardja által a három napos 
 
 ## Toblen Stonehill
 
-A Phandalinban található **'Stonehill'** fogadó tuladjonosa. A településre eredetileg bányászni érkezett, de képességei alapján inkább más elfoglaltságot keresett magának. A faluban lévő vöröskendősök tevékenysége miatt meghúzta magát, féltve felesége, Trilena és fia, Pip életét.
+A Phandalinban található **'Stonehill'** fogadó tuladjonosa. A településre eredetileg bányászni érkezett, de képességei alapján inkább más elfoglaltságot keresett magának. A faluban lévő vöröskendősök tevékenysége miatt meghúzta magát, féltve felesége, Trilena és fia, Pip életét. Bár kimondva nem kér semmit a kalandoroktól, örülne, ha visszaállna a korábbi rend a faluba. 🔁
 
 <center>
 
@@ -100,5 +100,15 @@ A Lordok Szövetségének mágus tagja, aki Sildar és Gundren mellett a phandal
 <center>
 
 ![Iarno Albrek, a mágus](./images/npcs/iarno.png)
+
+</center>
+
+## Linene Greywind
+
+Középkorú, éles nyelvű asszony, a Lionshield Coster Phandalinban található üzletének vezetője.
+
+<center>
+
+![Linene Greywind](./images/npcs/Linene_Graywind.png)
 
 </center>

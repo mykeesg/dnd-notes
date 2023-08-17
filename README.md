@@ -57,4 +57,5 @@ Emoji|Jelentés|Magyarázat
 🏆 | level-up
 🗣 | nyelvváltás a beszélgetésben | További jelzésig ezen a nyelven beszél az adott karakter/NPC
 🌍 | fordított név/fogalom/hely |  Az angol név a `README` fordításai között olvasható
+ℹ | metainfó | nem in-game infó, asztal fölötti téma
 🔁 | még nem befejezett | A leírás később folytatásra kerül, még későbbi kalandokban derülnek ki részletek/mi történt
