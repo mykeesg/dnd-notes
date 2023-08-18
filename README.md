@@ -4,7 +4,7 @@
 
 ## Tagok
 
- - [Ashton Qu'ira](https://www.dndbeyond.com/characters/98138580)
+ - [Ashton Quira](https://www.dndbeyond.com/characters/98138580)
  - [Naivyre (Nana)](https://www.dndbeyond.com/characters/98299683)
  - [Orik Spellweaver](https://www.dndbeyond.com/characters/98359595)
  - [Rorr Stronghand](https://www.dndbeyond.com/characters/98146623)
@@ -58,4 +58,5 @@ Emoji|Jelentés|Magyarázat
 🗣 | nyelvváltás a beszélgetésben | További jelzésig ezen a nyelven beszél az adott karakter/NPC
 🌍 | fordított név/fogalom/hely |  Az angol név a `README` fordításai között olvasható
 ℹ | metainfó | nem in-game infó, asztal fölötti téma
+✈ | helyszínváltás | A party több részre szakadt, a felsoroltakkal vagyunk a továbbiakban
 🔁 | még nem befejezett | A leírás később folytatásra kerül, még későbbi kalandokban derülnek ki részletek/mi történt

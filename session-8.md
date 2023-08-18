@@ -112,7 +112,7 @@ A társalgás közben a kérésnek megfelelően az előtérbe lepakolunk. Belül
 
 * *`"Először is; cserébe, hogy visszahoztátok, vásárolhattok is nálam! De csak viccelek, ilyen bátor kalandorokat nem hagyok ám üres kézzel távozni!" - 💬 [LG]`*
 
-50 🏅-t tesz le az asztalra.
+50 🥇-t tesz le az asztalra.
 
 ~~~
 { ℹ } vásárolni PHB standard fegyvereiből lehet
@@ -147,7 +147,7 @@ Az ötlettel mindenki egyetért, visszapattanunk a szekérre, és elindulunk a t
 
 Ashley megáll a kegyhely mellett, rövid imát mormol:
 * *`"Kérlek, Tymora, védd meg a barátaimat!" - 💬 [Ashley]`*
-A középen lévő oltár előtti adománygyűjtőbe 4 🏅-t tesz, egy-egy név kíséretében. Utánunk fut, erre Sera megkérdezi, merre járt Ashley, ő elmondja.
+A középen lévő oltár előtti adománygyűjtőbe 4 🥇-t tesz, egy-egy név kíséretében. Utánunk fut, erre Sera megkérdezi, merre járt Ashley, ő elmondja.
 
 Tovább haladunk a szekérrel, perceken belül odaérünk Barthen's-hez, az épület egy standard trading postnak tűnik. Nagy ablak mellett bejárati ajtó, fedett porch. Az ablakon benézve mozgolódást látunk. Ashley feltipeg a lépcsőn, most ő kopog.
 
@@ -160,7 +160,7 @@ Ashley benyit, Sera követi.
 A belső tér tágasabb, mint a Lionshield Coster volt, tárgyak is vannak kipakolva. Mindenféle, kalandozáshoz szükséges dolgot lát: takarók, kötelek, táskák; hálózsák, ellátmány, stb.
 
 ~~~
-{ ℹ } vásárolni PHB standard Adventuring gearjéből, 25🏅 alatti értékű tárgyakból lehet
+{ ℹ } vásárolni PHB standard Adventuring gearjéből, 25🥇 alatti értékű tárgyakból lehet
 ~~~
 
 A pult mögött egy 50-es éveiben járó, kopaszodó úriember áll. 
@@ -220,7 +220,7 @@ A papírt lerakja az asztalra, minden leltár elem mellett egy pipa látszik.
 Orik már intézi is a papírmunka hátralévő részét.
 
 ~~~
-{💰} 10🏅
+{💰} 10🥇
 {🌟} 40 XP
 ~~~
 
@@ -264,7 +264,7 @@ A kegyhely előtt a papnő egy széken olvasgat. Ránk mosolyog, és olvas tová
 * *`"Misének nem mondanám..nagyon szervezetten nem működik itt semmi.. Kevés az ember, meg aztán mindenki más istenséghez imádkozik.. Ez a kegyhely a régi Phandalin idején is itt volt, megszentelt földnek számít." - 💬 [papnő/mosolyogva]`*
 * *`"Kár érte, pedig összehozná a falut..a banditák ellen." - 💬 [Ashley]`*
 * *`"Én nem szeretnék átcsábítani senki Tymora-hoz, kinek mire van szüksége az életében.. Főleg a hozzátok hasonló kalandorok szoktak átutazóban itt egy-egy imát elmondani, és adományt adni." - 💬 [papnő]`*
-* *`"Óh, hát akkor ezzel hátha tudok segíteni!" - 💬 [Ashley/4🏅-t nyújtva neki]`*
+* *`"Óh, hát akkor ezzel hátha tudok segíteni!" - 💬 [Ashley/4🥇-t nyújtva neki]`*
 * *`"Gondolj arra is, hogy ennünk is kell.." - 💬 [Sera/Ashley-nek]`*
 
 Ahogy beszélgetnek, Nana újra látja a zúzodásokat a papnő kezén, ezt jelzi Oriknak, így már ő is felfigyel rá.. A korábbi gesztust viszonozva Nana is tesz egy aranyat Ashley-ért a tálba.
@@ -278,288 +278,307 @@ Orik közelebb lép a nőhöz, ahol már suttogva is tud beszélni hozzá.
 * *`"Lehet, hogy korábbi városlakó volt?" - 💬 [Orik]`*"
 * *`"Nos, erről nem szólnak dolgok, de előfrordulhat.. Mindenesetre én próbáltam felkeresni, hogy az évszázados tudásának hasznát vegyem, de el sem jutottam oda, mert tele van csapdával az oda vezető út, inkább hazajöttem kipihenni... De ha ti vállaljátok a küldetést - persze jutalomért cserébe - azt kérném, hogy tegyetek fel neki egy kérdést." - 💬 [papnő]`*
 * *`"Szívesen segítünk!" - 💬 [Ashley]`*
-* *`"Nos..egy varázskönyv hollétére lennék kíváncsi, amit esetleg tudhat a banshee. Bowgentle mágus könyve, Ez az Agatha nevű banshee esetleg tudhatja hol van. Megkönnyeítem a dolgotokat, a bansheek legendásan hiúk, ha ezt átadjátok neki, akkor hajlamosabb lesz válaszolni a kérdésre." - 💬 []`*
-" - átad egy ékkő berakásos ezüst hajkefét.
-"ha visszatértek az információval, . amire szükségem van, akkor 3 gyógyító főztetet tudok nektek felajánlani cserébe."
-"ez jól fog jönni ahhoz, amire készüünl " - sera
-felvont szemmel néz ránk, de nem kérdez.
-"elfogadjuk az ajánlatot" - sera
-"már a szándékért is hálás vagyok, elmondok egy imát értetek!" 
-"ér használni a fésűt mielőtt odaadnánk? kicsit kócosodik a hajam vége." - ashley
-"furcsa kérdés, de ér használni, de a hajszálaid ne hagyd benne! és sok szerencsét! nem tudom mennyi dolgotok van, de nekem ez nem sürgős"
-"óó, bocsánat, nem is kérdeztük meg a nevét!" -sera
-"a nagy hév közepette én sem mutatkoztam be. Garaele nővér vagyok!" 
-"ha mégis sikerül felüdhíteni a bansheet, agathat, van tippje/ötlete mi segíthet?" - sera
-"én pl. futottam!"
-"milyen csapdák voltak?" - nana
-"hát ööh.m.a környék tele van vermekkel, azokat valszeg mondjuk nem ő ásta, hanem még a városlakók, hogy védjék.."
+* *`"Nos..egy varázskönyv hollétére lennék kíváncsi, amit esetleg tudhat a banshee. Bowgentle mágus könyve. Ez az Agatha nevű banshee esetleg tudhatja, hol van. Megkönnyítem a dolgotokat, a bansheek legendásan hiúk, ha ezt átadjátok neki, akkor hajlamosabb lesz válaszolni a kérdésre." - 💬 [papnő]`*
 
-Orik tudja, hogy a bansheek jellemzően női elfek szellemi, bosszúvágy/harag/erős negatív érzelmek tartanak ezen a világon. Tudvalévő, hogy hiúk. Nem explicit ellenségesek, maguknak valók, lehet alkudozni/tárgyalni velük, de ha felbosszantják őket, veszélyesek.
+A táskájából elővesz ékkövekkel berakott ezüst hajkefét, majd átnyújtja Ashley-nek.
 
-Megköszönjük az infókat, elindulunk a városháza felé, átsétálva a főtér másik felére.
+* *`"Ha visszatértek az információval, amire szükségem van, akkor 3 gyógyító főztetet tudok nektek felajánlani cserébe." - 💬 [papnő]`*
+* *`"Az mindenképp jól fög jönni ahhoz, amire készülünk." - 💬 [Sera]`*
 
-Egy kirívó épület, ez nem farönk épület, hanem kőfalú, nyeregtetős, harangtornyos. Őrök nincsenek, de láthatóan ez a központ.
-("burzsuj gecik" - sera)
+A papnő felvont szemmel néz ránk, de nem kérdez vissza, sejti, mire utalt.
 
-Sera az ajtóhoz lép, az egyik szárnya nyitva. Belépve egy előtérbe találja magát, egy kisebb helyiség nyílik onnan, benne padok, pulpitus (ha gyűlés van, itt tartják). A pulpitus mögötti falon egy csukott ajtó - de Sildar hangja kiszűrődik így is - nem boldog a hangja.
+* *`"Elfogadjuk az ajánlatot!" - 💬 [Sera]`*
+* *`"Már a szándékért is hálás vagyok, elmondok egy imát értetek!"" - 💬 [papnő]`*
+* *`"Ér használni a fésűt, mielőtt odaadnánk? Kicsit kócosodik a hajam vége." - 💬 [Ashley]`*
+* *`"Furcsa kérdés, de ér használni. A lényeg, hogy a hajszálaid ne hagyd benne! Sok szerencsét! Nem tudomm mennyi dolgotok van, de nekem ez nem sürgős, ráértek ezzel." - 💬 [papnő]`*
+* *`"Óó, bocsánat, nem is kérdeztük meg a nevét!" - 💬 [Sera/szabadkozva]`*
+* *`"A nagy hév közepette én sem mutatkoztam be. Garaele nővér vagyok!" - 💬 []`*
+* *`"Ha esetleg mégis sikerül felüdhíteni a bansheet - Agathat, van tippje vagy ötlete, hogy mi segíthet vele szemben?" - 💬 [Sera]`*
+* *`"Hát, én például elfutottam!" - 💬 [Garaele]`*
+* *`"Arra emlékszik esetleg, hogy milyen csapdák voltak felállítva?" - 💬 [Nana]`*
+* *`"Hát ööhm..a környék tele van vermekkel. Azokat valószínűleg mondjuk nem ő ásta, hanem még a városlakók, hogy megvédjék.." - 💬 [Garaele]`*
 
-Sera hallgatózik az ajtó előtt - minden szót jól ért. Sildar kiabálni akarna, de pozíciójához mérten ezt visszafogja, mérgesen vitatkozik egy idősebb férfival, aki magasabb hangon mentegetőzik a számonkérés hallatán.
-"Mit diktál az illem, megzavarhatom őket?" - kérdi 
-"szerintem meg fogja osztani velünk, de nem baj ha figyelünk addig is." - orik
+Megköszönjük az információkat, elindulunk a városháza felé, átsétálva a főtér másik felére. Menet közben Orik elmagyarázza a többieknek, akik nincsenek tisztában a helyzettel, hogy a bansheek jellemzően női elfek szellemei, akiket bosszúvágy, harag, vagy hasonló, erősen negatív érzelmek tartanak ezen a világon. Közismerten hiúk lények, akik nem explicit ellenségesek, eléggé maguknak valók, alkalomadtán lehet alkudozni vagy tárgyalni is velük, de ha felbosszantják őket, veszélyesek.
 
-ő is hallgatózni kezd - a vita rég óta tart. Sildar már körbejárta a várost, felkészült a helyzettel. Számonkéri a banditákat, Iarno eltűnését, miért nincs senki tömlőcben, bármit tesz -e azon kívül, hogy tömi a zsebét a lordok szövetségének pénzéből. Harbin Wester fontoskodva mentegetőzik a rágalmak alól, a vörösmaszkosok nem jelentenek akkora problémát, csak banditák, majd megunják. Ha több pénzt kapna, akkor lenne pénz őrségre, de így nem mer senki szembeszállni. ő bankár, nem harcos..őt amúgy is a város választja meg, évről évre, így biztos jól végzi a dolgát.
-Sildar a mentegetőzésre egy fokkal jobban kikel magából, az egy dolog, hogy őt megválasztották, de a Lordok Szövetségének érdekei azt kívánják, hogy tartós fejlődés legyen - ehez nem elég a farokbehúzós módszer, tenni kell a problémák ellen. Sildar ezennel átveszi a nagyobb volümenű irányítást, Iarnon helyét átveszi, a többi jogkör maradhat Harbinnál. Van is egy csapat, akit meg tud bízni a rendfenttartással.
-"Úgy vélem, ránk céloz" -roiok
-"én is attól tartok" -sera
+Odaérkezve egy kirívó épület tárul szemünk elé. A település többi épületétől eltérően ez nem farönkökből épül, hanem kőfalú, nyeregtetős, harangtornyos. Őrök nincsenek, de láthatóan ez a központja a városnak.
 
-miféle módszer ez, hogy zsoldosok védik a térséget - harbin
-bizonyított, becsületes bandáról van szó - sildar. - maradjon behúzott farokkal az asztal alatt, majd ő intézkedik. <gyors léptek hangja>
+* *`"Burzsuj gecik.." - 💬 [Sera/halkan]`*
 
-Orik sajnos későn hallja a lépteket, bár Sera arrébb lép, ő nekiütközik Sildarnak.
-"elnézést..ez nagyon kellemetlen.." - orik
-"most érkeztünk, szerintem Orik nem számíotott arra, hogy ki fog nyílni az ajtó, mikor kopogni fog!" - ashley
+Sera az ajtóhoz lép, annak az egyik szárnya nyitva van. Belépve egy előtérbe találja magát, egy kisebb helyiség nyílik onnan, benne padok, pulpitus - láthatóan ha az itt lakóknak gyűlést tartanak, azt itt tartják. A pulpitus mögötti falon egy csukott ajtó található - de Sildar hangja - ami egyértelműen nem boldog -  kiszűrődik így is.
 
-Sildar meglepődve néz Orikra, "nagyon örülök hogy megérkeztetek.. ő itt Harbin Wester a polgármester". a csávó 60as pocakos emberke a falhoz lapulva, ujjal mutogat Orikra.
-ő odalép, bemutatkozik, "Orik Spellweaver, nagyon örvendek!" - nagy mosollyal, miközben a kinyújtott mutatóujjal ráz kezet.
-Sera is odalép, bemutatkozik ő is legbájosabb mosolyával. Nyel egy nagyot az ürge, majd Sera (kézcsókra) kinyújtott kezét megrázza. bemutatkozik.
-"A társaim pedig Nana, Ashley és Rorr!"
+Sera odalopódzik, és hallgatózni kezd az ajtó előtt - az emelt hangerő miatt minden szót jól ért. Sildar érezhetően kiabálni akarna, de pozíciójához mérten ezt visszafogja, csak mérgesen vitatkozik egy idősebb férfival - a polgármesterrel -, aki magasabb hangon mentegetőzik a számonkérés hallatán.
 
-Harbin jobban összemegy, ijedten néz.
-"Polgármester úr, jól van?!" - sera
-"már értem miért mondták hogy nem találja a tökeit!" - ashley
-"hogy-hogy képzeli? Sildar, ezek a hősök akiket említett? ezek mentenék meg PHandalint?" - harbin
-"nem ezek, ők." -orik
-"nem kell hinnie nekünk, de sildar nagyurat már megmentettük." - sera
-ez nem hit kérdése
-sildar mosolyog.
-orik közelebb lép, fölé magasodik: "valóban nem hit kérdése..ahogy a nagyúr is tanusíthatja, bizonyítottuk rátermettségünket."
-így van, ezért kezeskedem. barátaim, menjünk ki a közös helységbe. a polgármesternek úgyis so kdolga van, hagyjuk őt."
+* *`"Mit diktál az illem, megzavarhatom őket?" - 💬 [Sera]`*
+* *`"Szerintem meg fogja osztani velünk, amit kell, de nem baj, ha figyelünk addig is.." - 💬 [Orik]`*
 
-ahogy kiindulunk, ashely odahajol Nanahoz, hogy hallja a polgi, "szerintzem nem elég nagy az asztal ahhoz, hogy bebújjon alá!" nana hangosan röhög
-"nem is tartjuk fel a polgármester urat bokros teendői közepette, a viszont látásra!" orik
-"ígyv an! majd kérek jelentést" - erre orik is felnevet.
-"persze, indenkéép!" nana odakacsint 
+Ő is hallgatózni kezd - a vita hallhatóan rég óta tart. Sildar már körbejárta a várost, felkészült a helyzettel. Számonkéri a banditákat, Iarno eltűnését, miért nincs senki tömlőcben, bármit tesz -e azon kívül, hogy tömi a zsebét a Lordok Szövetségének pénzéből. Harbin Wester fontoskodva mentegetőzik a rágalmak alól, a vörösmaszkosok nem jelentenek akkora problémát, csak banditák, majd megunják ezt az egészet. Ha több pénzt kapna, akkor lenne pénz őrségre, de így nem mer senki szembeszállni velük. Ő egyébként is bankár, nem harcos.. Amúgy is, őt a város választja meg, évről évre, így biztos jól végzi a dolgát, különben már más lenne a polgármester.
 
-sildar tartja az ajtót, egyesével távozunk, majd erőteljesen teszi be (bassza) az ajtót maga mögött.
+Sildar a mentegetőzésre egy fokkal jobban kikel magából, az egy dolog, hogy őt megválasztották, de a Lordok Szövetségének érdekei azt kívánják, hogy tartós fejlődés legyen a térségben - ehhez nem elég a farokbehúzós módszer, tenni kell a problémák ellen. Sildar kijelenti, hogy ezennel átveszi a nagyobb volümenű irányítást. Iarno *"megüresedett"* helyét, és az ezzel járó jogokat ideiglenesen átveszi, a többi jogkör maradhat Harbinnál. Van is egy csapat, akit meg tud bízni a rendfenttartással.
 
-"ostoba, öreg..de sajnos kell valaki helyi, politikai okokból" - mondja Sildar. - "a pénzzel jól bánik az öreg, elvégre bnankár volt.. sajnos azt is tudja hogy kel lsaját zsebbe tenni, de a papírmunkát is jól csinálja."
+* *`"Úgy vélem, ránk céloz." - 💬 [Orik]`*
+* *`"Én is attól tartok.." - 💬 [Sera]`*
 
-van kihívója? - sera
-nem tudom sajnos, nem esett ilyenekről szó.
-úgy nem nehéz nyerni, ha nincse ellenfél. - sera
-örülbnek, hogy valaki vállalja. ezek bescületes emberek, nem való nekik a politika..
+A polgármester is emeli a hangját, nem tetszik neki amit Sildar sugall, miféle módszer ez, hogy zsoldosok védik a térséget. 
+* *`"Bizonyított, becsületes bandáról van szó. Maga csak maradjon behúzott farokkal az asztal alatt, majd én intézkedem." - 💬 [Sildar]`*
+
+Gyors léptek hangja üti meg a füleinket. Bár Sera még időben arrébb lép az ajtó elől, Orik egy pillanattal tovább időzik ott, mint kellene, és nekiütközik a kilépő Sildarnak.
+* *`"Elnézést..ez nagyon kellemetlen.." - 💬 [Orik/szégyenkezve]`*
+* *`"Pont most érkeztünk, szerintem Orik nem számított arra, hogy ki fog nyílni az ajtó, amikor kopogni fog!" - 💬 [Ashley]`*
+
+Sildar meglepődve néz Orikra.
+* *`"Nagyon örülök, hogy megérkeztetek! Ő itt Harbin Wester, a polgármester." - 💬 [Sildar]`*
+
+A 60-as éveibne járó, pocakos emberke a falhoz lapulva, ujjal mutogat Orikra.
+
+* *`"Orik Spellweaver, nagyon örvendek!" - 💬 [Orik/nagy mosollyal]`*
+Odalép, miközben a kinyújtott mutatóujjal ráz kezet a bemutatkozás közepette.
+
+Sera is odalép, bemutatkozik ő is a legbájosabb mosolyával. Nyel egy nagyot az ürge, majd Sera (kézcsókra) kinyújtott kezét megrázza. A polgi is bemutatkozik.
+* *`"A társaim pedig Nana, Ashley és Rorr!" - 💬 [Sera]`*
+
+Harbin még jobban összemegy, ijedten néz a társaságra.
+
+* *`"Polgármester úr, jól van?!" - 💬 [Sera]`*
+* *`"Így már értem, hogy miért mondták, hogy nem találja a tökeit!" - 💬 [Ashley]`*
+* *`"Hogy..hogy képzeli?! Sildar, ezek lennének a hősök, akiket említett? Ezek mentenék meg Phandalint?" - 💬 [Harbin/felháborodva]`*
+* *`"Nem _ezek_, hanem _ők_." - 💬 [Orik/helyesbít]`*
+* *`"Nem kell hinnie nekünk, de Sildar nagyurat már megmentettük." - 💬 [Sera]`*
+* *`"Ugyan, kisasszony, ez nem hit kérdése.." - 💬 [Harbin]`*
+
+Sildar csak mosolyog, nem szól közbe. Orik közelebb lép, a polgármester fölé magasodik: 
+* *`"Valóban nem hit kérdése..ahogyan Sildar nagyúr is tanusíthatja, mi már bizonyítottuk rátermettségünket." - 💬 [Orik]`*
+* *`"Így van, ezért kezeskedem. Barátaim, menjünk ki a közös helyiségbe. A polgármesternek úgyis sok dolga van, hagyjuk őt." - 💬 [Sildar]`*
+
+Ahogy kiindulunk, Ashley odahajol Nanahoz, majd félig hangosan, hogy biztosan hallja a polgármester is, így szól:
+
+* *`"Szerintem nem elég nagy az asztal ahhoz, hogy bebújjon alá!" - 💬 [Ashley]`*
+
+Nana hangosan röhög, majd elindul kifelé.
+* *`"Nem is tartjuk fel a polgármester urat bokros teendői közepette, a viszont látásra!" - 💬 [Orik]`*
+* *`"Így van! Majd kérem a jelentést a helyzetről!" - 💬 [Harbin/fontoskodva]`*
+
+Erre már Orik is felnevet. Nana még odakacsint az ajtóból:
+
+* *`"Persze, mindenképp!" - 💬 [Nana]`*
+
+Sildar tartja az ajtót, amíg egyesével távozunk, majd erőteljesen teszi (bassza) be az ajtót maga mögött.
+
+* *`"Ostoba, öreg..de sajnos kell valaki helyi, politikai okokból. A pénzzel jól bánik az öreg, elvégre bankár volt..Sajnos emiatt azt is tudja, hogy kell a saját zsebbe tenni belőle, de a papírmunkát is mindig jól csinálja, nincs fogás rajta." - 💬 [Sildar/magyarázva a helyzetet]`*
+* *`"Van kihívója?" - 💬 [Sera]`*
+* *`"Nem tudom..Sajnos nem esett ilyenekről szó." - 💬 [Sildar]`*
+* *`"Úgy nem nehéz nyerni, ha nincsen ellenfele." - 💬 [Sera]`*
+* *`"Örülnek, hogy valaki egyáltalán vállalja.. Ezek becsületes emberek, nem való nekik a politika." - 💬 [Sildar]`*
+
 ashzely jelzi, hogy conniberry felé is el akarunk majd menni, a bansheehez.
-mi dolgotok van ott? itt helyben is van dolog - sildar
-a papnő kért meg minket - ashley
-nem akarlak titeket eltéríteni, de előbb helyhben van rátok szükségem. vannak fejlemények, körbekérdeztem. Iarno 2 hónapja eltűnt, utána jöttek a banditák. állítólag a kúria környéki erdőben túűnt el.. a körülmények ismeretlenek számomra. - sildar
-"Ezeket tudjuk!" - ashley közbevág, és elmondja amiket mi hallottunk aznap.
-"látom ti is tevékeynek voltatok, továbbra is aggódom, félek, hogy Iarnot foglyul ejtették. szeretném tudni, hogy él e, milyen ifnormációkat tudtak tőle meg a banditák. de ha már kiderítettétek merre van a tanyájuk, én 200 aranyat ajánlok, ha megtaláljátok Iarnot, vagy a maradványait, vagy az információkat róla. kopasz, alacsony dús fekete szakállú, 30as férfi."
-"a világért nem bírálnám fölül a felállított prioritást, de mi a helyzet gundernenel?" orik
-"erre akartam pont kitéreni..ne érts félre, jó barátom, de Iarno a társam, a szövetség tagja, ... Gundrennel sokat nem tudtam meg, nem tudják a helyiek, hol lehet a Cragmaw kastély, a másik megbízásom, hogy ezt kideríteni, akár a környéki goblin protyákat ártalmatlanítni úgy, hogy legyen kihallgatható túsz, vagy a helyiektől, akikkel nem találkoztam megtudni valamit, aki tudhat dolgokat.. ha megtaláljátok a kastélyt, és a sokat emlegetett Kirtályt tudnátok likvidálni, 500 aranayat tudok felajálnni a társaságnak.. ha már pénzügyek, tartozok 50 arannyal nektek! <ezt odaadja mindenkinek> jelenleg ez a helyzet, nagy a baj..." - sildar
-"ha jól értem a fontossági sorrend: iarno, gundren, majd a további dolgok felgönyölítése" - orik
-"ha a bansheet keressük, találhatunk goblinokat?" - sera
-"a helyiket szerint az egész treeboar ösvényt portyázzák..bármerre lehetnek..illetve a helyi öreg kalandor is tudhat dolgokat" - sildar
-és a másik kalandor? - sera
-vele nem találkoztam, én korán keltem. - sildar
-"nos, azt hiszem van miről beszélnünk.."- sera
-"én bíztatlak titeket a gyors cselekvésre, de természetesen legyetek felkészüoletk!" -sildar
-"ha szabad megkérdeznem, SIldar úrnak mik a tervei, merre találjuk, ha információt kell cserélni?" -orik
-"én azt hiszem, főleg itt leszek" - sildar.. " még valmai.. a bánya kapcsán. én sajnos nem láttam a térképet, nem tudom, hol a bejárat.. de van délre nem messze egy gnome város (Gnomengarde), ők is a hegyekben turkálnak, ők lehet tudnak valamit, de ez most nem prioritás..hasznos kis varázstárgyakat gyártanak, segítségetekre lehetnek.. illetve egy pletyka: a helyiek panaszkodnak, hogy az orkok lejöttek a hegyekből. Phandalinnak nem okoznak kárt, de északra/északkeletre gyakoribbak a portyázások".
-"rá jár a rúd a szernecse istennőjének településére" - sera
+* *`"Mi dolgotok van ott? Itt helyben is van elég sok dolog." - 💬 [Sildar]`*
+* *`"A papnő kért meg minket valamire!" - 💬 [Ashley]`*
+* *`"A nem akarlak titeket eltéríteni, de előbb helyben van rátok szükségem. Vannak fejlemények, körbekérdeztem. Iarno már 2 hónapja eltűnt, csak utána jöttek a banditák. Állítólag a kúria környéki erdőben tűnt el..a pontos körülmények ismeretlenek számomra." - 💬 [Sildar]`*
+* *`"Óóh, ezeket már tudjuk! Mi is hallottunk pár dolgot ma.." - 💬 [Ashley]`*
 
-megköszönjük az infókat, Sildar mostanában a város többi dolgával kell, hogy foglalkozzon.
+Ashley belekezd a mesélésbe, elmondja, mi mindent tudtunk meg a nap folyamán.
 
-Ahogy kilépünk a városháza épületéből, már késő délután/kora este van.
+* *`"Látom, ti is tevékenynek voltatok! Én továbbra is aggódom, félek, hogy Iarnot foglyul ejtették. Szeretném tudni, hogy él -e, és milyen információt tudtak tőle meg a banditák. De így, hogy már kiderítettétek, merre van a tanyájuk, én 200 🥇-t ajánlok fel, ha megtaláljátok Iarnot, vagy a maradványait, vagy bármiféle információt róla. kopasz, alacsony dús fekete szakállú, 30as férfi." - 💬 [Sildar]`*
+* *`"A világért nem bírálnám fölül a felállított prioritást, de mi a helyzet Gundernenel?" - 💬 [Orik/kérdőn]`*
+* *`"Erre akartam pont kitéreni.. Ne érts félre, Gundren jó barátom, de Iarno a társam, a Lordok Szövetségének tagja.. Gundrennel kapcsolatban nem tudtam meg túl sokat, nem tudják a helyiek, hol lehet a Cragmaw kastély.. A másik megbízásom, hogy ezt ki kellene deríteni. Akár a környékbeli goblin portyákat ártalmatlanítni úgy, hogy legyen kihallgatható túsz, vagy akár a helyiektől, akikkel itt a rövid idő alatt nem találkoztam megtudni valamit. Csak van valaki, aki tudhat dolgokat.. Ha megtaláljátok a kastélyt, és ezt a sokat emlegetett 'Királyt' tudjátok likvidálni, 500🥇-t tudok felajálnni a társaságnak.. Ohh, ha már pénzügyek, 50🥇 tartozásom van felétek! {{átnyújtja mindenkinek a pénzt}} Hát, jelenleg ez a helyzet, nagy a baj.." - 💬 [Sildar]`*
+* *`"Ha jól értem, a fontossági sorrend: Iarno, Gundren, majd a további dolgok felgöngyölítése." - 💬 [Orik/összefoglalva]`*
+* *`"Ha a bansheet keressük, találhatunk arrafelé goblinokat?" - 💬 [Sera]`*
+* *`"A helyiek szerint az egész Triboar ösvényt portyázzák, bármerre lehetnek.. Illetve a helyi öreg kalandor is tudhat talán dolgokat." - 💬 [Sildar]`*
+* *`"Na és a másik kalandor?" - 💬 [Sera/a reggeli alakra utalva]`*
+* *`"Én vele nem találkoztam, korán keltem, elkerülhettük egymást." - 💬 [Sildar]`*
+* *`"Nos, azt hiszem van miről beszélnünk.." - 💬 [Sera]`*
+* *`"Én bíztatlak titeket a gyors cselekvésre, de természetesen legyetek felkészültek!" - 💬 [Sildar]`*
+* *`"Ha szabad megkérdeznem, Sildar úrnak mik a tervei? Merre találjuk Önt, ha információt kell cserélni?" - 💬 [Orik]`*
+* *`"Én azt hiszem, főleg itt leszek. Még valami, a bánya kapcsán.. Én sajnos nem láttam a térképet, nem tudom, hol a bejárat.. De van délre innen, nem túl messze, egy gnóm város - Gnomengarde. Ők is a hegyekben turkálnak, talán tudnak valamit, de ez most nem prioritás..Hasznos kis varázstárgyakat is gyártanak, akár azok is a segítségetekre lehetnek.. Illetve van még egy pletyka: a helyiek panaszkodnak, hogy az orkok lejöttek a hegyekből. Phandalinnak nem okoznak kárt, de északra, észak-keletre gyakoribbak a portyázások." - 💬 [Sildar]`*
+* *`"Eléggé rá jár a rúd a szerencse istennőjének településére.." - 💬 [Sera]`*
 
-Beszélni kéne Halia-val, és az öreg kalandorral is. Ashley azt tanácsolja, váljunk ketté.
+Megköszönjük az infókat, és elköszönünk, Sildar mostanában a város többi dolgával kell, hogy foglalkozzon. Ahogy kilépünk a városháza épületéből, már késő délután / kora este van, elbeszélgettük az időt.
 
-"Zavar titeket, ha veletek jövök, vagy csak ketten mennétek Halia-hoz?" _ sera
-"csak egy csomagot hoztunk neki, nincs titkolni valónk!" - rorr
+Sok még a tenni-, azaz beszélnivaló, Halia-t is fel kell keresni, és az öreg kalandort is jó lenne felkeresni. Ashley tanácsa mentén kettéválunk - este a fogadóban találkozunk, és mindenki beszámol a látottakról, hallottakról. Rorr és Nana elindul a bányászcéh épülete felé, Ashley és Orik a kalandort fogják felkeresni.
 
-Megbeszéljük, hogy este találkozunk a fogadóban.
+* *`"Zavar titeket, ha veletek jövök, vagy csak ketten mennétek Halia-hoz?" - 💬 [Sera]`*
+* *`"Mi csak egy csomagot hoztunk neki, nincs titkolni valónk!" - 💬 [Rorr]`*
 
-ashley orikba karol, és elindulnak az Edermath Orchard felé az öreg kalandort megkeresni.
-"ne haragudjon nővér, de meg tudja mondani merre van a gyümölcsös? szeretnénk beszélgetni a kalanodorra" - ashley a nővérnek, aki gyertákyat gyújt a shirne-ban.
-"az öreg Daran? (Edermath) csak félelf, de így is jól tartja magát, pedig már 100 éves is elmúlt" - mondja a nővér. "pont a domb mögött van a gyümölcsöse, örülni fog a látogatóknak. szegénynek hiányzik a kalandozás." - sister garaele.
+Ashley Orikba karol, és elindulnak az **'Edermath Orchard'** felé az öreg kalandort megkeresni.
+* *`"Ne haragudjon nővér, de meg tudja mondani, merre van a gyümölcsös? Szeretnénk beszélgetni a kalanodorral!" - 💬 [Ashley]`*
 
-ashley megköszöni, elindul a domb felé, hogy levágja az utat. Garaele aggodalmas arccal néz Ashleyre, ezt Orik észreveszi. "mi gondfelhők árnyékolják kedves homlokát, nővér"? kérdi
-"bocsánat.valahogy olan furcsát érzek a barátod felől..jól van?" -kérdi
-"nos.s.nem fejezte ki diszkomfort érzetét, mire gondol?" orik
-"olyan..furcsa árnyék vetül rá..kicsit fenyegetően hangzik, de mintha..nem lenne 'teljes' " .. sister
-"érdekes hipotézik, miből gondolja? mik a jelek?" orik jegyzetelve
-"nem tudom pontosan..csak megérzés, de nem akartam udvariatlan lenni egyből varázslatot zúditnai rá" - 
-"és milyet használt volna"? - orik
-"Orik jössz?" ashley
-"azonnal" orik
-"én sem tudom pontosan...valmailyen detektáló varázslattl..nem tudom mit és mivel találnék, ha egyáltalá nvalamit találnék.." - sister
-ashley köpenyt lebegtet, a két nézője megdicsér.
-"ha valami frcsát talasztaltok vele, és diagnoszitázlni kéne, akkor gyertek hozzám és megopróbálkozom vele"
-"lekötelez, mindeképp ha alkalmas élni fogun kvele" -orik
-vigyázzatok rá és egymásra, és sok szerencsét!"
-"köszönjük, az istensége álja meg, minden jót!"
-és téged is gyermekem!
+A nővér épp gyertyákat gyújt a kegyhelyen.
+* *`"Az öreg Daran Edermath-ot keresitek? Bár csak félelf, de így is jól tartja magát, pedig már 100 éves is elmúlt. Pont a domb mögött van a gyümölcsöse, örülni fog a látogatóknak. Szegénynek hiányzik a kalandozás, biztos szívesen hall egy-két új történetet." - 💬 [Garaele]`*
 
-orik ashley után siet. "meglehetősen érdkes diskurzusba keveredtem a nővérrel." - orik
-"papokkal beszélgetni mindig vicces"
-"igen kifejezetten ilyen témákról, ugyanis rólad kérdezett..monddcsak, hogy érzed magad ma este?" 
-az előbb meg lettem dicsérve a heroic mozdulatért, azt hiszem fejlődőképes vagyok. egész nap mentünk a-ból b-be de egész jó hangulatú ez a közösség.
-örülök, akkor ne fecséreljük tovább az időt, keressük fel a kalandort!
-Darant? szerintem arra lesz!
+Ashley megköszöni, elindul a domb felé toronyirányt, hogy levágja az utat. Garaele aggodalmas arccal néz Ashleyre, ezt Orik észreveszi.
+* *`"Mi gondfelhők árnyékolják kedves homlokát, nővér?" - 💬 [Orik]`*
+ * *`"Bocsánat..valahogy olyan furcsát érzek a barátod felől..jól van?" - 💬 [Garaele]`*
+* *`"Nos..eddig nem fejezte ki diszkomfort érzetét, mire gondol pontosan?" - 💬 [Orik]`*
+* *`"Olyan..furcsa árnyék vetül rá..kicsit fenyegetően hangzik, de mintha..nem lenne 'teljes'." - 💬 [Garaele]`*
+* *`"Érdekes hipotézis, miből gondolja? Mik a jelek?" - 💬 [Orik/jegyzetelve]`*
+* *`"Nem tudom pontosan..csak megérzés, de nem akartam udvariatlan lenni, és egyből varázslatot zúdítani rá." - 💬 [Garaele]`*
+* *`"És miylen varázslatot használt volna?" - 💬 [Orik]`*
+* *`"Orik, jössz?" - 💬 [Ashley/hátrakiált]`*
+* *`"Azonnal!" - 💬 [Orik]`*
+* *`"Én sem tudom pontosan.. Valmailyen detektáló varázslattal talán..De nem tudom, mit és mivel találnék, ha egyáltalán találnék bármit.." - 💬 [Garaele]`*
 
-a dombtetőről látszik a gyümölcsös, a szléén egy takaor skis házikó, elindulnak felé.
+Ashley meglebegteti a köpenyét, figyelmet vonva magára - a két nézője megdicséri.
 
-==============
+* *`"Ha valami furcsát tapasztaltok vele, és diagnosztizálni kéne, akkor gyertek hozzám és megpróbálkozom vele!" - 💬 [Garaele]`*
+* *`"Lekötelez nővér, mindenképp - ha alkalmas - élni fogunk vele." - 💬 [Orik]`*
+* *`"Vigyázzatok rá, és egymásra, és sok szerencsét!" - 💬 [Garaele]`*
+* *`"Köszönjük, az istensége álja meg, minden jót!" - 💬 [Orik/elköszön]`*
+* *`"És Téged is, gyermekem!" - 💬 [Garaele]`*
 
-egy egy helyiséges irodaépület látszódik, csukott ajtó fogadja Rorrt, Nana-t és Sera.t. A favágó háza mellett elhaladva az ajtón keresztben egy széles piros csík látszódik.
+Orik Ashley után siet.
+* *`"Meglehetősen érdekes diskurzusba keveredtem a nővérrel." - 💬 [Orik]`*
+* *`"Papokkal beszélgetni mindig vicces." - 💬 [Ashley]`*
+* *`"Igen, kifejezetten ilyen témákról, ugyanis rólad kérdezett.. Mondd csak, hogy érzed magad ma este?" - 💬 [Orik]`*
+* *`"Az előbb meg lettem dicsérve, a hősies mozdulatért, azt hiszem fejlődőképes vagyok. Egész nap mentünk 'A'-ból 'B'-be, de egész jó hangulatú ez a közösség." - 💬 [Ashley]`*
+* *`"Ennek örülök! Akkor ne fecséreljük tovább az időt, keressük fel a kalandort!" - 💬 [Orik]`*
+* *`"Darant? Szerintem arra lesz!" - 💬 [Ashley]`*
 
-elpőbb intézzétek amit akartok, aztán mehet a többi -sera
+A dombtetőről látszik a gyümölcsös, a szélén egy takaros kis házikó, elindulnak felé.
 
-Rorr bekopog. 
-"tessék" - női hang
-"halia tthorntont kersssük!" 
-én lennénk, csak nem bányászni szerentél a fizimiskád meg van hozzá
-nem, csak 
-rorr barátommal küldeményt hoztunk Önnek.- nana
-kitől?
-nem tudjuk a nevét, dealer
-óó nem is kell tudni
-a régen várt dohányom.. köszönöm szépen.
-<isszahajol a papírokhoz, elég sok van az asztalon>
+~~~
+{✈} <Rorr, Nana, Serafine>
+~~~
 
-rorr koponya beszélgetés, dealer
+A favágó háza mellett elhaladva az ajtaján keresztben egy széles piros csík látszódik. A bányászcéhhez érve egy egy helyiséges, irodaépület látszódik, ahol csukott ajtó fogadja Rorrt, Nana-t és Sera-t.
 
-igen, hobglbin, van a környéken is, acragmwaban is van tagjuk
+* *`"Előbb intézzétek el vele, amit akartatok, aztán mehet a többi"! - 💬 [Sera]`*
 
-sera: cragmaw törzs? van egy központjuk..kastély tlaán
-igen , beszélnek róla...valahol a nevewerinter edrőben található.. a rajtaütés helyszínéből nagybjából kikövetkeztetőhető, ha azt vesszük, mi lehet a sugár, ahova viszik a zsákmányt. de pontosan nem tudom... viszont... gondolom hallottatok a helyi kis bandita problémáról.
-"igen -sera
-úgy értesültem, hogy van egy kis goblin szolgájuk, ő hátha tudja hol a kastély!"
-"ez egy nagyon hasznos hír, ön elég táéjkozott asszony, igaz? hízeleg sera
-igen, ebben a fériak uralta világban egy nő ha a hatalom közelébe kerül, mondhatni a polgármester után nekem van a legtöbb adminsizrtatív feladatom így elég sok infó eljut hozzám
-és az üzlet is jól megy 
-a bánya..nos.. itt a környező hegyeket nem mondanám kifejezettengazdagnak, de az elszánt bányászok megtalálják az ereket
-és hogy küzd meg a bandita problmával?
-nos..megtévesztés itt, pletkya ott.. hogy megnöveljem a saját..renomémat.
-és akkor a kis goblin szolgát kellene keresni, igaz?
-igen..ha jól sejtem velük van.
-tudjátok hol keressétek?
-az alvó óriásban?
-oda csak inni járnak a bázisuk a kúria alatt van..
-ez lenyűgöző
-de lenne egy ajánlatom: ki tudnék deríteni ennek a bizonyos Churrark koponyájáról, egy kis szívességért cserébe.. ha már úgyis a banditák fészkébe tartotok a goblint megkeresni..úgy hírlik a vezérük egy 'Glasstaff' nevű mágus... ha ezt a vezért kiiktatnátok és tőle tudnátok hozni valamiféle információt, iratot ami hasznos lehet számomra, akkor egyrészt kaptok infót Churrarkról, másrészt még 100 aranyat hozzátezsek.
+Rorr bekopog.
+
+* *`"Tessék!" - 💬 [női hang]`*
+* *`"Halia Thornton-t keressük!" - 💬 [Rorr/belépve]`*
+* *`"Én lennék az. Csak nem bányászni szeretnél? Látom, a fizimiskád meg van hozzá!" - 💬 [Halia]`*
+* *`"Én? Nem! Mi csak.." - 💬 [Rorr]`*
+* *`"Rorr barátommal egy küldeményt hoztunk Önnek!" - 💬 [Nana/közbevág]`*
+* *`"Küldeményt, nekem? Kitől?" - 💬 [Halia/felvont szemmel]`*
+* *`"Nem tudjuk a nevét, nekünk csak annyit mondott, hogy ő a dealer!" - 💬 [Rorr]`*
+* *`"Óóh, nem is kell tudni! A régen várt dohányom.. Köszönöm szépen!" - 💬 [Halia/nyájasan]`*
+
+Átveszi a csomagot, közben visszahajol a papírokhoz, amiből elég sok van az asztalon.
+
+* *`"Na és, hogy-hogy ti lettetek a megbízottak?" - 💬 [Halia]`*
+
+Rorr elmeséli a törzsében a koponyával történteket, hogy a nyomait követve Neverwinterben kissé bonyolultan, de végül találkoztak a dealerrel. A dealer azt mondta, tőle egy hobgoblin vette át a koponyát, de többet azóta nem tud róla - viszont ha Halia-nak leszállítják a csomagot, itt talán további nyomokra bukkanhatnak.
+
+* *`"Óó, igen, hobgoblin.. Az van a környéken is, a Cragmaw-ban is van tagjuk." - 💬 [Halia]`*
+* *`"Cragmaw törzs? Úgy tudom, van egy központjuk..A 'kastély', talán" - 💬 [Sera/felfigyelve a névre]`*
+* *`"Igen, beszélnek róla.. Valahol a neverwinteri erdőben található.. A rajtaütés helyszínéből nagyjából kikövetkeztethető, ha azt vesszük, mi lehet a sugár, ahova viszik a zsákmányt.. De pontosan én sem tudom. Viszont...gondolom hallottatok a helyi kis bandita problémáról." - 💬 [Halia/sejtelmesen]`*
+* *`"Igen, persze." - 💬 [mindhárman]`*
+* *`"Úgy értesültem, hogy van egy kis goblin szolgájuk. Ő hátha tudja, hogy hol a kastély!" - 💬 [Halia]`*
+* *`"Ez egy nagyon hasznos hír! Ön elég tájékozott asszony, igaz?" - 💬 [Sera/hízelegve]`*
+* *`"Igen, ebben a férfiak uralta világban egy nő, ha a hatalom közelébe kerül.. Mondhatni a polgármester után nekem van a legtöbb adminisztratív feladatom, így elég sok infó eljut hozzám. És az üzlet is jól megy. A bánya..nos..itt a környező hegyeket nem mondanám könnyű célpontnak, de az elszánt bányászok megtalálják az ereket." - 💬 [Halia]`*
+* *`"Na és hogy küzd meg a bandita problmával?" - 💬 [Sera]`*
+* *`"Nos..egy kis megtévesztés itt, egy kis pletyka ott..ezzel megnövelve a saját..khm..renomémat." - 💬 [Halia]`*
+* *`"És akkor a kis goblin szolgát kellene keresni, igaz?" - 💬 [Sera]`*
+* *`"Igen..ha jól sejtem, velük van. Tudjátok, hogy hol keressétek?" - 💬 [Halia]`*
+* *`"Az Alvó óriásban?" - 💬 [Sera]`*
+* *`"Áh, oda csak inni járnak. A bázisuk a kúria alatt van." - 💬 [Halia]`*
+* *`"Ez lenyűgöző!" - 💬 [Sera]`*
+* *`"De lenne egy ajánlatom: ki tudnék deríteni egyet s mást ennek a bizonyos Churrark koponyájáról, egy kis szívességért cserébe..ha már úgyis a banditák fészkébe tartotok a goblint megkeresni.. Úgy hírlik, a vezérük egy 'Glasstaff' nevű mágus.. Ha ezt a vezért kiiktatnátok és tőle tudnátok hozni valamiféle információt, vagy iratot, ami hasznos lehet számomra, akkor egyrészt kaptok infót Churrarkról, másrészt még 100🥇-t is hozzáteszek." - 💬 [Halia]`*
 
 Rorr kinyújtja a kezét, áll az alku.
 
-"ha már infócsere, Iarno eltűnéséről szabad kérdeznem?" - sera
-számtalan pletkya kering
-a valószínűkre vagyok kiváncsi.
-tetszik a célratörőség. sokra viheted
-személy szerint a legvalószínűbb banditák fogjya..hogy életben van e, hát.. két hónap alatt sok mindent megtudhattak.
+* *`"Ha már információ csere, Iarno eltűnéséről szabad kérdeznem?" - 💬 [Sera]`*
+* *`"Ó, hát arról számtalan pletyka kering.." - 💬 [Halia]`*
+* *`"Én a _valószínűkre_ vagyok kíváncsi." - 💬 [Sera]`*
+* *`"Tetszik a célratörőséged, még sokra viheted. Személy szerint a legvalószínűbbnek azt tartom, hogy a banditák foglya. Hogy életben van -e, hát.. Két hónap alatt sok mindent megtudhattak." - 💬 [Halia]`*
 
 Nana és Sera látják, hogy a stílus mögött valószínűleg biztosan van hátsószándék is.
 
-"borzasztó ami a fafaragóval történt a szomszédban" - sera
-valóban szörnyű..nyílt utcán kivégezni..aztán még a családja is eltűnt.
-kedvelték őt errefelé? sera
-ez egy kis város, itt ha valakit nem kedvelnek, nem tud megmaradni 
-és Ön kedvelte?
-nem volt vele sok ügyletem, én a bányászokkal foglalkozom. becsületesen dolgozó családapának tűnt.
+* *`"Borzasztó, ami a fafaragóval történt a szomszédban!" - 💬 [Sera/újabb információt remélve]`*
+* *`"Valóban szörnyű..nyílt utcán kivégezni..aztán még a családja is eltűnt." - 💬 [Halia/sajnálva]`*
+* *`"Kedvelték őt errefelé?" - 💬 [Sera]`*
+* *`"Ez egy kis város.. Itt ha valakit nem kedvelnek, nem tud sokáig megmaradni." - 💬 [Halia]`*
+* *`"És Ön, kedvelte?" - 💬 [Sera]`*
+* *`"Nem volt vele sok ügyletem, én a bányászokkal foglalkozom. Becsületesen dolgozó családapának tűnt." - 💬 [Halia]`*
 
-"Rorr, Nana?" kérdi sera
-"Egy korsós ör, egy vacsora, egy jó alvás és irány holnap!" -rorr
+A hangsúlyából érződik, hogy a csevellyel lezártnak tekinti a beszélgetést, visszafordul a papírokhoz.
 
-"további szép estét, a viszont látásra!" - sera
-"én is köszönöm, és sok sikert, remélem találkozunK!" - halia
+* *`"Rorr, Nana? Hogyan tovább?" - 💬 [Sera]`*
+* *`"Egy korsó sör, egy nagy adag vacsora, egy jó alvás, és irány holnap!" - 💬 [Rorr]`*
+* *`"További szép estét, köszönjük az információkat! A viszont látásra!" - 💬 [Sera]`*
+* *`"Én is köszönöm, és sok sikert! Remélem, még találkozunk!" - 💬 [Halia]`*
 
-elindulunk a fogadó felé vissza.
+Visszaindulunk a fogadó felé, megbeszélve a hallottakat.
 
-==========
+~~~
+{✈} <Ashley, Orik>
+~~~
 
-Orik és ashley megérkezik a házikóhoz. bentről fény szűrődik ki, a gyümölcsös csendes.
+Orik és Ashley megérkezik a kis házikóhoz. Bentről fény szűrődik ki, a gyümölcsös csendes. Ashley bekopog, pár pillanat múlva kivágódik az ajtó, egy lelkes ősz félelf mosolyog rájuk.
 
-Ashley bekopog, 2mp mlva kivágódik az ajtó, egy lelkes ősz félelf mosoloyg.
-"Háh, szervusztok!"
-daran?
-igen, én vagyok
-"ashley quera" - nyújtja a kezeét
-igen, daran edermath, miben segíthetek? jöttetek mesélni? mesét halgatni?
-iformációra volna szükiségükn. de ha már itt tartunk, Orik Spellweaver! mutatja be Orikot.
-óó, egy hobgoblin, nagyon sok fajtársaddal..társaddal..tudom több törzs van.. akadt dolgom... részvétem?
-orik kezet nyújt, nem szólal meg.
-gyertek be, főzök teát. vagy erősebbet kértek? rumot?  - invitál
-cidert szokott csinálni? neverwinterben nagyon finom van, próbálja ki! - ashely
+* *`"Háhh, szervusztok!" - 💬 [elf]`*
+* *`"Daran Edermath?" - 💬 [Sera]`*
+* *`"Igen, én vagyok!" - 💬 [Daran]`*
+* *`"Ashley Quira" - 💬 [Ashley/kezét nyújtva]`*
+* *`"Igen, Daran Edermath, miben segíthetek? Jöttetek mesélni? Esetleg mesét hallgatni?" - 💬 [Daran]`*
+* *`"Információra volna szükségünk. De ha már itt tartunk, Orik Spellweaver!" - 💬 [Ashley/Orikra mutat]`*
+* *`"Óó, egy hobgoblin! Nagyon sok fajtársaddal..társaddal..tudom, több törzs van..akadt dolgom... Részvétem?" - 💬 [Daran/zavartan]`*
 
-belépve takaros, egy helyiséges kunyhó. minden felületen különféle tárgy, régi fegyvyer, páncél, adventure gear, falon aganscsok, polcokon kis csetreszek.
+Orik kezet ráz az elffel, de nem szólal meg.
 
-ashley belép, daran teát főz. elmondja, mi van hogy van, mi történt eddig - Sildar, Gundren, Cragmaw, Agatha, gnome város, bánya, banditák, és őt miért nem zavarják/bántják. Daran arcán minden infóra más kifejezés jelenik meg.
+* *`"Gyertek be, főzök egy teát! Vagy esetleg erősebbet kértek? Egy kis rumot?" - 💬 [Daran/invitálva őket]`*
+* *`"Cidert szokott csinálni? Neverwinterben nagyon finom van, próbálja ki!" - 💬 [Ashley]`*
 
-Orik, hallva hogy Ashley kifecseg elég sok mindent, megértő mosollyal nézi ahogy "zsák a foltját" megtalálja a két hadaró beszélgetését hallva. Körbesétálva egyszerűbb mágiával átitatott dolgot lát csak - örökmozgó, drágakövek. Az egyik polcon egy páncélkesztyű, rajta egy szem szimbólum.
+Belépve takaros, egy helyiséges kunyhó fogadja őket. Minden felületén különféle tárgy, régi fegyverek, páncélok, kalandozó felszerelés található. A falon kisebb-nagyobb agancsok, a polcokon kis csetreszek vannak.
 
-Daran reagál Ashley mondandójára:
+Ashley belép, Daran már neki is áll a teafőzésnek. Ashley nekiáll a beszámolójának: elmondja, mi van, hogy van, mi történt eddig - Sildar, Gundren, Cragmaw, Agatha, gnóm város, bánya, banditák. Rákérdez, hogy Darant miért nem zavarják, vagy bántják. Daran arcán minden infóra más kifejezés jelenik meg.
 
-jól informáltak vagytok.. szóval mivel tudnám kiegészíteni?
-bármi megjegyzés, további infó - merre érdemes indulni, támpont, vagy jönnél -e velünk és útközben elmondani - ashley
-csábító felvetés, de az én koromban már késő van ehhez.
-"ááh, a kalandor életmód nem kor kérdése, ebből nem lehet kiöregedni" - próbálja Ashley minden mondatával győzködni
-"megvallom őszintén, szükség van rám helyben is.. problémák lennének nélkülem"
-"ezért kérlek hogy keresd meg velünk Iarno-t."
-"én is csak annyit tudok hogy etlűnt, valszeg. a banditák fogja, vagy volt, de már lehet hogy meg is ölték.. de lehet csak egy medve volt! bár a bandita valószínűbb, nem esne egy medve áldozatává! de jó lenne ha a banditákat valaki végre helyre tenné!"
-"sildar 40 aranyat ad, ha segítesz!"
-"nekem?"
-igen, azéért kerestünk téghed, hogy hátha tudsz segíteni minen szinten!
-"sildar nagyúr? ez megtisztelő, de én már nem megyek sehova.."
-"hallottunk arról, hogy van egy tapasztalt kalandor a városban, aki a helyismeretével, és helyiek ismeretével sokkal könnyebbel jutna eremdényre. ezért sildar nagyúr megkért, hogy próbáljunk meg elcsábítani téged és magunk mellé állítani, amenniban Iarnoról nyomot tudsz találni".
-"ez megtisztelő, de én már nem harcolok...információt pedig nem tudok már nagyon újat adni nektek.. én már csak mesélek.
-és miről?
-óó, hát mindegyik csecsebecséről, itt mindennek története van!
+Orik, hallva hogy Ashley kifecseg elég sok mindent, megértő mosollyal nézi ahogy *"zsák a foltját"* megtalálja, a két hadaró beszélgetését hallva. Körbesétálva egyszerűbb mágiával átitatott dolgot lát csak - örökmozgó, drágakövek. Az egyik polcon egy páncélkesztyű, rajta egy szem formájú szimbólum. Eközben Daran is reagál Ashley mondandójára:
 
-ashely a kesztyőre mutat
+* *`"Elég jól informáltak vagytok.. Szóval, mivel tudnám kiegészíteni?" - 💬 [Daran]`*
+* *`"Bármiféle megjegyzés, további információ - esetleg merre érdemes indulni, vagy támpont. De akár jöhetnél velünk is, és útközben elmondhatod!" - 💬 [Ashley]`*
+* *`"Csábító felvetés, de az én koromban már késő van ehhez." - 💬 [Daran]`*
+* *`"Áhh, a kalandor életmód nem kor kérdése, ebből nem lehet kiöregedni!" - 💬 [Ashley/győzködve]`*
+* *`"Megvallom őszintén, szükség van rám helyben is..problémák lennének nélkülem!" - 💬 [Daran]`*
+* *`"Ezért kérlek, hogy keresd meg velünk Iarno-t!" - 💬 [Ashley]`*
+* *`"Én is csak annyit tudok, hogy eltűnt. Valószínűleg a banditák fogja, vagy legalábbis az volt, de már lehet, hogy meg is ölték.. De az is lehet, hogy csak egy medve volt! Bár a banditák a valószínűbb, ő nem esne csak úgy egy medve áldozatává! De az is jó lenne, ha a banditákat valaki végre helyre tenné!" - 💬 [Daran]`*
+* *`"Sildar úr 40🥇-t ad, ha segítesz!" - 💬 [Ashley]`*
+* *`"Nekem?" - 💬 [Daran/csodálkozik]`*
+* *`"Igen, azért is kerestünk téged, hogy hátha tudsz segíteni minden szinten!" - 💬 [Ashley]`*
+* *`"Sildar nagyúr? Ez megtisztelő, de én már nem megyek sehova.." - 💬 [Daran]`*
+* *`"Hallottunk arról, hogy van egy tapasztalt kalandor a városban, aki a helyismeretével, és a helyiek ismeretével sokkal könnyebbel jutna eremdényre. Ezért Sildar nagyúr megkért, hogy próbáljunk meg elcsábítani téged és magunk mellé állítani, amennyiban Iarno-ról nyomot tudsz találni." - 💬 [Ashley/hízelegve-kamuzva]`*
+* *`"Ez megtisztelő, de én már nem harcolok... Információt pedig nem tudok már nagyon újat adni nektek, mindennel képben vagytok, ahogy hallom.. Én már csak mesélek." - 💬 [Daran]`*
+* *`"És miről?" - 💬 [Ashley]`*
+* *`"Óó, hát mindegyik csecsebecséről, itt mindennek története van!" - 💬 [Daran/új lendülettel]`*
 
-hosszú mese, ez volt rajta, amikor még a Dragon Coast körül szolgált, ahol zsoldos volt, kalandozott. A szem akkor került rá, mikor csatlakozott a "Kesztyű Rendhez", Helm istenséget szolgáló rend, főleg paladinok, de egyéb kalandorok is megfordulnak ott: főleg a gonoszt kiűzni, az igazságosságot védeni. neverwinterben lakott, de mikor kiderült hogy phandalint újraépítik, ideköltözött gyümölcsözni - béke, nyugalom. nhéa unalmas, de elfoglalja magát .a cider is jól hangzik.
+Ashley a korábban Orik által is vizsgált kesztyűre mutat. Daran egy hosszú mesébe kezd; ez volt rajta, amikor még a Dragon Coast körül szolgált, ahol zsoldos volt, kalandozott. A szem akkor került rá, mikor csatlakozott a "Kesztyű Rendhez" - mely Helm istenséget szolgáló rend, főleg paladinok, de egyéb kalandorok is megfordulnak ott. A feladatuk főleg a gonoszt kiűzni, az igazságosságot védeni. Leszerelése után egy ideig Neverwinterben lakott, de mikor kiderült, hogy Phandalint újraépítik, ideköltözött gyümölcsözni - itt béke és nyugalom van. Néha talán unalmas is, de mindig elfoglalja magát. A cider gondolata is jól hangzik, lehet ad neki egy próbát.
 
-ashley is jelzi, hogy letelepedne - kúriát fenttartani drága, személyzet, meg minden.
+Ashley is jelzi, hogy szívesen letelepedne - a kúriát fenttartani drága lehet, személyzet, meg minden. Orik, aki eddig csendben, de figyelmesen követte a beszélgetést, megszólal.
 
-orik csendben van, kvöeti a beszélgetést." ez a keszytű, amellett hogy szép munka, bír különleges tulajdonsággal?"
-"egy kis plusz védelmet ad nekem"
-"érdekes...biztosan jól jött a fajtársaim elleni küzdelemben" - kacsint orik
-"így van, kemény ellenfelek voltak, szükség volt mindenre..és ti? mondjuk sejtem mi jártaban... kicsit gyorsan beszélsz, és sokat!" - mondja ashleynek.
-"ha unatkoznátok van még egy tippem: a helyi bányászok emlegették, hogy az egyik helyszíenen nem tundak tevékenykedni. az Öreg Bagoly (Old Owl Well) kút mellett egy őrtorony volt, akörül." - daran 
-"milyen messze?" ashley
-"másfél napnyi járás , a hegyek közt.. a bányászok szerint élőholtak kergették el őket.. nagyon furcsállom, mit kereshetnek egy őrtoronynál.. ha arra jártok, és megnéznétek, és elmesélnétek, nagy örömet szereznétek nekem!"
-"és jóuram, szemrevaló csecsebescélekt is felhalmoztál.. én régóta keresek 2 dolgot, hátha neked van belőe.. egy igazgyöngyöt, az értékesebb fajtából..akad e ilyen, amitől hajlandó lennél megválni? " - orik
-"sajnos nem rémlik ilyen"
-" a másik amit keresek, gyakorlatilag bármilyen kristály, mely kellően csiszolt ahhoz, hogy reagensként lehessen használni."
-"vannak nekem, de az mind emlék"
-"óó, nem akarnálak emlékektől megfosztani! felejtsd el, hogy kérdeztem." 
-"semmi gond, nekem ezek sokkal többet érnek, mint az arany így letelepetdve"
+* *`"Ez a kesztyű, amellett hogy szép munka, bír különleges tulajdonsággal?" - 💬 [Orik]`*
+* *`"Egy kis plusz védelmet ad nekem." - 💬 [Daran]`*
+* *`"Érdekes.. Biztosan jól jött a _fajtársaim_ elleni küzdelemben." - 💬 [Orik/vigyorogva-kacsintva]`*
+* *`"Így van, kemény ellenfelek voltak, szükség volt mindenre.. Na és ti mit csináltok a környékek? Mondjuk, sejtem mi járatban.. " - 💬 [Daran]`*
+* *`"Kicsit gyorsan beszélsz, és sokat!" - 💬 [Orik/Ashleynek]`*
+* *`"De ha unatkoznátok van még egy tippem: a helyi bányászok emlegették, hogy az egyik helyszínen nem tudnak tevékenykedni. Az Öreg Bagoly kút (Old Owl Well) mellett egy őrtorony volt, akörül." - 💬 [Daran]`*
+* *`"Milyen messze van?" - 💬 [Ashley]`*
+* *`"Másfél napnyi járás, a hegyek közt.. A bányászok szerint élőholtak kergették el őket.. Nagyon furcsállom, mit kereshetnek egy őrtoronynál.. Ha esetleg arra jártok, és megnéznétek, és elmesélnétek a dolgot, nagy örömet szereznétek nekem!" - 💬 [Daran]`*
+* *`"És jó uram, szemrevaló csecse-becséket is felhalmoztál.. Én régóta keresek két dolgot, hátha neked van belőle.. Egy igazgyöngyöt, az értékesebb fajtából.. Akad -e ilyen, amitől hajlandó lennél megválni?" - 💬 [Orik]`*
+* *`"Sajnos nem rémlik ilyen." - 💬 [Daran]`*
+* *`"A másik amit keresek; gyakorlatilag bármilyen kristály, mely kellően csiszolt ahhoz, hogy reagensként lehessen használni." - 💬 [Orik]`*
+* *`"Hát, olyanok vannak nekem, de az mind emlék.." - 💬 [Daran]`*
+* *`"Óó, nem akarnálak emlékektől megfosztani! Felejtsd is el, hogy kérdeztem." - 💬 [Orik]`*
+* *`"Semmi gond, nekem ezek sokkal többet érnek, mint az arany, így letelepedve!" - 💬 [Daran]`*
 
-Ashley dalokról kérdez, amiről énekelhetne. a netheril birodalomról mesél, akié az előbb említett őrtorony volt. mágiáról híres, repülő városok.
+Ashley dalokról kérdez, amiről énekelhetne. Daran a Netheril birodalomról mesél, akikhez az előbb említett őrtorony tartozott. A rég letűnt birodalom a mágiájáról volt híres, repülő városokkal.
+A mesék végére érve Ashley és Orik megköszönik a vendéglátást, a történeteket. Daran is megköszöni a látogatást, és a hallgatóságot. A lelkükre köti, hogy ha később bármi izgalmas kalandba keverednek, arról feltétlenül számoljanak be neki. Orik és Ashley megnyugtatják, hogy mindenképpen tájékoztatni fogják az izgalmas eseményekről.
 
-Daran megköszöni a látogaást, a hallgatóságot.
-a mese után ők is indulnak a fogadóba, ha később van izgi story, még visszajnönek.
+~~~
+{✈} <Nana, Rorr, Serafine>
+~~~
 
-=============
-
-Rorrék napnyugtára érne kvissza a fogadóba, már sötétedik, gyújtják a lámpásokat.
+Rorrék napnyugtára érnek vissza a fogadóba, már sötétedik, gyújtják az utcán a lámpásokat.
 Ott van Toblen és Elsa, forognak, bár nincs sok vendég. A furcsa figurát nem látjuk bent, egy öreg farmer ül az egyik asztalnál, a másiknál két törp bányász iszogat, a pultnál egy nő beszélget Toblennel.
 
-"nem tudom hogy vagytok vele, én éhen halok" - sera
-"együnk, ne várjunk rájuk"
-"csak nem maradnak soká!" 
+* *`"Nem tudom hogy vagytok vele, én éhen halok!" - 💬 [Sera]`*
+* *`"Szerintem együnk, ne várjunk rájuk!" - 💬 [Rorr]`*
+* *`"Csak nem maradnak túl sokáig.." - 💬 [Nana]`*
 
-sera a pulthoz lép - toblen örül neki. 3 szobát kér Sera az éjszakára, 2 gold 4 silver az ára. sera 1.6-ot fizet, nana 8 silvert.
+Sera a pulthoz lép - Toblen örül neki, nagy mosollyal fogadja. 3 szobát kér Sera az éjszakára, melynek 2🥇 4🥈 ára. Sera 1🥇 6🥈-t fizet, Nana 8🥈-t tesz le a pultra. Eközben egyből tálalnak hármunkra, egyszerű pörkölt a vacsora.
 
-tálalnak 3unkra, egyszerű stew a vacsora.
+* *`"Eddig nem merült fel bennem, de most már érdekel, ti hogyan találkoztatok?" - 💬 [Sera/kérdőn]`*
 
-"eddig nem merült fel bennem, de most érdekel, ti hogy találkoztatok?"
-
-Rorr teljes backstory-t elmeséli, session 0-t is.
-
-Ekkor érkezik vissza Ashley és Orik, odaülnek mellénk.
-
-Sera jelzi, hogy van 3 szoba, és vacsi is, reggelit is kapunk.
-
-Tobin nekik is ad vacsit, és mindenki elmondja kivel mi történt.
+Rorr elmeséli a találkozásukat, hogyan vált ellenségessé Borgork. A történet mesélése közben érkezik vissza Ashley és Orik, odaülnek mellénk. Sera jelzi, hogy van 3 szoba az éjjelre, melyhez vacsorát és reggelit is kapunk. Toblen máris tálal a két újonnan érkező vendégnek, majd mindenki elmondja, kivel mi történt aznap. A vacsora elfogyasztása után mindenki aludni tér, a korábbi felosztásban - Nana és Rorr egy szobában, Ashley és Serafine egy másikban, míg Orik külön, egy harmadik helyiségben.
 
 ![A város képe](./images/phandalin_v3.png)
 
