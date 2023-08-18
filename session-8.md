@@ -274,7 +274,7 @@ Ahogy beszélgetnek, Nana újra látja a zúzodásokat a papnő kezén, ezt jelz
 Orik közelebb lép a nőhöz, ahol már suttogva is tud beszélni hozzá.
 
 * *`"Ne haragudjon, nem akarok tolakodó lenni..de ha már a segítségről beszélünk..Önnek tudunk segíteni valamiben?"" - 💬 [Orik/a papnő kezére utalva]`*
-* *`"Ha már így kérdezed, látom, ti szeretitek a mókás kis küldetéseket.. Én is megpróbáltam egy küldetést elvégezni, de kisebb összeütközésbe kerültem egy banshee-hez tartva.. {{felmutatja a csuklóit}} Nem tudom, mennyire ismeritek a térséget, van egy régi város innen észak-keletre, sajnos már lerombolták a barbár hordák évtizedekkel ezelőtt... A város mellett az erdőben él(t) egy banshee - nem is élt, inkább tanyázott. A banshee továbbra is ott van, bár a városnak vége. Az érdekesség az, hogy a feljegyzések szerint harmónia volt a lakók és a banshee között. Nem engedték a lakók sem elüldözni, hiába jelentkeztek a feladatra többen is. Ez a hely kb. 2 napi járásra van." - 💬 [papnő]`*
+* *`"Ha már így kérdezed, látom, ti szeretitek a mókás kis küldetéseket.. Én is megpróbáltam egy küldetést elvégezni, de kisebb összeütközésbe kerültem egy banshee-hez tartva.. {{felmutatja a csuklóit}} Nem tudom, mennyire ismeritek a térséget, van egy régi város - Conyberry - innen észak-keletre, sajnos már lerombolták a barbár hordák évtizedekkel ezelőtt... A város mellett az erdőben él(t) egy banshee - nem is élt, inkább tanyázott. A banshee továbbra is ott van, bár a városnak vége. Az érdekesség az, hogy a feljegyzések szerint harmónia volt a lakók és a banshee között. Nem engedték a lakók sem elüldözni, hiába jelentkeztek a feladatra többen is. Ez a hely kb. 2 napi járásra van." - 💬 [papnő]`*
 * *`"Lehet, hogy korábbi városlakó volt?" - 💬 [Orik]`*"
 * *`"Nos, erről nem szólnak dolgok, de előfrordulhat.. Mindenesetre én próbáltam felkeresni, hogy az évszázados tudásának hasznát vegyem, de el sem jutottam oda, mert tele van csapdával az oda vezető út, inkább hazajöttem kipihenni... De ha ti vállaljátok a küldetést - persze jutalomért cserébe - azt kérném, hogy tegyetek fel neki egy kérdést." - 💬 [papnő]`*
 * *`"Szívesen segítünk!" - 💬 [Ashley]`*
@@ -369,7 +369,8 @@ Sildar tartja az ajtót, amíg egyesével távozunk, majd erőteljesen teszi (ba
 * *`"Úgy nem nehéz nyerni, ha nincsen ellenfele." - 💬 [Sera]`*
 * *`"Örülnek, hogy valaki egyáltalán vállalja.. Ezek becsületes emberek, nem való nekik a politika." - 💬 [Sildar]`*
 
-ashzely jelzi, hogy conniberry felé is el akarunk majd menni, a bansheehez.
+Ashley jelzi, hogy idő, és alkalom adtán Conyberry felé is el akarunk majd menni, a bansheehez.
+
 * *`"Mi dolgotok van ott? Itt helyben is van elég sok dolog." - 💬 [Sildar]`*
 * *`"A papnő kért meg minket valamire!" - 💬 [Ashley]`*
 * *`"A nem akarlak titeket eltéríteni, de előbb helyben van rátok szükségem. Vannak fejlemények, körbekérdeztem. Iarno már 2 hónapja eltűnt, csak utána jöttek a banditák. Állítólag a kúria környéki erdőben tűnt el..a pontos körülmények ismeretlenek számomra." - 💬 [Sildar]`*
