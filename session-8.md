@@ -105,7 +105,7 @@ A csapat segít neki, eddigra már neki is sokkal jobb kedve van, bemutatkozik:
 * *`"Én a ti helyetekben elkerülném azt a helyet..elég sokat matatnak a banditák körülötte." - 💬 [LG]`*
 * *`"Így csak még jobban érdekel!" - 💬 [Ashley]`*
 * *`"Azért csak ne becsüljétek alá őket, elég szervezettek." - 💬 [LG]`*
-* *`"Jól értem, hogy amíg itt volt Iarno, addig nem volt se bantita, se probléma?" - 💬 [Ashley]`*
+* *`"Jól értem, hogy amíg itt volt Iarno, addig nem volt se bandita, se probléma?" - 💬 [Ashley]`*
 * *`"Igen, de alig egy hónapja volt csak itt, mikor eltűnt." - 💬 [LG]`*
 
 A társalgás közben a kérésnek megfelelően az előtérbe lepakolunk. Belül nincs semmi kitéve, csak pult, iratok, szekrény, egy ajtó befelé egy nagyobb, nem látott helyiségbe. Linene megköszöni a segítséget.
@@ -510,7 +510,7 @@ Orik és Ashley megérkezik a kis házikóhoz. Bentről fény szűrődik ki, a g
 * *`"Háhh, szervusztok!" - 💬 [elf]`*
 * *`"Daran Edermath?" - 💬 [Sera]`*
 * *`"Igen, én vagyok!" - 💬 [Daran]`*
-* *`"Ashley Quira" - 💬 [Ashley/kezét nyújtva]`*
+* *`"Ashley Qu'ira!" - 💬 [Ashley/kezét nyújtva]`*
 * *`"Igen, Daran Edermath, miben segíthetek? Jöttetek mesélni? Esetleg mesét hallgatni?" - 💬 [Daran]`*
 * *`"Információra volna szükségünk. De ha már itt tartunk, Orik Spellweaver!" - 💬 [Ashley/Orikra mutat]`*
 * *`"Óó, egy hobgoblin! Nagyon sok fajtársaddal..társaddal..tudom, több törzs van..akadt dolgom... Részvétem?" - 💬 [Daran/zavartan]`*

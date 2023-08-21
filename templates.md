@@ -50,3 +50,16 @@
 ![tooltip](./images/npcs/gundren.png)
 
 </center>
+
+
+## Quest
+
+### {{Quest név}}
+
+📋 {{leírás}}
+
+💰 Jutalom: {{reward}}
+
+🤝 Felvéve: [Session x](./session-x.md)
+
+✅ Teljesítve: [Session y](./session-y.md)

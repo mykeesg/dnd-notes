@@ -4,7 +4,7 @@
 
 ## Tagok
 
- - [Ashton Quira](https://www.dndbeyond.com/characters/98138580)
+ - [Ashton Qu'ira](https://www.dndbeyond.com/characters/98138580)
  - [Naivyre (Nana)](https://www.dndbeyond.com/characters/98299683)
  - [Orik Spellweaver](https://www.dndbeyond.com/characters/98359595)
  - [Rorr Stronghand](https://www.dndbeyond.com/characters/98146623)

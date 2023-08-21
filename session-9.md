@@ -59,7 +59,7 @@ Ezköben Serafine magyarázza Ashtonnak az elmúlt napokban történteket.
 * *`"Kissé bonyolult a helyzet. Sildar úr további munkát ajánlott, ha elhozzuk a felszerelését, Gundrent ugye elrabolták a goblinok.. Úgyhogy tervezzük, hogy kiszabadítjuk, de előbb megígértük a kedves kis falunak, hogy kiderítjük mi történt az elöljárójukkal - Iarnoval -, akit a vörös kendős banditák raboltak el." - 💬 [Sera]`*
 * *`"Itt is vannak vörös kendősök?" - 💬 [Ashton]`*
 * *`"Mindenhol vannak, ez bandita attribútum.." - 💬 [Sera]`*
-* *`"mi felénk is volt sok" - 💬 [Ashton]`*
+* *`"Mi felénk is volt sok.." - 💬 [Ashton]`*
 * *`"Merre?" - 💬 [Sera]`*
 * *`"Fönt északon." - 💬 [Ashton]`*
 * *`"Szóval, mentőakciókba kezdünk." - 💬 [Sera/összefoglalva]`*
@@ -317,6 +317,7 @@ Rorr végignézi a hullákat, de semmi különleges nincs náluk. A red bandana-
 ![The Sleeping Giant](./images/sleeping_giant_3.png)
 
 * *`"Ez most nem lesz szép.. Azt kérném, a szemérmesebbek forduljanak el.." - 💬 [Orik]`*
+
 A korábban az ajtóban sokat pofázó bandita fejét letépi helyéről, majd egy karddal a fejét az ajtóra tűzi.
 * *`"Ilyet láttam már a fajtádtól.. Hát, nem mondom, hogy nem érdemelték meg.." - 💬 [Daran]`*
 * *`"Akármilyen kulturált körülmények között, és az illemet becsülve nőttem fel..nos, vannak dolgok, amik nem változnak." - 💬 [Orik]`*
@@ -386,7 +387,7 @@ Kezet ráznak, majd Orik sietve elindul a többiek után.
 {🌟} +80 XP
 ~~~
 
-A többiek elindulnak a "Tresendar Manor" felé. kerítés, kapu már nincs, egy két szintes, viszonylag nagy kúria volt. a tető egy része és a pár fal még áll, inkább a magasságából látszik az emelet. a belső falakból is csak pár áll még.
+A többiek elindulnak a **'Tresendar Manor'** (kúria) felé. kerítés, kapu már nincs, egy két szintes, viszonylag nagy kúria volt. a tető egy része és a pár fal még áll, inkább a magasságából látszik az emelet. a belső falakból is csak pár áll még.
 
 Sera észrevesz egy ösvényt a romok között, ahol a növényzet kissé gyérebb. Megnézi hová vezet: egy csapóajtó van a hajdani konyha közepén - szemmel is jól látható, nincs elrejtve a szem elől.
 

@@ -195,7 +195,7 @@ A barlangból kilépve, elhaladva a jól lakottan alvó farkasok mellett, a kis 
 Némi tanakodás után végül a Lionshield dobozait is összeszedjük, majd több körben a szekérhez visszük őket. Egy óra pakolás után újra menetre kész a csapat, felstócoljuk a saját cuccok mellé, gondosan elpakolva. Ashley "őrzi a szekeret", amíg pakolnak a többiek. Rorr hatástalanítja a csapdát, a kötelet visszateszi a táskájába.
 
 * *`"Önnel amúgy még nem találkoztam..Sildar Hallwinter" - 💬 [Sildar]`*
-* *`"Ashley Quira!" - 💬 [Ashley]`*
+* *`"Ashley Qu'ira!" - 💬 [Ashley]`*
 * *`"Óó, csak nem a másik, Ashton úriembernek a testvére?" - 💬 [Sildar]`*
 * *`"Nem ismerek másik Asht." - 💬 [Ashley]`*
 * *`"Ő az.." - 💬 [Sera/sóhajtva]`*
@@ -203,7 +203,7 @@ Némi tanakodás után végül a Lionshield dobozait is összeszedjük, majd tö
 
 Sildar kissé zavarodottan néz a többiekre, nem teljesen érti a helyzetet - bár a többiek arcán sem látszik, hogy teljesen tisztában lennének a magyarázattal.
 
-* *`"Javaslom, induljunk! Ma már nem érünk oda, de talán több probléma nem ér minket az úton! Holnap délelőtt odaérhetünk, Barten kifizeti a megállapodott öszeget, Linen biztosan hálás lesz a dolgokért, jómagam pedig - ahol láthatjátok - nem maradt sok értékem, de felkínálok 50 aranyat, amit nem az érkezéskor fizetek ki, hanem amint a helyi kapcsolataimtól tudok szerezni!" - 💬 [Sildar]`*
+* *`"Javaslom, induljunk! Ma már nem érünk oda, de talán több probléma nem ér minket az úton! Holnap délelőtt odaérhetünk, Barten kifizeti a megállapodott öszeget, Linen biztosan hálás lesz a dolgokért, jómagam pedig - ahol láthatjátok - nem maradt sok értékem, de felkínálok 50🥇-t, amit nem az érkezéskor fizetek ki, hanem amint a helyi kapcsolataimtól tudok szerezni!" - 💬 [Sildar]`*
 * *`"Jajj, ugyan, a lényeg, hogy egészségben és egyben odaérjünk!" - 💬 [Ashley]`*
 
 Elindulunk "tolatva" az úthoz vissza, szépen lassan a megpakolt szekérrel.
