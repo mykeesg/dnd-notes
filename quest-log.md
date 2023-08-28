@@ -40,7 +40,7 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 ### Vörös (vér)tenger
 
-📋 Iarno eltűnése óta egyre több bosszúságot okoznak a vörös kendős banditák Phandalinnak. A polgármester nem tesz semmit, és felszólalni sem mer ellenük senki - mióta a favágót nyilvánosan kivégezték. Bár hivatalos megbízást senki nem mer adni ellenük, mindenki hálás lenne, ha egyszer-s-mindenkorra megszabadulhatna a település a rajtuk élősködőktől.
+📋 Iarno eltűnése óta egyre több bosszúságot okoznak a vörös kendős banditák Phandalinnak. A polgármester nem tesz semmit, és felszólalni sem mer ellenük senki - mióta a fafaragót nyilvánosan kivégezték. Bár hivatalos megbízást senki nem mer adni ellenük, mindenki hálás lenne, ha egyszer-s-mindenkorra megszabadulhatna a település a rajtuk élősködőktől.
 
 💰 Jutalom: ❓
 

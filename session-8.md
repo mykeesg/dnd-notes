@@ -439,7 +439,7 @@ A dombtetőről látszik a gyümölcsös, a szélén egy takaros kis házikó, e
 {✈} <Rorr, Nana, Serafine>
 ~~~
 
-A favágó háza mellett elhaladva az ajtaján keresztben egy széles piros csík látszódik. A bányászcéhhez érve egy egy helyiséges, irodaépület látszódik, ahol csukott ajtó fogadja Rorrt, Nana-t és Sera-t.
+A fafaragó háza mellett elhaladva az ajtaján keresztben egy széles piros csík látszódik. A bányászcéhhez érve egy egy helyiséges, irodaépület látszódik, ahol csukott ajtó fogadja Rorrt, Nana-t és Sera-t.
 
 * *`"Előbb intézzétek el vele, amit akartatok, aztán mehet a többi"! - 💬 [Sera]`*
 
@@ -474,7 +474,7 @@ Rorr elmeséli a törzsében a koponyával történteket, hogy a nyomait követv
 * *`"Az Alvó óriásban?" - 💬 [Sera]`*
 * *`"Áh, oda csak inni járnak. A bázisuk a kúria alatt van." - 💬 [Halia]`*
 * *`"Ez lenyűgöző!" - 💬 [Sera]`*
-* *`"De lenne egy ajánlatom: ki tudnék deríteni egyet s mást ennek a bizonyos Churrark koponyájáról, egy kis szívességért cserébe..ha már úgyis a banditák fészkébe tartotok a goblint megkeresni.. Úgy hírlik, a vezérük egy 'Glasstaff' nevű mágus.. Ha ezt a vezért kiiktatnátok és tőle tudnátok hozni valamiféle információt, vagy iratot, ami hasznos lehet számomra, akkor egyrészt kaptok infót Churrarkról, másrészt még 100🥇-t is hozzáteszek." - 💬 [Halia]`*
+* *`"De lenne egy ajánlatom: ki tudnék deríteni egyet s mást ennek a bizonyos Churrark koponyájáról, egy kis szívességért cserébe..ha már úgyis a banditák fészkébe tartotok a goblint megkeresni.. Úgy hírlik, a vezérük egy 'Glasstaff' nevű mágus.. Ha ezt a vezért kiiktatnátok és tudnátok erről bizonyítékot hozni; esetleg valamilyen extra iratot, ami hasznos lehet számomra, akkor egyrészt kaptok infót Churrarkról, másrészt még 100🥇-t is hozzáteszek." - 💬 [Halia]`*
 
 Rorr kinyújtja a kezét, áll az alku.
 

@@ -112,3 +112,13 @@ Középkorú, éles nyelvű asszony, a Lionshield Coster Phandalinban találhat�
 ![Linene Greywind](./images/npcs/Linene_Graywind.png)
 
 </center>
+
+## Redbrand Ruffian
+
+Rufi, a vöröskendős bandita, aki megpróbált alkudozni némi információval az életéért cserébe. Bár a kalandorok nem voltak benne biztosak, hogy megbízható, szökési kísérlete miatt ezt végül nem tudták kideríteni - egy tarkóval levett varázslat miatt 30ft-et zuhant egy szakadékba, mielőtt örökre ott maradt.
+
+<center>
+
+![Rendbrand Ruffian, Rufi](./images/npcs/rufi.jpg)
+
+</center>
