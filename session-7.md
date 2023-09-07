@@ -59,7 +59,7 @@ A balrang tovább kanyarog - kiérve a kesekeny részről egy másik barlangba �
 
 ![Goblin cave a combat végén](./images/goblin_cave_v4.png)
 
-Fegyverrel a barlang felé állva várnak minket. A meredély szélén egy "tekintélyesebb" goblin áll. Egy sztalagmit mögül kirángatja a félholt sildart.
+Fegyverrel a barlang felé állva várnak minket. A meredély szélén egy "tekintélyesebb" goblin áll. Egy sztalagmit mögül kirángatja a félholt Sildart.
 
 * *`"{🗣:common} Tárgyalunk, vagy az ember meghal!" - 💬 [főgoblin]`*
 * *`"Tárgyalni jöttünk mi is - különben már halottak lennétek!" - 💬 [Rorr]`*

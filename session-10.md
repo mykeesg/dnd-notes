@@ -1,55 +1,69 @@
 # Session 10 | 2023. 08. 27. (vasárnap)
 
-A falakon olajlámpások, a lépcső alján faajtó. Nana ötlete, hogy vegyük fel a red bandana-kat, bár nem vaguynk benne biztosak, hogy túlságosan sokat érnének, tudnak rólunk
-rorr azért ad minenkinek -. orik visszautasítja, rorr szerencsétlenkedik egy kednővel magában, inkább összeköt kettőt
-ash benyit - nyitva, egy pince tárul a szeme elé, egy kúria szokásos pincéje.
-az ajtón átlépve egy párkányra ér, kis lépcső a két irányba lefelé.
-szembe falon egy ajtó - beltéri medence/szökökút mellett, körbe hordók ládák, illetve lejjebb még egy ajtó.
+A csapóajtón és a kőlépcsőn elindulva végig a falakon olajlámpások világítanak. A lépcső aljára érve egy csukott faajtó fogad minket. Nana ötlete, hogy vegyük fel a piros kendőket (amit még az Alvó óriásnál zsákmányoltunk). Bár nem vagyunk benne biztosak, hogy túlságosan sokat érnének - tudnak rólunk, az első naptól kezdve számítottak ránk. És míg Serafine és Nana talán el is tudna rejtőzni a kendő mögött, Rorr és Orik a maguk megjelenésével nevetségesen néznének ki a maszkokban.
+Rorr azért ad kioszt egy kendőt minenkinek - Orik udvariasan visszautasítja azt. Rorr a feje méretéből fakadóan egy ideig babrál és ügyetlenkedik egy kendővel magában, végül inkább összeköt kettőt, és úgy teszi a szája elé azt.
+
+Ashton - megunva a bugbear szerencsétlenkedését - lenyomja a kilincset. Az ajtó nyitva, egy nagyobb pincehelyiség tárul a szeme elé, egy kúria szokásos pincéje. Az ajtón átlépve egy kisebb párkányra ér, ahonnan kis lépcső a két irányba lefelé. Szemben a falon egy csukott ajtó látszódik - mellette egy beltéri medence/szökökút, a falaknál körben hordók, ládák. A jobb oldali alatt egy másik ajtó is látható.
+
+<center>
 
 ![img](./images/manor_room1.png)
 
-orik és ash a két ellentétes lépcsőn indul el, szembeérve biccentenek egymásnak udvariasan.
+</center>
 
-ha én bandita lennék, hová rejtőznék? -sera
-ash kérdi mi a cél 
-rorr: üölni
-ash: lassítsunk, többen vannak, kell terv is, egyezekedni akarunk vagy csak újraegyesítjük őket a comániával/teremtővel?
-sera: érdekünkben áll a vvezetőjüket eltenni láb alól. az egyeség valszeg nehezen járható út.
+Ashton, és nyomában Orik a két ellentétes lépcsőn indul el, szembeérve udvariasan biccentenek egymásnak.
 
-Orik eközben a szökökúthoz lép, megnézi mennyire tiszta a víz. 10ft mély medence, 8ft víz + 2ft perem. a víz tiszta, ciszternának tűnik. felirat, vagy díszítés nem látszik rajta. Belenyúl, tiszta vizet vesz magához, majd megmosná kezét+arcát. A vér és kosz leoldódik a kezéről.
+* *`"Ha én bandita lennék, hová rejtőznék?" - 💬 [Sera]`*
+* *`"Na, hogyan tovább?" - 💬 [Ash]`*
+* *`"Megölünk mindenkit, akit látunk!" - 💬 [Rorr]`*
+* *`"Whoah, whoah, lassítsunk kicsit! Ők határozottan többen vannak, mint mi.. És kellene egy terv is. Egyezekedni akarunk, vagy csak újraegyesítjük őket a kompániájukkal és/vagy teremtőjükkel?" - 💬 [Ash]`*
+* *`"Figyelembe véve, hogy érdekünkben áll a vezetőjüket eltenni láb alól, az egyezség valószínűleg nehezen járható út." - 💬 [Serafine]`*
 
-Rorr a hordókat nézi - kaját, piát talál (sózott hús, liszt, stb.).
+Orik eközben a szökökúthoz lép, megnézi mennyire tiszta a víz. 10ft mély medence, 8ft víz + 2ft perem. a víz tiszta, ciszternának tűnik. Felirat, vagy díszítés nem látszik rajta. Belenyúl, tiszta vizet vesz magához, majd megmosná kezét+arcát. A vér és kosz leoldódik a kezéről.
 
-sera a szökökút melletti ajtóhoz lépne, mozgolódás hallatszik az ajtó mögül. Sera-ra vágódik az ajtó, nincs ideje ellépni. Kiront három már jól ismert bandita.
+Rorr a hordókat nézi - kaját, piát talál (sózott hús, liszt, stb.). Átkiált Ashtonnak:
+
+* *`"Van sör! Kérsz egyet?" - 💬 [Rorr]`*
+
+Ashton helyesel, előkeresi a kulacsát, majd Rorr felé dobja azt. Sera eközben a szökökút melletti ajtóhoz lépne, mozgolódás hallatszik az ajtó mögül. Sera-ra vágódik az ajtó, nincs ideje ellépni. Kiront három már _"jól ismert"_ bandita.
 
 ### ⚔ COMBAT ⚔ 
 
-Te mit keres it, a többiek ott vannak hátsó szobában, és ki ez sok ember? - rorrnak
-"azt mondták vigyünk enni inni!" - próbálkozik Rorr 
-"na várjunk csak... ki merne megkérni egy bugbeart erre?" - kérdez vissza
-a másik kettő nem fér ki 
+* *`"Te mit keresel itt?! A többiek ott vannak hátsó szobában.. És ki ez sok ember?" - 💬 [bandita/Rorrnak]`*
+* *`"Azt mondták, vigyünk nekik enni meg inni!" - 💬 [Rorr/próbálkozik]`*
+* *`"Na várjunk csak..ki merne megkérni egy bugbeart erre?" - 💬 [bandita/visszakérdez]`*
 
-sera hátralöki őket, az elöl állóra varázslatot küld, de sok külsérelmi nyom nem látszódik egyelőre. hátrál, mielőtt rácsapnának egyet.
+Mögötte a másik két bandita nyújtogatja a nyakát, a társuk elállja az utat az ajtóban, nem férnek ki tőle. Nem veszik be a bugbear kamuját, kardot rántanak.
 
-"Pyro-python, téged választalak!" kiált fel Nana, és tűzkígyót idéz le az ajtóba, ahol eddig Sera állt. A kígyó egyből le is köpi tűzzel az előtte álló fickót, majd kiáll az útból, a szökőkút fölött lebeg.
+Sera hátralöki őket, az elöl állóra varázslatot küld, de sok külsérelmi nyom nem látszódik egyelőre. Gyorsan hátrál, mielőtt rácsapnának egyet.
 
-Orik beáll az ajtóbe, elállva az utat. lopva sera-ra néz, hogy minden rendben van -e vele. zöld lángot idéz a kardjára, azzal suhant a bandita felé, de csak az ajtófélfát találja el. rózsaszín orr-derengés
+* *`"Pyro-python, téged választalak!" - 💬 [Nana]`*
 
-Rorr elkapja az odadobott kulacsot, majd a csatához fordul. orikot inspirálja, majd mögé lép, és átszúr Orik válla fölött a kardjával - még épp időben húzza félre a fejét. A bandita torkából vér fröccsen fel , de még életben van.
+Az eladrin felkiáltása után egy tűzkígyó jelenik meg az ajtóban, ahol eddig Sera állt. A kígyó egyből le is köpi tűzzel az előtte álló fickót, majd kiáll az útból, a szökőkút fölött lebeg.
 
-A bandita még Orikra szúr, majd megpróbál helyet cserélni a mögötte állóval. Rorrnak nem sikerül eltalálni, félti Orikot - de a hobgoblin utána rúg, nekiesik egy láda szélének, és elterül a földön. "Maradj is ott!" kiált utána még.
+Orik beáll az ajtóbe, elállva az utat. Lopva Sera-ra néz, hogy minden rendben van -e vele. Zöld lángot idéz a kardjára, azzal suhant a bandita felé, de csak az ajtófélfát találja el. Rózsaszínen dereng az orra, pironkodva az elvétett találat nyomán.
 
-A következő a társa helyére lép, de pajzzsal védi azt. a másik is odaáll, de neki sem sikerül ütést bevinni.
+Rorr elkapja az odadobott kulacsot, majd a csatához fordul. Orikot inspirálja, majd mögé lép, és átszúr Orik válla fölött a kardjával - még épp időben húzza félre a fejét. A bandita torkából vér fröccsen fel, de még életben van.
 
-"Rorr, Hol a söröm?" kérdi Ashton. ("Mindjárt adom!")
-"Ezt kapd el - kiált a banditának, varázst küldve felé - arcba találva őt, kifordítva az állkapcsát a helyéről. "Ne edd meg, csak kapd el!" 
-"Kapd el, vagy kapd be, nem hallotta!" - rorr
-"biztos a maszk miatt!" - ashton
+A bandita még Orikra szúr, majd megpróbál helyet cserélni a mögötte állóval. Rorrnak nem sikerül eltalálni, félti Orikot - de a hobgoblin utána rúg, nekiesik egy láda szélének, és elterül a földön. 
 
-Sera újra mormog magában, majd ő is a banditát veszi célba - egy fantom csontváz indul feléjük. Sera érzi, hogy nem jut elég messzire - egy újabb löketet éreznek, hasra is esnek tőle.
+* *`"Maradj is ott!" - 💬 [Orik/utána kiált]`*
 
-Nana a szökőkút mellé lép, majd tűzlabdát formál a kezében. be is dobja a szobába, de az ajtófélfába csapódik (a kígyó kineveti).
-A kígyó varázsa már betalál, az állkapcson a kendő felgyullad.
+A következő a társa helyére lép, de Orik pajzzsal hárítja az felé érkező vágást. A másik is odaáll, de neki sem sikerül ütést bevinni.
+
+* *`"Rorr, hol a söröm?!" - 💬 [Ashton/a bugbearnek]`*
+* *`"Mindjárt adom!" - 💬 [Rorr]`*
+* *`"Ezt kapd el!" - 💬 [Ashton]`*
+
+A tiefling varázst küldve az ajtóban álló bandita felé - arcba találva őt, kifordítva az állkapcsát a helyéről. 
+
+* *`"Ne edd meg, csak kapd el!" - 💬 [Ashton]`*
+* *`"Kapd el, vagy kapd be..lehet nem hallotta jól!" - 💬 [Rorr]`*
+* *`"Biztos a maszk miatt van!" - 💬 [Ashton]`*
+
+Sera újra mormog magában, majd ő is a banditát veszi célba - egy fantom csontváz indul feléjük. Sera érzi, hogy a kéz nem jut majd elég messzire - egy újabb löketet éreznek, hasra is esnek tőle.
+
+Nana a szökőkút mellé lép, majd tűzlabdát formál a kezében. Be is dobja a szobába, de az ajtófélfába csapódik (a kígyó kineveti). A kígyó varázsa már betalál, a félre álló állkapcson a kendő is felgyullad.
 
 (a kígyó kiköpködte magát, nem tud felállni Orik lába közül :v #nsfw)
 
@@ -57,76 +71,74 @@ orik rángatná a lándzsát, nem sikerül neki... rorr hátulról segít neki (
 
 Orik megemberelve (meghobgoblinolva) magát keresztül döfi az első banditát, majd a mögötte állóba csap át a zöld láng a kardja végéről.
 
-"akarsz e alkudozni az életedért?"
-
-"most hogy így mondja, kedves uram, élnék a lehetőséggel!" - bandita
-"milyen alkura gondoltál, rorr? -srea
-kifaggatjuk, aztán meglátjuk.
-"készségesen válaszolok midnen kérdésre, tudásomnak megfelelően. kérlek ne öljetek meg" - bandita
+* *`"Akarsz -e alkudozni az életedért?" - 💬 [Rorr/fölétornyosulva]`*
+* *`"Most hogy így mondja, kedves uram, élnék a lehetőséggel!" - 💬 [bandita]`*
+* *`"Milyen alkura gondoltál, Rorr?" - 💬 [Sera]`*
+* *`"Kifaggatjuk, aztán a többit majd meglátjuk." - 💬 [Rorr]`*
+* *`"Készségesen válaszolok minden kérdésre, tudásomnak megfelelően. Kérlek, ne öljetek meg!" - 💬 [bandita/az életéért rimánkodva]`*
 
 ### 🕊 COMBAT VÉGE 🕊
 
-orik kezet nyújt, bemutatkozik.
-a bandita is bemutatkozik - "Redbrand Ruffian #2 vagyok, csak egy utolsó bandita."
-orik kitessékeli, késségesen kitessékeli az előtérbe.
-félve néz a tűzkígyóra, átlép rajta.
+Orik kezet nyújt, bemutatkozik.
 
-"megkínálhatlak a saját sörötökből?!" - kérdi rorr, de elutasítja.
-hányan vagytok, hol vagytok, vannak e túszaitok, stb.?" - ash
-"ennyit nem tud megjegyzezni...hányan vagytok? " - sera
-"nem tudom pontosan...nagy a jövés-menés, mi itt őrködtünk..vagy mi" - bandita
-"azt mondjuk szarul " - ash
-"mit őrüztetke? _ orik
-ezt - mutat körbe - a kaját, a piát, bejáratot.
-"és van itt más bugbear is? - nana
-igen, a fekete pók küldte őket. - bandita
-ashton önkéntelenül is a kardjához nyúl, kellemetlen emlékek érzetei derülnek fel - fogságból képek 
+* *`"Redbrand Ruffian #2 vagyok, csak egy utolsó bandita.." - 💬 [bandita]`*
 
-a név ismerős, többen is hallották már, de pontosat senki nem tud.
+Orik készségesen kitessékeli őt az előtérbe. A bandita félve néz a tűzkígyóra, óvatosan átlép rajta.
 
-"na szóval.. két dolgot keresünk.. Iarnot. meg a glassstaff nevű mágustt."
-glasstaff irodája bent van a nyugati végében a pincének, iarnoról pedig nem hallottamá - bandita
-"ahova hogy jutunk el?" _ ash
-"hát..folyosón végig, aztán nyugatra."
-"azért sokat nem érsz nekünk élve..."
-"mutat a ciszterna túloldalára - itt van egy titkos ajtó amúgy!" 
-hova vezet? - 
-"a nyugati végre"
-és ez? " a kirptába és a tömlöcbe!"
-milyen fogjaitok vannakk?
-civilek.
+* *`"Megkínálhatlak a saját sörötökből?" - 💬 [Rorr/banditát kérdezve]`*
+* *`"Nem, köszönöm.. Szóval, mit szeretnétek pontosan tudni?" - 💬 [bandita]`*
+* *`"Hányan vagytok, hol vagytok, vannak -e túszaitok, ... ?" - 💬 [Ashton/hadarja a kérdéseit]`*
+* *`"Ennyit nem tud megjegyezni.. Szóval..hányan vagytok?" - 💬 [Sera]`*
+* *`"Nem tudom pontosan... Nagy mostanában a jövés-menés, mi itt _őrködtünk_..vagy mi" - 💬 [bandita]`*
+* *`"Hát, azt mondjuk szarul.." - 💬 [Ashton/megvetően]`*
+* *`"Mit őriztetek?" - 💬 [Orik]`*
+* *`"Ezt..a kaját, a piát, a bejáratot." - 💬 [bandita/körbemutat]`*
+* *`"Jól értettem az előbb, van itt más bugbear is?" - 💬 [Nana]`*
+* *`"Igen, a 'fekete pók' küldte őket." - 💬 [bandita]`*
 
-ash azt tanácsolja, hogy a börtönben lévőket cseréljük ki a red bandana-s foglyokra.
-orik kétkedik a tervben
+Ashton a "név" hallatán önkéntelenül is a kardjához nyúl, kellemetlen emlékek érzetei derülnek fel - képek a korábbi fogságából. A név mindenkinek ismerős, többen is hallották már, de pontosat senki nem tud, csupán a "háttérben hálóját szövő" ellenség képe van mindenkiben.
 
-"féltem az életem - nem elfogatási parancs van ellenetek, hanem gyilok."
-miért is?:
-glasstaff azt mondta -bandit
-mi se kívánunk jobbat neki  sera
-(neked -ashton)
-"kedves raffian, a tömlöc felé vezető út messze van?" 
+* *`"Na szóval..két dolgot keresünk.. Iarnot..meg azt a Glasstaff nevű mágust." - 💬 [Rorr]`*
+* *`"Glasstaff irodája bent van a nyugati végében a pincének. Iarnoról viszont én még nem hallottam." - 💬 [bandita]`*
+* *`"Ahová hogyan is jutunk el?" - 💬 [Ashton]`*
+* *`"Hát..a folyosón végig, aztán nyugatra." - 💬 [bandita/nem értve a kérdést]`*
+* *`"Azért valljuk be, sokat nem érsz nekünk élve.." - 💬 [Ashton]`*
+* *`"Itt van egy titkos ajtó amúgy!" - 💬 [bandita/a ciszterna oldalához mutatva]`*
+* *`"És az hová vezet?" - 💬 [Sera]`*
+* *`"A nyugati végre" - 💬 [bandita]`*
+* *`"Na és ez?" - 💬 [Rorr/a látható ajtóra mutatva]`*
+* *`"Az a kriptába, és a tömlöcbe!" - 💬 [bandita]`*
+* *`"Milyen foglyaitok vannak?" - 💬 [Ashton]`*
+* *`"Csak civilek." - 💬 [bandita]`*
 
-szabadítsuk ki a fogylokat, ha rendben akkor a kis titkos ajtón meg irány glasstaff - rorr.
+Ash azt tanácsolja, hogy a börtönben lévőket cseréljük ki a red bandana-s foglyokra - a tömlöcig pedig mi magunk is _"fogolyként"_ jutnánk el. Orik kétkedik a tervben, senki nem hinné el, hogy egy bandita kíséri az 5 foglyot - mindenféle ellenállás nélkül.
 
-és mit kezdjünk vele? - ashton
-a kriptában (nem élő, de mozgó) csontik is vannak, de tudom hogy kell elkerülni - az életemért cserébe segítek
+* *`"Féltem az életem - nem elfogatási parancs van ellenetek, hanem gyilok." - 💬 [bandita/közbeszól]`*
+* *`"Pontosan miért is?" - 💬 [Nana]`*
+* *`"Hát, Glasstaff azt mondta." - 💬 [bandita]`*
+* *`"Mi sem kívánunk jobbat neki.." - 💬 [Serafine]`*
+* *`"Vagy neked.." - 💬 [Ashton]`*
+* *`"Kedves Ruffian, a tömlöc felé vezető út messze van?" - 💬 [Orik]`*
+* *`"Nincs messze, be az ajtón, keresztül a folyosón, át a kriptán, és utána jobbra!" - 💬 [bandita]`*
+* *`"Szerintem szabadítsuk ki a foglyokat.. Ha velük minden rendben, akkor pedig a kis titkos ajtón át irány Glasstaff!" - 💬 [Rorr]`*
+* *`"És mihez kezdjünk vele?" - 💬 [Ashton/a banditára utalva]`*
+* *`"A kriptában nem élő, de mozgó csontik is vannak, de én tudom hogy kell elkerülni! Az életemért cserébe segítek nektek!" - 💬 [bandita/alkudozik tovább]`*
 
-orik az arcába néz, rémület látszik benne - annyira fél, hogy valszeg igazat mond.
+Orik az arcába néz, színtiszta rémület látszik benne - valószínűleg annyira fél, hogy igazat mond.
 
-át kell menni a csontikon? - rorr
-amennyiben a kriptától visszaengedtek - áll az alku.
+* *`"Át kell verekedni magunkat a csontvázakon?" - 💬 [Rorr]`*
+* *`"Amennyiben a kriptától visszaengedtek, áll az alku. A barátaimnak egyébként csak 'Rafi'!" - 💬 [bandita]`*
+* *`"Benned nem bízom, de a barátaimban igen." - 💬 [Orik]`*
+* *`"Én azt tanácsolom, hogy sose becsüljétek alá egy gyáva ember élni akarását!" - 💬 [Rafi]`*
 
-"barátaimnak csak rafi"
+Orik arcán a szavak hallatára kiül az undor.. Rafi kezet nyújt a hobgoblinnak, aki megszánóan elfogadja és megrázza azt.
 
-benned nem bízom, de a barátaimban igen, 
-én azt tanácsolom, hogy sose becsüljetek alá egy gyáva ember élni akarását.
-<visible disgust on Orik>
-kezet nyújt oriknak, aki megszánóan elfogadja és megrázza azt.
+* *`"Szóval..a kriptában van 3 szarkofág - ezek mellett vannak a csontik. Ha megpróbáltok a tömlöcbe bemenni, akkor ők megpróbálnak titeket megállítani.. De..de!! Ezek nem sima eszetlen csontikk, ezek idomított csontik!" - 💬 [Rafi]`*
 
-"szóval.. a kriptában van 3 szarkofágus - ezek mellett vannak a csontik. ha megpróbáltok a tömlöcbe bemenni, akkro megpróbálnak titeket megállítani. de, de!! idomított csontik! <a raktárba befut, és visszahoz 3 koszos, de működő köpennyel>. Akin ilyen köpeny van, azt nem támadják meg.
-
-"ha nem haragszol meg - ez a kinézetből adódik, vagy mágiából?származik"? - orik kérdi a banditától
-"fogalmam nincs... ezt glasstaff nem mondta!" 
+Egy pillanatra hátat fordít a csapatnak, be fut a raktárba, és visszahoz 3 koszos, de használható piros köpenyt.
+* *`"Akin ilyen van, azt nem támadják meg." - 💬 [Rafi]`*
+* *`"Ha nem haragszol meg.. Ez a kinézetből adódik, vagy mágiából származik?" - 💬 [Orik]`*
+* *`"Fogalmam nincs..ezt Glasstaff nem mondta!" - 💬 [Rafi]`*
 
 orik megvizsgálja, de nem látja mágia nyomát elsőre. "én megoldom a köpeny kérdést"
 (hogy lehet egy csontvázat idomítani? kérdi sera ash-től.. "ne aggódj, nekem is eszembe jutot.. sőt, ha a köpeny bevállik, akkor visszamegyünk a vásárba, mekkora show lesz belőle! diskurzus hogy lehetne ebből műsort csinálni, miért (nem) támadják meg egymást)
@@ -167,7 +179,11 @@ Sera megvizsgálja az ajtót - mágiát, csapdát nem talál rajta, de egyértel
 Benyit rajta, ott is olajlámpák fénye világít. A korábban említett három kőszarkofág áll a kriptában, mellette egy-egy csontváz. kettő férfi és egy nő nemesi vonásai látszódnak kifaragva.
 az északi oldalán egy ajtó, másik szarkofág mögött még egy.
 
+<center>
+
 ![img](./images/manor_room2.png)
+
+</center>
 
 ~~~
 {🌟} +20 XP
@@ -217,8 +233,11 @@ Ashton átslisszol a többiek között, "hogy képzelitek hogy megvágjátok a b
 
 A rácsok mögül ijedt foglyok tekintenek ránk. (nana kígyó: 20p telt el, még 40p van)
 
+<center>
+
 ![img](./images/manor_room3.png)
 
+</center>
 
 (note: Lionshield Coster-ben Linene árul fegyvert - Rorrnak hand crossbow/shortbow)
 cure wounds-ot lecserélni -> viceous mockery? vagy valami ranged damage

@@ -4,11 +4,12 @@
 
 ## Tagok
 
- - [Ashton Qu'ira](https://www.dndbeyond.com/characters/98138580)
+ - [Ashton Qu'ira (Ash)](https://www.dndbeyond.com/characters/98138580)
  - [Naivyre (Nana)](https://www.dndbeyond.com/characters/98299683)
  - [Orik Spellweaver](https://www.dndbeyond.com/characters/98359595)
  - [Rorr Stronghand](https://www.dndbeyond.com/characters/98146623)
- - [Serafina Blackwood](https://www.dndbeyond.com/characters/98375846)
+ - [Serafina Blackwood (Sera)](https://www.dndbeyond.com/characters/98375846)
+ - [?](https://www.dndbeyond.com/characters/?)
 
 ## Jegyzetek
 
@@ -24,6 +25,7 @@
 * [Session 8](./session-8.md)
 * [Session 9](./session-9.md)
 * [Session 10](./session-10.md)
+* [Session 11](./session-11.md)
 
 ## Ki kicsoda / Névmutató
 
