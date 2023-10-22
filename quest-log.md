@@ -78,6 +78,14 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 🤝 Felvéve: [Session 9](./session-9.md)
 
+### Ékszer észszerűen? Ékszerész-szerűen!
+
+📋 Mirna Dendrar Thundertree-ben nőtt fel, mielőtt az élőholtak támadása miatt elhagyták a várost. A család egy alkimista bolt tulajdonosa volt, melynek padlója alá egy smaragd nyakéket rejtett egy kis dobozba. Amennyiben a kalandorok oda merészkednek, és megszerzik, az övék lehet az ékszer.
+
+💰 Jutalom: ❓ (megtartható a nyaklánc)
+
+🤝 Felvéve: [Session 11](./session-11.md)
+
 ## Befejezett küldetések
 
 ### Az első megbízás

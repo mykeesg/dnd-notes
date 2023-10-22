@@ -140,44 +140,44 @@ Egy pillanatra hátat fordít a csapatnak, be fut a raktárba, és visszahoz 3 k
 * *`"Ha nem haragszol meg.. Ez a kinézetből adódik, vagy mágiából származik?" - 💬 [Orik]`*
 * *`"Fogalmam nincs..ezt Glasstaff nem mondta!" - 💬 [Rafi]`*
 
-orik megvizsgálja, de nem látja mágia nyomát elsőre. "én megoldom a köpeny kérdést"
-(hogy lehet egy csontvázat idomítani? kérdi sera ash-től.. "ne aggódj, nekem is eszembe jutot.. sőt, ha a köpeny bevállik, akkor visszamegyünk a vásárba, mekkora show lesz belőle! diskurzus hogy lehetne ebből műsort csinálni, miért (nem) támadják meg egymást)
+Orik elkéri az egyik köpenyt, alaposabban megvizsgálja, de mágia nyomát nem látja rajta.
 
-Egyre izgatottabban várom a csontikat! - sera
-ash mögött meglebeg a köpeny, majd pirosra vált.
-Rorr, Sera és Nana kap egyet-egyet.
-orik ugyanolyan köpenyt bűvöl magára, mint a többieknél, a ruházata maradéka egy merchantra hajaz.
+* *`"Én megoldom magamnak ezt a köpeny kérdést.." - 💬 [Orik]`*
+* *`"Hogy lehet vajon egy csontvázat idomítani?" - 💬 [Sera/Ash-től]`*
+* *`"Ne aggódj, ez nekem is eszembe jutott! Sőt, arra gondoltam, hogy ha a köpeny tényleg beválik, akkor visszamehetnénk a vásárba, a csontikkal együtt! Képzeld csak el, mekkora show-t lehetne csinálni velük!" - 💬 [Ash]`*
+* *`"Egyre izgatottabban várom ezeket a csontikat!" - 💬 [Sera]`*
+
+Sera és Ashton tovább folytatják a diksurzust, milyen műsort lehetne vajon a csontvázakkal csinálni, a lehetséges kliensekre gondolva, stb..
+
+Ash mögött meglebeg a köpenye, majd pirosra vált a színe. Rorr, Sera és Nana kap egyet-egyet Rafitól, míg Orik ugyanolyan köpenyt bűvöl magára, mint a többieken látszik, eközben a ruházata maradéka egy merchantra hajaz.
 
 ~~~
 {🌟} +60 XP
 ~~~
 
-a lépcsők közötti ajtón eltűnik Rafi, egy szűk folyosóra lépünk be utána.
-szebben faragott oszlopok, poros minden. a folyosó végén duplaajtó, bezöldült réz foganytúval. az ajtó közepén egy gyászoló angyal domborműve.
+A lépcsők közötti ajtón eltűnik Rafi, egy szűk folyosóra lépünk be utána. Szebben faragott kőoszlopok a falak mentén, bár poros minden. A folyosó végén egy dupla ajtó, bezöldült réz foganytúval látszódik. Az ajtó közepén egy gyászoló angyal domborműve körvonalazódik.
 
-bizalomgerjesztő, patináns objektum" - jelzi meg orik, indulna az angyal felé.
+* *`"Bizalomgerjesztő, patináns objektum" - 💬 [Orik]`*
+* *`"Az már a kripta, ahova én ha belépnék, bajban lennék.." - 💬 [Rafi]`*
+* *`"Legyünk civilizáltak...hagyjuk _egyelőre_ életben" - 💬 [Rorr/Rafi kapcsán]`*
 
-"az már a kripta, ahova én ha belépnék, bajban lennék" - Rafi.
-"legyünk civilizáltak... hagyjuk _egyelőre_ életben." - rorr
+Orik alatt, ahogy elindul az angyal felé, beszakad a kő - szerencsére még időben félreugrik, nem esik le a szakadékba, a szélén imbolyog. Rafi kihasználva a helyzetet átugrana a gödör fölött, de Ash még időben reagál, tarkón találja a varázs, és a bandita arccal veszi a verem szélét.
 
-Orik alatt beszakad a kő - még időben félreugrik, nem esik le.. 20ft mély.
+* *`"Pedig én..én jófej akartam lenni.." - 💬 [Rorr/morog]`*
 
-Rafi kihasználva a helyzetet átugrana a gödör fölött, de Ash még időben reagál, tarkón találja a varázs, és arccal veszi a verem szélét.
+A bugbear a szakadék széléhez lép, és segít a hobgoblinnak kimászni a perem széléről.
+* *`"Amennyiben Rafi készült arra, hogy ő túléli, de mi nem, vajon ér -e bármit a köpeny?" - 💬 [Ashton]`*
+* *`"Mi történt? Hová lett Rafi?" - 💬 [Nana/késve belépve a folyosóra]`*
+* *`"Ott lent.." - 💬 [Rorr/lemutat]`*
 
-"pedig én..jófej akartam lenni." - rorr.. odalép Orik mellé, segít neki kimászni a perem széréől.
+Sera, Ashton és Orik egyaránt nekifutnak, és átugranak a szakadék fölött. Az eladrin hezitál, nem biztos a távolságban.
+* *`"Menni fog ez, Nana?" - 💬 [Rorr]`*
+* *`"Persze! Mutatok egy trükköt!" - 💬 [Nana/vigyorogva]`*
 
-"amennyiben Rafi készült arra, hogy ő túléli, de mi nem, vajon ér -e bármit a köpeny?" - ash
-
-nana késve ér be - "mi történt? hol van rafi?"
-"ott lent" - mutat rorr.
-
-sera, ash és orik átugranak.
-"menni fog ez, nana?" - kérdi rorr.
-"mutatok egy trükköt!" - nana, majd átportol.. 
+Nana mormol pár szót, majd egy szempillantás alatt eltűnik Rorr mellől, és a szakadék másik oldalán megjelenik. Rorr elismerően bólint, majd ő is nekifut, és átugrik a többiekhez.
 
 Sera megvizsgálja az ajtót - mágiát, csapdát nem talál rajta, de egyértelműen a kripta ajtaja.
-Benyit rajta, ott is olajlámpák fénye világít. A korábban említett három kőszarkofág áll a kriptában, mellette egy-egy csontváz. kettő férfi és egy nő nemesi vonásai látszódnak kifaragva.
-az északi oldalán egy ajtó, másik szarkofág mögött még egy.
+Benyit, ahol hasonló olajlámpák fénye világít, mint eddig. A korábban említett három kőszarkofág áll a kriptában, mellette egy-egy csontváz. Kettő férfi és egy nő nemesi vonásai látszódnak kifaragva. Az északi oldalán egy ajtó látszik, a másik szarkofág mögött még egy csukott ajtó látható.
 
 <center>
 
@@ -189,18 +189,19 @@ az északi oldalán egy ajtó, másik szarkofág mögött még egy.
 {🌟} +20 XP
 ~~~
 
-tanakodás, mi legyen a csontokkal - rozsdás páncél és rövid kard mindegyik mellett.. Sera félve összegyűjti a kardokat, és a gödörbe dobja.
+Belépve a csontvázak mozdulatlanok - talán a köpenyek hatása, talán csak Rufi alkudozott (immár feleslegesen) az életéért a csontik kapcsán.
 
-Ash a csontvázakat nézi - leveszi az egyikről a koponyáját.
-"Végülis ha akarjuk, elvihetjük későbbi használatra" - orik
-"mennyire értelmes ez a mágus? " - sera
-orik furán néz rá..
-Ashton a koponyát is a gödörbe dobja.
-Orik eközben egy csontvázat próbál a táskájába gyűrni.
+Rövid tanakodás indul, mi legyen a csontvázakkal - rozsdás páncél és rövid kard fekszik mindegyik mellett.. Sera félve összegyűjti a kardokat, és a gödörbe dobja, amibe Rufi is esett. Ash a csontvázakat nézi - leveszi az egyikről a koponyáját, azt vizsgálja.
 
-"Orik kedves, segítnél"? - sera, az egyik szarkofág tetejét eltolva - orik segítségével könnyedén eltolják a fedeleket.
+* *`"Végülis ha akarjuk, elvihetjük későbbi használatra.." - 💬 [Orik]`*
+* *`"Mennyire értelmes ez a mágus?" - 💬 [Sera]`*
 
-A szarkofágban már van egy test - egy nemesi ruha maradványaival borított csontváz, foszló hús pár helyen rajta, a kezén egy gyűrű.
+Orik furán néz rá.. A mágus, aki nekromanciában jártas és minden lépésünket ismeri, valószínűleg intelligens. Ashton végül a koponyát is a gödörbe dobja, Orik eközben egy csontvázat próbál a táskájába gyűrni.
+
+* *`"Orik kedves, segítnél?" - 💬 [Sera/egy szarkofágra mutat]`*
+
+Orik segítségével könnyedén eltolják a fedelét. A szarkofágban már van egy test - egy nemesi ruha maradványaival borított csontváz, foszló hús pár helyen rajta, a kezén egy gyűrű.
+
 Sera jelzi, hogy van ott egy gyűrű - Ash felfigyel erre. Platinum pecsétgyűrű - ragadozómadár van rajta, de nem ismeri fel. Serafinenak sem ismerős, túl sok nemesi család címerében van ilyesmi.
 
 Mind a három szarkofágot átnézik - ugyanilyen gyűrű van mind a háromban, a kúria (~név korábbról~) nemesi családja valószínűleg.

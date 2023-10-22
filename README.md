@@ -9,7 +9,7 @@
  - [Orik Spellweaver](https://www.dndbeyond.com/characters/98359595)
  - [Rorr Stronghand](https://www.dndbeyond.com/characters/98146623)
  - [Serafina Blackwood (Sera)](https://www.dndbeyond.com/characters/98375846)
- - [?](https://www.dndbeyond.com/characters/?)
+ - [Val Rannel](https://www.dndbeyond.com/characters/107405601)
 
 ## Jegyzetek
 
@@ -26,6 +26,7 @@
 * [Session 9](./session-9.md)
 * [Session 10](./session-10.md)
 * [Session 11](./session-11.md)
+* [Session 12](./session-12.md)
 
 ## Ki kicsoda / Névmutató
 
