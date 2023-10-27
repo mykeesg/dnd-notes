@@ -4,7 +4,7 @@ Ha egy fontosabb név elhangzott, amely NPC valamiért érdekes lehet, arról p�
 
 ## Gundren Rockseeker
 
-A Rockseeker testvérek egyike, aki kalandozókat eredetileg felbérelte. A küldetés egyszerű: Phandalinba kell eljuttatni egy szekeret, annak minden rakományával együtt, épségben. Az escort során kiderült, hogy a goblinok rajtaütöttek az előre lovagló Gundren+Sildar pároson, amit a lovak nem éltek túl. Az egyik támagdó goblint kihallgatva kiderült, hogy Gundrent a *"király"*hoz vitték, elválasztották Sildartól. Két testvére, Nundro és Tharden már Phandalinban vannak, a bánya bejárata körül tanyáznak. 🔁
+A Rockseeker testvérek egyike, aki kalandozókat eredetileg felbérelte. A küldetés egyszerű: Phandalinba kell eljuttatni egy szekeret, annak minden rakományával együtt, épségben. Az escort során kiderült, hogy a goblinok rajtaütöttek az előre lovagló Gundren+Sildar pároson, amit a lovak nem éltek túl. Az egyik támagdó goblint kihallgatva kiderült, hogy Gundrent a *"királyhoz"* vitték, elválasztották Sildartól. Két testvére, Nundro és Tharden már Phandalinban vannak, a bánya bejárata körül tanyáznak. 🔁
 
 <center>
 
@@ -93,7 +93,7 @@ Idősebb fél-elf kalandozó, aki a Phandalin melletti gyümölcsös mellett tel
 
 </center>
 
-## Iarno Albrek
+## Iarno Albrek / Glassstaff
 
 A Lordok Szövetségének mágus tagja, aki Sildar és Gundren mellett a phandalini bánya, és a hozzá tartozó térkép létezéséről tudomást szerzett. Iarno, a kaland kezdete előtt pár hónappal eltűnt - Phandalint és a helyi lakosságot azóta banditák fosztogatják. Sildar fő célja, hogy előkerítse őt, hogy helyre álljon a rend a településen. 🔁
 
