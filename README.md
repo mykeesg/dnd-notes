@@ -29,6 +29,11 @@
 * [Session 12](./session-12.md)
 * [Session 13](./session-13.md)
 
+## Quest log
+
+Külön lapon, [itt olvasható](./quest-log.md).
+
+
 ## Ki kicsoda / Névmutató
 
 Külön lapon, [itt olvasható](./who-is-who.md).
