@@ -110,7 +110,7 @@ Az asztalon szépen rendezett papírok - a legtöbb rendelés alchemy alapanyago
 
 "nem kellünk ott fönt?" kérdi asht Rorr.
 "ha elég gyors lennék, már utolértem volna.. nem vagyok friss." - jön a válasz.
-"hát..gyors én sem vagyok.." - mondja a bugbear, és megnézi a ládát inkább. Felnyitja a ládát, belenéz - GS félrerakta a redbrandek zsákmányát - 130 arany, 180 ezüst, egy tasak (5+2 drágakő, egy gyöngy). Két tekercset is elrak még a bugbear.
+"hát..gyors én sem vagyok.." - mondja a bugbear, és megnézi a ládát inkább. Felnyitja a ládát, belenéz - GS félrerakta a redbrandek zsákmányát - 130 arany, 180 ezüst, egy tasak (5 borostyánsárga kő (10g/db, 2 zöld másik drágakő (15g/db), egy gyöngy)). Két tekercset is elrak még a bugbear.
 "Hátha a többiek megállítják, és utolérjük!" mondja Rorr még Ash-nek, és indul a többiek után a lépcsőn.
 
 Orik Nana után szalad, átugrik a szakadék fölött, Nana mellett ér földet.
