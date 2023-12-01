@@ -1,4 +1,4 @@
-# Session 14 | 2023. 11. 22. (szerda)
+# Session 15 | 2023. 11. 22. (szerda)
 
 viszonylag egyszerre ébredünk.
 rorr tök jól van, Orik is elégedett. Nana még mindig nem érti a látomásait.
@@ -438,8 +438,11 @@ nos, ön is kedvezményt adott, 10%ot mi is így teszünk, legyen 90%! - ash
 
 
 mindenki bólogat, átveszi a fegyvereket, 197 arany 5 ezüst.
+(33g mindenkinek)
 
 "ha nem fegyverekkel kereskednénk, azt is átveszed, vagy keressünk másik árust?"
 én főleg fegyverek/páncélokra szakosodom, illetve arra amit Barten nem árul, hiszen nem versengünk egymással.
+
+{{trading}}
 
 könnyebb táskával távozunk innen.

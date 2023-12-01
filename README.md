@@ -30,6 +30,7 @@
 * [Session 13](./session-13.md)
 * [Session 14](./session-14.md)
 * [Session 15](./session-15.md)
+* [Session 16](./session-16.md)
 
 ## Quest log
 
