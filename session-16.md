@@ -255,9 +255,9 @@ g: csak ma reggel óta?
 a: ma óta kifejezetten... eddig is voltak, de eddig törékyen árnyak voltak, hosszabb-rövidebb ideig szórakoztattak, de _ez_, ez kifejezetten kitartó {mutat a semmibe}
 
 g: elmormol egy varázsigét Ash vála felé nézve {Orik mered oda ahova mutatott}, majd visszahőköl egy picit.. "azt hiszem értem mire gondolsz.." te tudod mi ez?
-a: azt mondta hogy Biscuit-nek nevezik..
+a: azt mondta hogy Bizcuit-nek nevezik..
 g: és szeretnél tőle megszabadulni?
-a: azt hiszem... {biscuit rázza a fejét} nemm...deee..neeeem.. egyelőre megérteni szeretném.. jobban értem mint szeretném és ő is jobban engem mint szeretném, de nem értem miért van itt.
+a: azt hiszem... {Bizcuit rázza a fejét} nemm...deee..neeeem.. egyelőre megérteni szeretném.. jobban értem mint szeretném és ő is jobban engem mint szeretném, de nem értem miért van itt.
 g: ha beleegyezel lehet tudok segíteni.
 a: i guess?
 s: ez nem ártalmas?
@@ -343,14 +343,14 @@ g: azt tudnotok kell hogy ha fontolóra veszitek szükségem van egy gyémántra
 o: milyen értékűre?
 g: egészen pontosan gyémántporra 100g értékben.. szóval gondoltam jobb ha tudtok erről
 a: ebben nem vagyok biztos.. mindig nem tudom miről tudok vagy kéne tundom.. egészen zavaros, jobban mint szokott
-g: én sem.. a kis barátod talán többet tud a dolgokról {biscuit bólogat}
+g: én sem.. a kis barátod talán többet tud a dolgokról {Bizcuit bólogat}
 o: miközben ti folytatjátok a beszélgetést, megtennéd hogy 10 perce nyugton maradsz?
 g: részemről ennyit szerettem volna átadni, a két üzenetet meg egy kicsit bezavarni - úgy tűnik..
 a: ty.. gondolkodj de ne túl sokat, az lehet többet árt.. találkozunk ha ab nashee-vel végeztetek - mármint az ügygel. sok szerencsét ahogy felénk mondják! --távozik
 o: identify rituáléba kezd Ashtonon.
 
 ashton a levegőbe beszél az imppet faggatja - aztán csak fejben folytatja.. aztán megkéri hogy ne legyen láthattalan mert úgy tűnik mindenki látja.
-team -biscuit.. biscuit - team.
+team -Bizcuit.. Bizcuit - team.
 tűéles fogakkal teli vigyor, piros fej, két szárny és farkinca mint skorpiónak, meg 4 végtag, repked
 
 v: te voltál a szúnyog?

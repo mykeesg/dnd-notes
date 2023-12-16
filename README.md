@@ -31,11 +31,12 @@
 * [Session 14](./session-14.md)
 * [Session 15](./session-15.md)
 * [Session 16](./session-16.md)
+* [Session 17](./session-17.md)
+* [Session 18](./session-18.md)
 
 ## Quest log
 
 Külön lapon, [itt olvasható](./quest-log.md).
-
 
 ## Ki kicsoda / Névmutató
 
