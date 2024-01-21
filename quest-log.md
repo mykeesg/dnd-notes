@@ -12,6 +12,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 💰 Jutalom: ❓
 
+🌍 Helyszín: Cragmaw kastély
+
 🤝 Felvéve: [Session 6](./session-6.md)
 
 ### A hiányzó Lord
@@ -20,6 +22,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 💰 Jutalom: 200🥇
 
+🌍 Helyszín: Phandalin
+
 🤝 Felvéve: [Session 8](./session-8.md)
 
 ### Törékeny üvegcse
@@ -27,6 +31,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 📋 Halia Thornton üzleti vállalkozását a vörös kendős banditák kezdik negatívan befolyásolni. A vezetőjük - a **'Glasstaff'** néven elhíresült mágus - kikérdezésével, majd likvidálásával az akadályok elhárulhatnának a bányászcéh elől.
 
 💰 Jutalom: 100🥇, infó Churrark koponyájáról
+
+🌍 Helyszín: Phandalin
 
 🤝 Felvéve: [Session 8](./session-8.md)
 
@@ -44,6 +50,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 💰 Jutalom: ❓
 
+🌍 Helyszín: Phandalin
+
 🤝 Felvéve: [Session 8](./session-8.md)
 
 ### Rajtaütés a portyázókon
@@ -51,6 +59,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 📋 A környék hegyeiben élő orkok bátrabbak, lejöttek a hegyekből, Phandalintól északra és észak-keletre egyre sűrűbb portyázásokról érkezik hír. A településben még nem okoztak kárt, de a falusiak egyre nyugtalanabbak a hírek hallatán.
 
 💰 Jutalom: ❓
+
+🌍 Helyszín: Triobar ösvény
 
 🤝 Felvéve: [Session 8](./session-8.md)
 
@@ -60,6 +70,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 💰 Jutalom: ❓
 
+🌍 Helyszín: Gnomengarde
+
 🤝 Felvéve: [Session 8](./session-8.md)
 
 ### Öreg Bagoly kút - kutatás fiataloknak
@@ -67,6 +79,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 📋 A phandalini bányászok a másfél napnyi járásra található Öreg Bagoly kút környékén lévő tárnákat nem tudják feltárni és kitermelni - az a szóbeszéd járja, hogy élőholtak őrzik az egykori kutat, és a közelében lévő régi őrtorony romjait. Daran Edermath, az öreg kalandor rendkívül kíváncsi a történtekre, ha arra járunk, örömmel venné, ha beszámolnánk a körülményekről.
 
 💰 Jutalom: ❓
+
+🌍 Helyszín: Old Owl Well
 
 🤝 Felvéve: [Session 8](./session-8.md)
 
@@ -76,6 +90,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 💰 Jutalom: ❓
 
+🌍 Helyszín: Tower of Storms
+
 🤝 Felvéve: [Session 9](./session-9.md)
 
 ### Ékszer észszerűen? Ékszerész-szerűen!
@@ -83,6 +99,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 📋 Mirna Dendrar Thundertree-ben nőtt fel, mielőtt az élőholtak támadása miatt elhagyták a várost. A család egy alkimista bolt tulajdonosa volt, melynek padlója alá egy smaragd nyakéket rejtett egy kis dobozba. Amennyiben a kalandorok oda merészkednek, és megszerzik, az övék lehet az ékszer.
 
 💰 Jutalom: ❓ (megtartható a nyaklánc)
+
+🌍 Helyszín: Thundertree
 
 🤝 Felvéve: [Session 11](./session-11.md)
 
@@ -94,6 +112,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 💰 Jutalom: 50🥇
 
+🌍 Helyszín: Neverwinter - Phandalin
+
 🤝 Felvéve: [Session 0](./session-0.md)
 
 ✅ Teljesítve: [Session 8](./session-8.md)
@@ -104,6 +124,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 
 💰 Jutalom: 50🥇
 
+🌍 Helyszín: Neverwinter - Phandalin
+
 🤝 Felvéve: [Session 6](./session-6.md)
 
 ✅ Teljesítve: [Session 7](./session-7.md)
@@ -113,6 +135,8 @@ A sorrend ad-hoc, elsődlegesen a "*mikor vette fel a party*" sorrendet követi.
 📋 Sildar kiszabadítása során a kalandorok több, kék oroszlánfejjel ellátott ládát találtak a golbinok barlangjában. Mint kiderült, ezeket az utánpótlásokat a Lionshield Costertől zsákmányolták a goblinok. A kalandorok felpakolták a ládákat, és visszajuttatták azokat Linene Greywindnek, a phandalini üzlet tulajdonosának.
 
 💰 Jutalom: 50🥇, 10% kedvezmény a jövőbeli vásárlások során
+
+🌍 Helyszín: Phandalin
 
 🤝 Felvéve: [Session 7](./session-7.md)
 
